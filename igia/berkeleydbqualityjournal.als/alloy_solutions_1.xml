@@ -1,6 +1,6 @@
 <alloy builddate="unknown">
 
-<instance bitwidth="12" maxseq="4" command="Run featureSet for 12 int, exactly 1 BerkeleyDbC optimize o_global" filename="">
+<instance bitwidth="13" maxseq="4" command="Run featureSet for 13 int, exactly 1 BerkeleyDbC optimize o_global" filename="">
 
 <sig label="seq/Int" ID="0" parentID="1" builtin="yes">
 </sig>

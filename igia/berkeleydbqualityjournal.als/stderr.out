@@ -1,187 +1,179 @@
-Feb 01, 2014 3:35:58 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
-FINE: Found a solution. At time: 24, Improving on [0, 340, 0]
-Feb 01, 2014 3:35:58 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+Feb 01, 2014 1:22:05 PM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 107, Improving on [0, 340, 0]
+Feb 01, 2014 1:22:05 PM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
 FINE: Possible Improvements are conjunction of 
 	(sum(this/BerkeleyDbC.totalReliability) >= 0)
 	(sum(this/BerkeleyDbC.totalFootprint) <= 340)
 	(sum(this/BerkeleyDbC.totalPrice) <= 0)
 	((sum(this/BerkeleyDbC.totalReliability) > 0) || (sum(this/BerkeleyDbC.totalFootprint) < 340) || (sum(this/BerkeleyDbC.totalPrice) < 0))
-Feb 01, 2014 3:36:00 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+Feb 01, 2014 1:22:09 PM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
 FINE: Found Pareto point with values: [0, 340, 0]
-Feb 01, 2014 3:36:25 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
-FINE: Found a solution. At time: 50, Improving on [2, 2043, 525]
-Feb 01, 2014 3:36:25 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+Feb 01, 2014 1:24:10 PM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 232, Improving on [1, 557, 150]
+Feb 01, 2014 1:24:10 PM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
 FINE: Possible Improvements are conjunction of 
-	(sum(this/BerkeleyDbC.totalReliability) >= 2)
-	(sum(this/BerkeleyDbC.totalFootprint) <= 2043)
-	(sum(this/BerkeleyDbC.totalPrice) <= 525)
-	((sum(this/BerkeleyDbC.totalReliability) > 2) || (sum(this/BerkeleyDbC.totalFootprint) < 2043) || (sum(this/BerkeleyDbC.totalPrice) < 525))
-Feb 01, 2014 3:36:25 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
-FINE: Found a solution. At time: 50, Improving on [2, 583, 525]
-Feb 01, 2014 3:36:25 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+	(sum(this/BerkeleyDbC.totalReliability) >= 1)
+	(sum(this/BerkeleyDbC.totalFootprint) <= 557)
+	(sum(this/BerkeleyDbC.totalPrice) <= 150)
+	((sum(this/BerkeleyDbC.totalReliability) > 1) || (sum(this/BerkeleyDbC.totalFootprint) < 557) || (sum(this/BerkeleyDbC.totalPrice) < 150))
+Feb 01, 2014 1:24:11 PM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 233, Improving on [1, 529, 100]
+Feb 01, 2014 1:24:11 PM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
 FINE: Possible Improvements are conjunction of 
-	(sum(this/BerkeleyDbC.totalReliability) >= 2)
-	(sum(this/BerkeleyDbC.totalFootprint) <= 583)
-	(sum(this/BerkeleyDbC.totalPrice) <= 525)
-	((sum(this/BerkeleyDbC.totalReliability) > 2) || (sum(this/BerkeleyDbC.totalFootprint) < 583) || (sum(this/BerkeleyDbC.totalPrice) < 525))
-Feb 01, 2014 3:36:25 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
-FINE: Found a solution. At time: 51, Improving on [2, 563, 475]
-Feb 01, 2014 3:36:25 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
-FINE: Possible Improvements are conjunction of 
-	(sum(this/BerkeleyDbC.totalReliability) >= 2)
-	(sum(this/BerkeleyDbC.totalFootprint) <= 563)
-	(sum(this/BerkeleyDbC.totalPrice) <= 475)
-	((sum(this/BerkeleyDbC.totalReliability) > 2) || (sum(this/BerkeleyDbC.totalFootprint) < 563) || (sum(this/BerkeleyDbC.totalPrice) < 475))
-Feb 01, 2014 3:36:25 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
-FINE: Found a solution. At time: 51, Improving on [2, 535, 425]
-Feb 01, 2014 3:36:25 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
-FINE: Possible Improvements are conjunction of 
-	(sum(this/BerkeleyDbC.totalReliability) >= 2)
-	(sum(this/BerkeleyDbC.totalFootprint) <= 535)
-	(sum(this/BerkeleyDbC.totalPrice) <= 425)
-	((sum(this/BerkeleyDbC.totalReliability) > 2) || (sum(this/BerkeleyDbC.totalFootprint) < 535) || (sum(this/BerkeleyDbC.totalPrice) < 425))
-Feb 01, 2014 3:36:27 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
-FINE: Found a solution. At time: 52, Improving on [2, 507, 350]
-Feb 01, 2014 3:36:27 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
-FINE: Possible Improvements are conjunction of 
-	(sum(this/BerkeleyDbC.totalReliability) >= 2)
-	(sum(this/BerkeleyDbC.totalFootprint) <= 507)
-	(sum(this/BerkeleyDbC.totalPrice) <= 350)
-	((sum(this/BerkeleyDbC.totalReliability) > 2) || (sum(this/BerkeleyDbC.totalFootprint) < 507) || (sum(this/BerkeleyDbC.totalPrice) < 350))
-Feb 01, 2014 3:36:28 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
-FINE: Found a solution. At time: 53, Improving on [2, 499, 350]
-Feb 01, 2014 3:36:28 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
-FINE: Possible Improvements are conjunction of 
-	(sum(this/BerkeleyDbC.totalReliability) >= 2)
-	(sum(this/BerkeleyDbC.totalFootprint) <= 499)
-	(sum(this/BerkeleyDbC.totalPrice) <= 350)
-	((sum(this/BerkeleyDbC.totalReliability) > 2) || (sum(this/BerkeleyDbC.totalFootprint) < 499) || (sum(this/BerkeleyDbC.totalPrice) < 350))
-Feb 01, 2014 3:36:30 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
-FINE: Found a solution. At time: 55, Improving on [2, 479, 300]
-Feb 01, 2014 3:36:30 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
-FINE: Possible Improvements are conjunction of 
-	(sum(this/BerkeleyDbC.totalReliability) >= 2)
-	(sum(this/BerkeleyDbC.totalFootprint) <= 479)
-	(sum(this/BerkeleyDbC.totalPrice) <= 300)
-	((sum(this/BerkeleyDbC.totalReliability) > 2) || (sum(this/BerkeleyDbC.totalFootprint) < 479) || (sum(this/BerkeleyDbC.totalPrice) < 300))
-Feb 01, 2014 3:36:31 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
-FINE: Found Pareto point with values: [2, 479, 300]
-Feb 01, 2014 3:36:55 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
-FINE: Found a solution. At time: 80, Improving on [3, 709, 650]
-Feb 01, 2014 3:36:55 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
-FINE: Possible Improvements are conjunction of 
-	(sum(this/BerkeleyDbC.totalReliability) >= 3)
-	(sum(this/BerkeleyDbC.totalFootprint) <= 709)
-	(sum(this/BerkeleyDbC.totalPrice) <= 650)
-	((sum(this/BerkeleyDbC.totalReliability) > 3) || (sum(this/BerkeleyDbC.totalFootprint) < 709) || (sum(this/BerkeleyDbC.totalPrice) < 650))
-Feb 01, 2014 3:36:55 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
-FINE: Found a solution. At time: 81, Improving on [3, 690, 350]
-Feb 01, 2014 3:36:55 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
-FINE: Possible Improvements are conjunction of 
-	(sum(this/BerkeleyDbC.totalReliability) >= 3)
-	(sum(this/BerkeleyDbC.totalFootprint) <= 690)
-	(sum(this/BerkeleyDbC.totalPrice) <= 350)
-	((sum(this/BerkeleyDbC.totalReliability) > 3) || (sum(this/BerkeleyDbC.totalFootprint) < 690) || (sum(this/BerkeleyDbC.totalPrice) < 350))
-Feb 01, 2014 3:36:55 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
-FINE: Found a solution. At time: 81, Improving on [3, 670, 300]
-Feb 01, 2014 3:36:55 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
-FINE: Possible Improvements are conjunction of 
-	(sum(this/BerkeleyDbC.totalReliability) >= 3)
-	(sum(this/BerkeleyDbC.totalFootprint) <= 670)
-	(sum(this/BerkeleyDbC.totalPrice) <= 300)
-	((sum(this/BerkeleyDbC.totalReliability) > 3) || (sum(this/BerkeleyDbC.totalFootprint) < 670) || (sum(this/BerkeleyDbC.totalPrice) < 300))
-Feb 01, 2014 3:36:57 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
-FINE: Found Pareto point with values: [3, 670, 300]
-Feb 01, 2014 3:37:21 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
-FINE: Found a solution. At time: 106, Improving on [2, 2041, 100]
-Feb 01, 2014 3:37:21 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
-FINE: Possible Improvements are conjunction of 
-	(sum(this/BerkeleyDbC.totalReliability) >= 2)
-	(sum(this/BerkeleyDbC.totalFootprint) <= 2041)
+	(sum(this/BerkeleyDbC.totalReliability) >= 1)
+	(sum(this/BerkeleyDbC.totalFootprint) <= 529)
 	(sum(this/BerkeleyDbC.totalPrice) <= 100)
-	((sum(this/BerkeleyDbC.totalReliability) > 2) || (sum(this/BerkeleyDbC.totalFootprint) < 2041) || (sum(this/BerkeleyDbC.totalPrice) < 100))
-Feb 01, 2014 3:37:21 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
-FINE: Found a solution. At time: 107, Improving on [2, 581, 100]
-Feb 01, 2014 3:37:21 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
-FINE: Possible Improvements are conjunction of 
-	(sum(this/BerkeleyDbC.totalReliability) >= 2)
-	(sum(this/BerkeleyDbC.totalFootprint) <= 581)
-	(sum(this/BerkeleyDbC.totalPrice) <= 100)
-	((sum(this/BerkeleyDbC.totalReliability) > 2) || (sum(this/BerkeleyDbC.totalFootprint) < 581) || (sum(this/BerkeleyDbC.totalPrice) < 100))
-Feb 01, 2014 3:37:22 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
-FINE: Found Pareto point with values: [2, 581, 100]
-Feb 01, 2014 3:37:47 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
-FINE: Found a solution. At time: 132, Improving on [1, 2011, 50]
-Feb 01, 2014 3:37:47 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
-FINE: Possible Improvements are conjunction of 
-	(sum(this/BerkeleyDbC.totalReliability) >= 1)
-	(sum(this/BerkeleyDbC.totalFootprint) <= 2011)
-	(sum(this/BerkeleyDbC.totalPrice) <= 50)
-	((sum(this/BerkeleyDbC.totalReliability) > 1) || (sum(this/BerkeleyDbC.totalFootprint) < 2011) || (sum(this/BerkeleyDbC.totalPrice) < 50))
-Feb 01, 2014 3:37:47 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
-FINE: Found a solution. At time: 133, Improving on [1, 690, 50]
-Feb 01, 2014 3:37:47 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
-FINE: Possible Improvements are conjunction of 
-	(sum(this/BerkeleyDbC.totalReliability) >= 1)
-	(sum(this/BerkeleyDbC.totalFootprint) <= 690)
-	(sum(this/BerkeleyDbC.totalPrice) <= 50)
-	((sum(this/BerkeleyDbC.totalReliability) > 1) || (sum(this/BerkeleyDbC.totalFootprint) < 690) || (sum(this/BerkeleyDbC.totalPrice) < 50))
-Feb 01, 2014 3:37:48 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
-FINE: Found a solution. At time: 133, Improving on [1, 551, 50]
-Feb 01, 2014 3:37:48 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
-FINE: Possible Improvements are conjunction of 
-	(sum(this/BerkeleyDbC.totalReliability) >= 1)
-	(sum(this/BerkeleyDbC.totalFootprint) <= 551)
-	(sum(this/BerkeleyDbC.totalPrice) <= 50)
-	((sum(this/BerkeleyDbC.totalReliability) > 1) || (sum(this/BerkeleyDbC.totalFootprint) < 551) || (sum(this/BerkeleyDbC.totalPrice) < 50))
-Feb 01, 2014 3:37:48 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
-FINE: Found a solution. At time: 133, Improving on [1, 531, 0]
-Feb 01, 2014 3:37:48 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
-FINE: Possible Improvements are conjunction of 
-	(sum(this/BerkeleyDbC.totalReliability) >= 1)
-	(sum(this/BerkeleyDbC.totalFootprint) <= 531)
-	(sum(this/BerkeleyDbC.totalPrice) <= 0)
-	((sum(this/BerkeleyDbC.totalReliability) > 1) || (sum(this/BerkeleyDbC.totalFootprint) < 531) || (sum(this/BerkeleyDbC.totalPrice) < 0))
-Feb 01, 2014 3:37:49 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
-FINE: Found Pareto point with values: [1, 531, 0]
-Feb 01, 2014 3:38:14 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
-FINE: Found a solution. At time: 159, Improving on [1, 457, 250]
-Feb 01, 2014 3:38:14 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
-FINE: Possible Improvements are conjunction of 
-	(sum(this/BerkeleyDbC.totalReliability) >= 1)
-	(sum(this/BerkeleyDbC.totalFootprint) <= 457)
-	(sum(this/BerkeleyDbC.totalPrice) <= 250)
-	((sum(this/BerkeleyDbC.totalReliability) > 1) || (sum(this/BerkeleyDbC.totalFootprint) < 457) || (sum(this/BerkeleyDbC.totalPrice) < 250))
-Feb 01, 2014 3:38:14 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
-FINE: Found a solution. At time: 160, Improving on [1, 429, 200]
-Feb 01, 2014 3:38:14 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
-FINE: Possible Improvements are conjunction of 
-	(sum(this/BerkeleyDbC.totalReliability) >= 1)
-	(sum(this/BerkeleyDbC.totalFootprint) <= 429)
-	(sum(this/BerkeleyDbC.totalPrice) <= 200)
-	((sum(this/BerkeleyDbC.totalReliability) > 1) || (sum(this/BerkeleyDbC.totalFootprint) < 429) || (sum(this/BerkeleyDbC.totalPrice) < 200))
-Feb 01, 2014 3:38:15 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
-FINE: Found a solution. At time: 160, Improving on [1, 390, 100]
-Feb 01, 2014 3:38:15 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+	((sum(this/BerkeleyDbC.totalReliability) > 1) || (sum(this/BerkeleyDbC.totalFootprint) < 529) || (sum(this/BerkeleyDbC.totalPrice) < 100))
+Feb 01, 2014 1:24:12 PM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 234, Improving on [1, 390, 100]
+Feb 01, 2014 1:24:12 PM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
 FINE: Possible Improvements are conjunction of 
 	(sum(this/BerkeleyDbC.totalReliability) >= 1)
 	(sum(this/BerkeleyDbC.totalFootprint) <= 390)
 	(sum(this/BerkeleyDbC.totalPrice) <= 100)
 	((sum(this/BerkeleyDbC.totalReliability) > 1) || (sum(this/BerkeleyDbC.totalFootprint) < 390) || (sum(this/BerkeleyDbC.totalPrice) < 100))
-Feb 01, 2014 3:38:16 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+Feb 01, 2014 1:24:15 PM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
 FINE: Found Pareto point with values: [1, 390, 100]
-Feb 01, 2014 3:38:45 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
-FINE: All Pareto points found. At time: 190
-Feb 01, 2014 3:38:45 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm debugWriteStatistics
+Feb 01, 2014 1:26:07 PM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 350, Improving on [3, 2205, 725]
+Feb 01, 2014 1:26:07 PM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/BerkeleyDbC.totalReliability) >= 3)
+	(sum(this/BerkeleyDbC.totalFootprint) <= 2205)
+	(sum(this/BerkeleyDbC.totalPrice) <= 725)
+	((sum(this/BerkeleyDbC.totalReliability) > 3) || (sum(this/BerkeleyDbC.totalFootprint) < 2205) || (sum(this/BerkeleyDbC.totalPrice) < 725))
+Feb 01, 2014 1:26:08 PM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 350, Improving on [3, 745, 725]
+Feb 01, 2014 1:26:08 PM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/BerkeleyDbC.totalReliability) >= 3)
+	(sum(this/BerkeleyDbC.totalFootprint) <= 745)
+	(sum(this/BerkeleyDbC.totalPrice) <= 725)
+	((sum(this/BerkeleyDbC.totalReliability) > 3) || (sum(this/BerkeleyDbC.totalFootprint) < 745) || (sum(this/BerkeleyDbC.totalPrice) < 725))
+Feb 01, 2014 1:26:09 PM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 352, Improving on [3, 698, 350]
+Feb 01, 2014 1:26:09 PM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/BerkeleyDbC.totalReliability) >= 3)
+	(sum(this/BerkeleyDbC.totalFootprint) <= 698)
+	(sum(this/BerkeleyDbC.totalPrice) <= 350)
+	((sum(this/BerkeleyDbC.totalReliability) > 3) || (sum(this/BerkeleyDbC.totalFootprint) < 698) || (sum(this/BerkeleyDbC.totalPrice) < 350))
+Feb 01, 2014 1:26:10 PM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 352, Improving on [3, 670, 300]
+Feb 01, 2014 1:26:10 PM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/BerkeleyDbC.totalReliability) >= 3)
+	(sum(this/BerkeleyDbC.totalFootprint) <= 670)
+	(sum(this/BerkeleyDbC.totalPrice) <= 300)
+	((sum(this/BerkeleyDbC.totalReliability) > 3) || (sum(this/BerkeleyDbC.totalFootprint) < 670) || (sum(this/BerkeleyDbC.totalPrice) < 300))
+Feb 01, 2014 1:26:13 PM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+FINE: Found Pareto point with values: [3, 670, 300]
+Feb 01, 2014 1:27:48 PM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 451, Improving on [2, 526, 650]
+Feb 01, 2014 1:27:48 PM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/BerkeleyDbC.totalReliability) >= 2)
+	(sum(this/BerkeleyDbC.totalFootprint) <= 526)
+	(sum(this/BerkeleyDbC.totalPrice) <= 650)
+	((sum(this/BerkeleyDbC.totalReliability) > 2) || (sum(this/BerkeleyDbC.totalFootprint) < 526) || (sum(this/BerkeleyDbC.totalPrice) < 650))
+Feb 01, 2014 1:27:49 PM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 451, Improving on [2, 479, 300]
+Feb 01, 2014 1:27:49 PM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/BerkeleyDbC.totalReliability) >= 2)
+	(sum(this/BerkeleyDbC.totalFootprint) <= 479)
+	(sum(this/BerkeleyDbC.totalPrice) <= 300)
+	((sum(this/BerkeleyDbC.totalReliability) > 2) || (sum(this/BerkeleyDbC.totalFootprint) < 479) || (sum(this/BerkeleyDbC.totalPrice) < 300))
+Feb 01, 2014 1:27:53 PM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+FINE: Found Pareto point with values: [2, 479, 300]
+Feb 01, 2014 1:29:14 PM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 537, Improving on [1, 2150, 50]
+Feb 01, 2014 1:29:14 PM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/BerkeleyDbC.totalReliability) >= 1)
+	(sum(this/BerkeleyDbC.totalFootprint) <= 2150)
+	(sum(this/BerkeleyDbC.totalPrice) <= 50)
+	((sum(this/BerkeleyDbC.totalReliability) > 1) || (sum(this/BerkeleyDbC.totalFootprint) < 2150) || (sum(this/BerkeleyDbC.totalPrice) < 50))
+Feb 01, 2014 1:29:15 PM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 537, Improving on [1, 2130, 0]
+Feb 01, 2014 1:29:15 PM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/BerkeleyDbC.totalReliability) >= 1)
+	(sum(this/BerkeleyDbC.totalFootprint) <= 2130)
+	(sum(this/BerkeleyDbC.totalPrice) <= 0)
+	((sum(this/BerkeleyDbC.totalReliability) > 1) || (sum(this/BerkeleyDbC.totalFootprint) < 2130) || (sum(this/BerkeleyDbC.totalPrice) < 0))
+Feb 01, 2014 1:29:15 PM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 538, Improving on [1, 1991, 0]
+Feb 01, 2014 1:29:15 PM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/BerkeleyDbC.totalReliability) >= 1)
+	(sum(this/BerkeleyDbC.totalFootprint) <= 1991)
+	(sum(this/BerkeleyDbC.totalPrice) <= 0)
+	((sum(this/BerkeleyDbC.totalReliability) > 1) || (sum(this/BerkeleyDbC.totalFootprint) < 1991) || (sum(this/BerkeleyDbC.totalPrice) < 0))
+Feb 01, 2014 1:29:16 PM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 538, Improving on [1, 531, 0]
+Feb 01, 2014 1:29:16 PM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/BerkeleyDbC.totalReliability) >= 1)
+	(sum(this/BerkeleyDbC.totalFootprint) <= 531)
+	(sum(this/BerkeleyDbC.totalPrice) <= 0)
+	((sum(this/BerkeleyDbC.totalReliability) > 1) || (sum(this/BerkeleyDbC.totalFootprint) < 531) || (sum(this/BerkeleyDbC.totalPrice) < 0))
+Feb 01, 2014 1:29:18 PM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+FINE: Found Pareto point with values: [1, 531, 0]
+Feb 01, 2014 1:30:42 PM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 624, Improving on [2, 2117, 275]
+Feb 01, 2014 1:30:42 PM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/BerkeleyDbC.totalReliability) >= 2)
+	(sum(this/BerkeleyDbC.totalFootprint) <= 2117)
+	(sum(this/BerkeleyDbC.totalPrice) <= 275)
+	((sum(this/BerkeleyDbC.totalReliability) > 2) || (sum(this/BerkeleyDbC.totalFootprint) < 2117) || (sum(this/BerkeleyDbC.totalPrice) < 275))
+Feb 01, 2014 1:30:42 PM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 625, Improving on [2, 657, 275]
+Feb 01, 2014 1:30:42 PM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/BerkeleyDbC.totalReliability) >= 2)
+	(sum(this/BerkeleyDbC.totalFootprint) <= 657)
+	(sum(this/BerkeleyDbC.totalPrice) <= 275)
+	((sum(this/BerkeleyDbC.totalReliability) > 2) || (sum(this/BerkeleyDbC.totalFootprint) < 657) || (sum(this/BerkeleyDbC.totalPrice) < 275))
+Feb 01, 2014 1:30:43 PM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 625, Improving on [2, 637, 225]
+Feb 01, 2014 1:30:43 PM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/BerkeleyDbC.totalReliability) >= 2)
+	(sum(this/BerkeleyDbC.totalFootprint) <= 637)
+	(sum(this/BerkeleyDbC.totalPrice) <= 225)
+	((sum(this/BerkeleyDbC.totalReliability) > 2) || (sum(this/BerkeleyDbC.totalFootprint) < 637) || (sum(this/BerkeleyDbC.totalPrice) < 225))
+Feb 01, 2014 1:30:44 PM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 626, Improving on [2, 601, 150]
+Feb 01, 2014 1:30:44 PM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/BerkeleyDbC.totalReliability) >= 2)
+	(sum(this/BerkeleyDbC.totalFootprint) <= 601)
+	(sum(this/BerkeleyDbC.totalPrice) <= 150)
+	((sum(this/BerkeleyDbC.totalReliability) > 2) || (sum(this/BerkeleyDbC.totalFootprint) < 601) || (sum(this/BerkeleyDbC.totalPrice) < 150))
+Feb 01, 2014 1:30:45 PM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 627, Improving on [2, 581, 100]
+Feb 01, 2014 1:30:45 PM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/BerkeleyDbC.totalReliability) >= 2)
+	(sum(this/BerkeleyDbC.totalFootprint) <= 581)
+	(sum(this/BerkeleyDbC.totalPrice) <= 100)
+	((sum(this/BerkeleyDbC.totalReliability) > 2) || (sum(this/BerkeleyDbC.totalFootprint) < 581) || (sum(this/BerkeleyDbC.totalPrice) < 100))
+Feb 01, 2014 1:30:46 PM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+FINE: Found Pareto point with values: [2, 581, 100]
+Feb 01, 2014 1:32:20 PM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: All Pareto points found. At time: 722
+Feb 01, 2014 1:32:20 PM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm debugWriteStatistics
 FINE: Solver statistics:
-	# Sat Call: 20
+	# Sat Call: 19
 	# Unsat Call: 7
-	# Total Time in Sat Calls: 154187
-	# Total Time in Sat Calls Solving: 11760
-	# Total Time in Sat Calls Translating: 142427
-	# Total Time in Unsat Calls: 31210
-	# Total Time in Unsat Calls Solving: 6256
-	# Total Time in Unsat Calls Translating: 24954
+	# Total Time in Sat Calls: 610250
+	# Total Time in Sat Calls Solving: 19758
+	# Total Time in Sat Calls Translating: 590492
+	# Total Time in Unsat Calls: 100196
+	# Total Time in Unsat Calls Solving: 15801
+	# Total Time in Unsat Calls Translating: 84395
 	# Magnifier Sat Call: 0
 	# Magnifier Unsat Call: 0
 	# Total Time in Magnifier: 0

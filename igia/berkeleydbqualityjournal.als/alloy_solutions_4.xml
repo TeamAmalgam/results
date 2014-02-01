@@ -1,6 +1,6 @@
 <alloy builddate="unknown">
 
-<instance bitwidth="12" maxseq="4" command="Run featureSet for 12 int, exactly 1 BerkeleyDbC optimize o_global" filename="">
+<instance bitwidth="13" maxseq="4" command="Run featureSet for 13 int, exactly 1 BerkeleyDbC optimize o_global" filename="">
 
 <sig label="seq/Int" ID="0" parentID="1" builtin="yes">
 </sig>
@@ -118,18 +118,18 @@
    <tuple> <atom label="BerkeleyDbC$0"/> <atom label="HAVE_INDEXES$0"/> </tuple>
    <tuple> <atom label="BerkeleyDbC$0"/> <atom label="HAVE_BTREE$0"/> </tuple>
    <tuple> <atom label="BerkeleyDbC$0"/> <atom label="BTREE_SMALL$0"/> </tuple>
+   <tuple> <atom label="BerkeleyDbC$0"/> <atom label="HAVE_REPLICATION$0"/> </tuple>
    <tuple> <atom label="BerkeleyDbC$0"/> <atom label="HAVE_VERIFY$0"/> </tuple>
-   <tuple> <atom label="BerkeleyDbC$0"/> <atom label="DIAGNOSTIC$0"/> </tuple>
    <types> <type ID="20"/> <type ID="5"/> </types>
 </field>
 
 <field label="totalFootprint" ID="22" parentID="20">
-   <tuple> <atom label="BerkeleyDbC$0"/> <atom label="581"/> </tuple>
+   <tuple> <atom label="BerkeleyDbC$0"/> <atom label="479"/> </tuple>
    <types> <type ID="20"/> <type ID="1"/> </types>
 </field>
 
 <field label="totalPrice" ID="23" parentID="20">
-   <tuple> <atom label="BerkeleyDbC$0"/> <atom label="100"/> </tuple>
+   <tuple> <atom label="BerkeleyDbC$0"/> <atom label="300"/> </tuple>
    <types> <type ID="20"/> <type ID="1"/> </types>
 </field>
 
