@@ -1,25 +1,23 @@
-Feb 01, 2014 12:39:07 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+Feb 01, 2014 1:32:54 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
 FINE: Found a solution. At time: 0, Improving on [799]
-Feb 01, 2014 12:39:07 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+Feb 01, 2014 1:32:54 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
 FINE: Possible Improvements are conjunction of 
 	(sum(this/ZipMeSPL.totalFootprint) <= 799)
 	(sum(this/ZipMeSPL.totalFootprint) < 799)
-Feb 01, 2014 12:39:07 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+Feb 01, 2014 1:32:54 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
 FINE: Found Pareto point with values: [799]
-Feb 01, 2014 12:39:10 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
-FINE: Magnifying glass found 1 solution(s). At time: 3
-Feb 01, 2014 12:39:10 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
-FINE: All Pareto points found. At time: 3
-Feb 01, 2014 12:39:10 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm debugWriteStatistics
+Feb 01, 2014 1:32:54 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: All Pareto points found. At time: 0
+Feb 01, 2014 1:32:54 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm debugWriteStatistics
 FINE: Solver statistics:
 	# Sat Call: 1
 	# Unsat Call: 2
-	# Total Time in Sat Calls: 29
+	# Total Time in Sat Calls: 30
 	# Total Time in Sat Calls Solving: 0
-	# Total Time in Sat Calls Translating: 29
-	# Total Time in Unsat Calls: 29
+	# Total Time in Sat Calls Translating: 30
+	# Total Time in Unsat Calls: 51
 	# Total Time in Unsat Calls Solving: 0
-	# Total Time in Unsat Calls Translating: 29
-	# Magnifier Sat Call: 1
-	# Magnifier Unsat Call: 1
-	# Total Time in Magnifier: 2964
+	# Total Time in Unsat Calls Translating: 51
+	# Magnifier Sat Call: 0
+	# Magnifier Unsat Call: 0
+	# Total Time in Magnifier: 0

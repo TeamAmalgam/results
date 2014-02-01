@@ -1,6 +1,6 @@
-Feb 01, 2014 12:42:36 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+Feb 01, 2014 1:42:58 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
 FINE: Found a solution. At time: 1, Improving on [48, 47, 104, 55, 765]
-Feb 01, 2014 12:42:36 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+Feb 01, 2014 1:42:58 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
 FINE: Possible Improvements are conjunction of 
 	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 48)
 	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 47)
@@ -8,9 +8,9 @@ FINE: Possible Improvements are conjunction of
 	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 55)
 	(sum(this/SearchAndRescueFM.total_cost) <= 765)
 	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 48) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 47) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 104) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 55) || (sum(this/SearchAndRescueFM.total_cost) < 765))
-Feb 01, 2014 12:42:36 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+Feb 01, 2014 1:42:59 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
 FINE: Found a solution. At time: 1, Improving on [44, 33, 92, 47, 605]
-Feb 01, 2014 12:42:36 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+Feb 01, 2014 1:42:59 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
 FINE: Possible Improvements are conjunction of 
 	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 44)
 	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 33)
@@ -18,9 +18,9 @@ FINE: Possible Improvements are conjunction of
 	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 47)
 	(sum(this/SearchAndRescueFM.total_cost) <= 605)
 	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 44) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 33) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 92) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 47) || (sum(this/SearchAndRescueFM.total_cost) < 605))
-Feb 01, 2014 12:42:36 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+Feb 01, 2014 1:42:59 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
 FINE: Found a solution. At time: 1, Improving on [44, 33, 92, 47, 600]
-Feb 01, 2014 12:42:36 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+Feb 01, 2014 1:42:59 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
 FINE: Possible Improvements are conjunction of 
 	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 44)
 	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 33)
@@ -28,9 +28,9 @@ FINE: Possible Improvements are conjunction of
 	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 47)
 	(sum(this/SearchAndRescueFM.total_cost) <= 600)
 	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 44) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 33) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 92) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 47) || (sum(this/SearchAndRescueFM.total_cost) < 600))
-Feb 01, 2014 12:42:36 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+Feb 01, 2014 1:42:59 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
 FINE: Found a solution. At time: 1, Improving on [43, 32, 92, 46, 590]
-Feb 01, 2014 12:42:36 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+Feb 01, 2014 1:42:59 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
 FINE: Possible Improvements are conjunction of 
 	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 43)
 	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 32)
@@ -38,9 +38,9 @@ FINE: Possible Improvements are conjunction of
 	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 46)
 	(sum(this/SearchAndRescueFM.total_cost) <= 590)
 	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 43) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 32) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 92) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 46) || (sum(this/SearchAndRescueFM.total_cost) < 590))
-Feb 01, 2014 12:42:36 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+Feb 01, 2014 1:42:59 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
 FINE: Found a solution. At time: 1, Improving on [40, 32, 89, 45, 590]
-Feb 01, 2014 12:42:36 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+Feb 01, 2014 1:42:59 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
 FINE: Possible Improvements are conjunction of 
 	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 40)
 	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 32)
@@ -48,7 +48,1334 @@ FINE: Possible Improvements are conjunction of
 	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 45)
 	(sum(this/SearchAndRescueFM.total_cost) <= 590)
 	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 40) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 32) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 89) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 45) || (sum(this/SearchAndRescueFM.total_cost) < 590))
-Feb 01, 2014 12:42:36 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+Feb 01, 2014 1:42:59 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
 FINE: Found Pareto point with values: [40, 32, 89, 45, 590]
-Feb 01, 2014 12:43:23 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
-FINE: Magnifying glass found 1 solution(s). At time: 48
+Feb 01, 2014 1:43:00 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 2, Improving on [55, 35, 83, 51, 1175]
+Feb 01, 2014 1:43:00 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 55)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 35)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 83)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 51)
+	(sum(this/SearchAndRescueFM.total_cost) <= 1175)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 55) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 35) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 83) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 51) || (sum(this/SearchAndRescueFM.total_cost) < 1175))
+Feb 01, 2014 1:43:00 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 2, Improving on [55, 35, 83, 51, 1170]
+Feb 01, 2014 1:43:00 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 55)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 35)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 83)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 51)
+	(sum(this/SearchAndRescueFM.total_cost) <= 1170)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 55) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 35) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 83) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 51) || (sum(this/SearchAndRescueFM.total_cost) < 1170))
+Feb 01, 2014 1:43:00 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 2, Improving on [53, 35, 83, 51, 1170]
+Feb 01, 2014 1:43:00 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 53)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 35)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 83)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 51)
+	(sum(this/SearchAndRescueFM.total_cost) <= 1170)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 53) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 35) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 83) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 51) || (sum(this/SearchAndRescueFM.total_cost) < 1170))
+Feb 01, 2014 1:43:00 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 2, Improving on [52, 35, 83, 50, 1170]
+Feb 01, 2014 1:43:00 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 52)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 35)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 83)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 50)
+	(sum(this/SearchAndRescueFM.total_cost) <= 1170)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 52) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 35) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 83) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 50) || (sum(this/SearchAndRescueFM.total_cost) < 1170))
+Feb 01, 2014 1:43:00 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 2, Improving on [49, 34, 83, 49, 600]
+Feb 01, 2014 1:43:00 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 49)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 34)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 83)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 49)
+	(sum(this/SearchAndRescueFM.total_cost) <= 600)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 49) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 34) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 83) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 49) || (sum(this/SearchAndRescueFM.total_cost) < 600))
+Feb 01, 2014 1:43:00 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 2, Improving on [48, 33, 83, 48, 595]
+Feb 01, 2014 1:43:00 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 48)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 33)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 83)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 48)
+	(sum(this/SearchAndRescueFM.total_cost) <= 595)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 48) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 33) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 83) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 48) || (sum(this/SearchAndRescueFM.total_cost) < 595))
+Feb 01, 2014 1:43:00 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 2, Improving on [48, 33, 83, 48, 590]
+Feb 01, 2014 1:43:00 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 48)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 33)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 83)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 48)
+	(sum(this/SearchAndRescueFM.total_cost) <= 590)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 48) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 33) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 83) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 48) || (sum(this/SearchAndRescueFM.total_cost) < 590))
+Feb 01, 2014 1:43:00 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+FINE: Found Pareto point with values: [48, 33, 83, 48, 590]
+Feb 01, 2014 1:43:01 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 3, Improving on [41, 36, 88, 48, 1500]
+Feb 01, 2014 1:43:01 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 41)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 36)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 88)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 48)
+	(sum(this/SearchAndRescueFM.total_cost) <= 1500)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 41) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 36) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 88) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 48) || (sum(this/SearchAndRescueFM.total_cost) < 1500))
+Feb 01, 2014 1:43:01 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 3, Improving on [40, 35, 88, 47, 1495]
+Feb 01, 2014 1:43:01 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 40)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 35)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 88)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 47)
+	(sum(this/SearchAndRescueFM.total_cost) <= 1495)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 40) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 35) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 88) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 47) || (sum(this/SearchAndRescueFM.total_cost) < 1495))
+Feb 01, 2014 1:43:01 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 3, Improving on [40, 35, 88, 47, 1490]
+Feb 01, 2014 1:43:01 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 40)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 35)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 88)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 47)
+	(sum(this/SearchAndRescueFM.total_cost) <= 1490)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 40) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 35) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 88) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 47) || (sum(this/SearchAndRescueFM.total_cost) < 1490))
+Feb 01, 2014 1:43:01 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 3, Improving on [39, 31, 88, 47, 590]
+Feb 01, 2014 1:43:01 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 39)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 31)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 88)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 47)
+	(sum(this/SearchAndRescueFM.total_cost) <= 590)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 39) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 31) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 88) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 47) || (sum(this/SearchAndRescueFM.total_cost) < 590))
+Feb 01, 2014 1:43:01 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+FINE: Found Pareto point with values: [39, 31, 88, 47, 590]
+Feb 01, 2014 1:43:02 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 4, Improving on [44, 29, 84, 48, 925]
+Feb 01, 2014 1:43:02 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 44)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 29)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 84)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 48)
+	(sum(this/SearchAndRescueFM.total_cost) <= 925)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 44) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 29) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 84) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 48) || (sum(this/SearchAndRescueFM.total_cost) < 925))
+Feb 01, 2014 1:43:02 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 4, Improving on [44, 29, 84, 48, 920]
+Feb 01, 2014 1:43:02 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 44)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 29)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 84)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 48)
+	(sum(this/SearchAndRescueFM.total_cost) <= 920)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 44) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 29) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 84) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 48) || (sum(this/SearchAndRescueFM.total_cost) < 920))
+Feb 01, 2014 1:43:02 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+FINE: Found Pareto point with values: [44, 29, 84, 48, 920]
+Feb 01, 2014 1:43:02 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 5, Improving on [40, 30, 86, 49, 925]
+Feb 01, 2014 1:43:02 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 40)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 30)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 86)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 49)
+	(sum(this/SearchAndRescueFM.total_cost) <= 925)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 40) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 30) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 86) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 49) || (sum(this/SearchAndRescueFM.total_cost) < 925))
+Feb 01, 2014 1:43:02 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 5, Improving on [40, 30, 86, 49, 920]
+Feb 01, 2014 1:43:02 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 40)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 30)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 86)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 49)
+	(sum(this/SearchAndRescueFM.total_cost) <= 920)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 40) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 30) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 86) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 49) || (sum(this/SearchAndRescueFM.total_cost) < 920))
+Feb 01, 2014 1:43:02 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 5, Improving on [39, 30, 86, 48, 920]
+Feb 01, 2014 1:43:02 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 39)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 30)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 86)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 48)
+	(sum(this/SearchAndRescueFM.total_cost) <= 920)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 39) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 30) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 86) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 48) || (sum(this/SearchAndRescueFM.total_cost) < 920))
+Feb 01, 2014 1:43:03 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+FINE: Found Pareto point with values: [39, 30, 86, 48, 920]
+Feb 01, 2014 1:43:03 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 6, Improving on [41, 35, 87, 46, 1825]
+Feb 01, 2014 1:43:03 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 41)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 35)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 87)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 46)
+	(sum(this/SearchAndRescueFM.total_cost) <= 1825)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 41) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 35) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 87) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 46) || (sum(this/SearchAndRescueFM.total_cost) < 1825))
+Feb 01, 2014 1:43:03 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 6, Improving on [41, 35, 87, 46, 1820]
+Feb 01, 2014 1:43:03 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 41)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 35)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 87)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 46)
+	(sum(this/SearchAndRescueFM.total_cost) <= 1820)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 41) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 35) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 87) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 46) || (sum(this/SearchAndRescueFM.total_cost) < 1820))
+Feb 01, 2014 1:43:03 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 6, Improving on [41, 33, 87, 46, 590]
+Feb 01, 2014 1:43:03 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 41)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 33)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 87)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 46)
+	(sum(this/SearchAndRescueFM.total_cost) <= 590)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 41) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 33) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 87) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 46) || (sum(this/SearchAndRescueFM.total_cost) < 590))
+Feb 01, 2014 1:43:03 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+FINE: Found Pareto point with values: [41, 33, 87, 46, 590]
+Feb 01, 2014 1:43:04 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 7, Improving on [49, 37, 82, 51, 1500]
+Feb 01, 2014 1:43:04 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 49)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 37)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 82)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 51)
+	(sum(this/SearchAndRescueFM.total_cost) <= 1500)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 49) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 37) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 82) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 51) || (sum(this/SearchAndRescueFM.total_cost) < 1500))
+Feb 01, 2014 1:43:04 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 7, Improving on [48, 33, 82, 51, 600]
+Feb 01, 2014 1:43:04 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 48)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 33)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 82)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 51)
+	(sum(this/SearchAndRescueFM.total_cost) <= 600)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 48) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 33) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 82) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 51) || (sum(this/SearchAndRescueFM.total_cost) < 600))
+Feb 01, 2014 1:43:04 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 7, Improving on [47, 32, 82, 50, 590]
+Feb 01, 2014 1:43:04 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 47)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 32)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 82)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 50)
+	(sum(this/SearchAndRescueFM.total_cost) <= 590)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 47) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 32) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 82) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 50) || (sum(this/SearchAndRescueFM.total_cost) < 590))
+Feb 01, 2014 1:43:04 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+FINE: Found Pareto point with values: [47, 32, 82, 50, 590]
+Feb 01, 2014 1:43:05 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 8, Improving on [48, 33, 80, 45, 1005]
+Feb 01, 2014 1:43:05 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 48)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 33)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 80)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 45)
+	(sum(this/SearchAndRescueFM.total_cost) <= 1005)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 48) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 33) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 80) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 45) || (sum(this/SearchAndRescueFM.total_cost) < 1005))
+Feb 01, 2014 1:43:05 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 8, Improving on [48, 33, 80, 45, 1000]
+Feb 01, 2014 1:43:05 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 48)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 33)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 80)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 45)
+	(sum(this/SearchAndRescueFM.total_cost) <= 1000)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 48) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 33) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 80) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 45) || (sum(this/SearchAndRescueFM.total_cost) < 1000))
+Feb 01, 2014 1:43:05 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 8, Improving on [45, 33, 77, 44, 1000]
+Feb 01, 2014 1:43:05 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 45)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 33)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 77)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 44)
+	(sum(this/SearchAndRescueFM.total_cost) <= 1000)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 45) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 33) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 77) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 44) || (sum(this/SearchAndRescueFM.total_cost) < 1000))
+Feb 01, 2014 1:43:05 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+FINE: Found Pareto point with values: [45, 33, 77, 44, 1000]
+Feb 01, 2014 1:43:06 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 8, Improving on [46, 32, 87, 46, 600]
+Feb 01, 2014 1:43:06 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 46)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 32)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 87)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 46)
+	(sum(this/SearchAndRescueFM.total_cost) <= 600)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 46) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 32) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 87) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 46) || (sum(this/SearchAndRescueFM.total_cost) < 600))
+Feb 01, 2014 1:43:06 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 8, Improving on [46, 32, 85, 46, 595]
+Feb 01, 2014 1:43:06 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 46)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 32)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 85)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 46)
+	(sum(this/SearchAndRescueFM.total_cost) <= 595)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 46) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 32) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 85) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 46) || (sum(this/SearchAndRescueFM.total_cost) < 595))
+Feb 01, 2014 1:43:06 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 8, Improving on [46, 32, 85, 46, 590]
+Feb 01, 2014 1:43:06 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 46)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 32)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 85)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 46)
+	(sum(this/SearchAndRescueFM.total_cost) <= 590)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 46) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 32) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 85) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 46) || (sum(this/SearchAndRescueFM.total_cost) < 590))
+Feb 01, 2014 1:43:06 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+FINE: Found Pareto point with values: [46, 32, 85, 46, 590]
+Feb 01, 2014 1:43:07 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 9, Improving on [48, 31, 90, 46, 590]
+Feb 01, 2014 1:43:07 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 48)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 31)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 90)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 46)
+	(sum(this/SearchAndRescueFM.total_cost) <= 590)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 48) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 31) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 90) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 46) || (sum(this/SearchAndRescueFM.total_cost) < 590))
+Feb 01, 2014 1:43:07 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 9, Improving on [45, 31, 87, 45, 590]
+Feb 01, 2014 1:43:07 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 45)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 31)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 87)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 45)
+	(sum(this/SearchAndRescueFM.total_cost) <= 590)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 45) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 31) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 87) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 45) || (sum(this/SearchAndRescueFM.total_cost) < 590))
+Feb 01, 2014 1:43:07 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+FINE: Found Pareto point with values: [45, 31, 87, 45, 590]
+Feb 01, 2014 1:43:08 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 10, Improving on [41, 33, 86, 49, 605]
+Feb 01, 2014 1:43:08 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 41)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 33)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 86)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 49)
+	(sum(this/SearchAndRescueFM.total_cost) <= 605)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 41) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 33) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 86) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 49) || (sum(this/SearchAndRescueFM.total_cost) < 605))
+Feb 01, 2014 1:43:08 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 10, Improving on [41, 33, 86, 49, 600]
+Feb 01, 2014 1:43:08 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 41)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 33)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 86)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 49)
+	(sum(this/SearchAndRescueFM.total_cost) <= 600)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 41) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 33) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 86) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 49) || (sum(this/SearchAndRescueFM.total_cost) < 600))
+Feb 01, 2014 1:43:08 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 10, Improving on [40, 32, 86, 48, 590]
+Feb 01, 2014 1:43:08 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 40)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 32)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 86)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 48)
+	(sum(this/SearchAndRescueFM.total_cost) <= 590)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 40) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 32) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 86) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 48) || (sum(this/SearchAndRescueFM.total_cost) < 590))
+Feb 01, 2014 1:43:08 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+FINE: Found Pareto point with values: [40, 32, 86, 48, 590]
+Feb 01, 2014 1:43:08 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 11, Improving on [45, 36, 76, 46, 1900]
+Feb 01, 2014 1:43:08 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 45)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 36)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 76)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 46)
+	(sum(this/SearchAndRescueFM.total_cost) <= 1900)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 45) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 36) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 76) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 46) || (sum(this/SearchAndRescueFM.total_cost) < 1900))
+Feb 01, 2014 1:43:08 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 11, Improving on [45, 34, 76, 46, 675]
+Feb 01, 2014 1:43:08 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 45)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 34)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 76)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 46)
+	(sum(this/SearchAndRescueFM.total_cost) <= 675)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 45) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 34) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 76) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 46) || (sum(this/SearchAndRescueFM.total_cost) < 675))
+Feb 01, 2014 1:43:08 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 11, Improving on [45, 34, 76, 46, 670]
+Feb 01, 2014 1:43:08 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 45)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 34)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 76)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 46)
+	(sum(this/SearchAndRescueFM.total_cost) <= 670)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 45) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 34) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 76) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 46) || (sum(this/SearchAndRescueFM.total_cost) < 670))
+Feb 01, 2014 1:43:09 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+FINE: Found Pareto point with values: [45, 34, 76, 46, 670]
+Feb 01, 2014 1:43:09 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 12, Improving on [47, 35, 77, 45, 675]
+Feb 01, 2014 1:43:09 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 47)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 35)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 77)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 45)
+	(sum(this/SearchAndRescueFM.total_cost) <= 675)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 47) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 35) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 77) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 45) || (sum(this/SearchAndRescueFM.total_cost) < 675))
+Feb 01, 2014 1:43:09 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 12, Improving on [47, 35, 77, 45, 670]
+Feb 01, 2014 1:43:09 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 47)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 35)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 77)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 45)
+	(sum(this/SearchAndRescueFM.total_cost) <= 670)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 47) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 35) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 77) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 45) || (sum(this/SearchAndRescueFM.total_cost) < 670))
+Feb 01, 2014 1:43:09 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 12, Improving on [46, 35, 77, 44, 670]
+Feb 01, 2014 1:43:09 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 46)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 35)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 77)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 44)
+	(sum(this/SearchAndRescueFM.total_cost) <= 670)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 46) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 35) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 77) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 44) || (sum(this/SearchAndRescueFM.total_cost) < 670))
+Feb 01, 2014 1:43:09 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+FINE: Found Pareto point with values: [46, 35, 77, 44, 670]
+Feb 01, 2014 1:43:10 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 13, Improving on [52, 34, 72, 48, 670]
+Feb 01, 2014 1:43:10 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 52)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 34)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 72)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 48)
+	(sum(this/SearchAndRescueFM.total_cost) <= 670)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 52) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 34) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 72) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 48) || (sum(this/SearchAndRescueFM.total_cost) < 670))
+Feb 01, 2014 1:43:10 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+FINE: Found Pareto point with values: [52, 34, 72, 48, 670]
+Feb 01, 2014 1:43:11 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 13, Improving on [54, 34, 80, 45, 685]
+Feb 01, 2014 1:43:11 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 54)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 34)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 80)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 45)
+	(sum(this/SearchAndRescueFM.total_cost) <= 685)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 54) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 34) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 80) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 45) || (sum(this/SearchAndRescueFM.total_cost) < 685))
+Feb 01, 2014 1:43:11 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 13, Improving on [51, 34, 77, 44, 685]
+Feb 01, 2014 1:43:11 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 51)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 34)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 77)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 44)
+	(sum(this/SearchAndRescueFM.total_cost) <= 685)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 51) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 34) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 77) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 44) || (sum(this/SearchAndRescueFM.total_cost) < 685))
+Feb 01, 2014 1:43:11 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 14, Improving on [51, 34, 77, 44, 680]
+Feb 01, 2014 1:43:11 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 51)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 34)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 77)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 44)
+	(sum(this/SearchAndRescueFM.total_cost) <= 680)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 51) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 34) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 77) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 44) || (sum(this/SearchAndRescueFM.total_cost) < 680))
+Feb 01, 2014 1:43:11 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 14, Improving on [51, 34, 75, 44, 675]
+Feb 01, 2014 1:43:11 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 51)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 34)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 75)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 44)
+	(sum(this/SearchAndRescueFM.total_cost) <= 675)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 51) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 34) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 75) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 44) || (sum(this/SearchAndRescueFM.total_cost) < 675))
+Feb 01, 2014 1:43:11 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 14, Improving on [51, 34, 75, 44, 670]
+Feb 01, 2014 1:43:11 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 51)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 34)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 75)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 44)
+	(sum(this/SearchAndRescueFM.total_cost) <= 670)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 51) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 34) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 75) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 44) || (sum(this/SearchAndRescueFM.total_cost) < 670))
+Feb 01, 2014 1:43:11 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+FINE: Found Pareto point with values: [51, 34, 75, 44, 670]
+Feb 01, 2014 1:43:12 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 14, Improving on [51, 32, 75, 45, 1000]
+Feb 01, 2014 1:43:12 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 51)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 32)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 75)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 45)
+	(sum(this/SearchAndRescueFM.total_cost) <= 1000)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 51) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 32) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 75) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 45) || (sum(this/SearchAndRescueFM.total_cost) < 1000))
+Feb 01, 2014 1:43:12 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 14, Improving on [50, 32, 75, 44, 1000]
+Feb 01, 2014 1:43:12 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 50)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 32)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 75)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 44)
+	(sum(this/SearchAndRescueFM.total_cost) <= 1000)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 50) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 32) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 75) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 44) || (sum(this/SearchAndRescueFM.total_cost) < 1000))
+Feb 01, 2014 1:43:12 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+FINE: Found Pareto point with values: [50, 32, 75, 44, 1000]
+Feb 01, 2014 1:43:13 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 15, Improving on [43, 31, 84, 50, 925]
+Feb 01, 2014 1:43:13 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 43)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 31)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 84)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 50)
+	(sum(this/SearchAndRescueFM.total_cost) <= 925)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 43) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 31) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 84) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 50) || (sum(this/SearchAndRescueFM.total_cost) < 925))
+Feb 01, 2014 1:43:13 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 15, Improving on [43, 31, 84, 50, 920]
+Feb 01, 2014 1:43:13 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 43)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 31)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 84)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 50)
+	(sum(this/SearchAndRescueFM.total_cost) <= 920)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 43) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 31) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 84) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 50) || (sum(this/SearchAndRescueFM.total_cost) < 920))
+Feb 01, 2014 1:43:13 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 15, Improving on [41, 31, 84, 50, 920]
+Feb 01, 2014 1:43:13 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 41)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 31)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 84)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 50)
+	(sum(this/SearchAndRescueFM.total_cost) <= 920)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 41) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 31) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 84) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 50) || (sum(this/SearchAndRescueFM.total_cost) < 920))
+Feb 01, 2014 1:43:13 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+FINE: Found Pareto point with values: [41, 31, 84, 50, 920]
+Feb 01, 2014 1:43:14 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 16, Improving on [48, 32, 81, 49, 1005]
+Feb 01, 2014 1:43:14 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 48)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 32)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 81)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 49)
+	(sum(this/SearchAndRescueFM.total_cost) <= 1005)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 48) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 32) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 81) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 49) || (sum(this/SearchAndRescueFM.total_cost) < 1005))
+Feb 01, 2014 1:43:14 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 16, Improving on [47, 32, 79, 47, 1005]
+Feb 01, 2014 1:43:14 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 47)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 32)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 79)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 47)
+	(sum(this/SearchAndRescueFM.total_cost) <= 1005)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 47) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 32) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 79) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 47) || (sum(this/SearchAndRescueFM.total_cost) < 1005))
+Feb 01, 2014 1:43:14 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 16, Improving on [47, 32, 79, 47, 1000]
+Feb 01, 2014 1:43:14 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 47)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 32)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 79)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 47)
+	(sum(this/SearchAndRescueFM.total_cost) <= 1000)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 47) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 32) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 79) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 47) || (sum(this/SearchAndRescueFM.total_cost) < 1000))
+Feb 01, 2014 1:43:14 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 16, Improving on [44, 32, 79, 43, 1000]
+Feb 01, 2014 1:43:14 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 44)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 32)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 79)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 43)
+	(sum(this/SearchAndRescueFM.total_cost) <= 1000)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 44) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 32) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 79) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 43) || (sum(this/SearchAndRescueFM.total_cost) < 1000))
+Feb 01, 2014 1:43:14 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+FINE: Found Pareto point with values: [44, 32, 79, 43, 1000]
+Feb 01, 2014 1:43:15 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 17, Improving on [52, 35, 77, 43, 1900]
+Feb 01, 2014 1:43:15 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 52)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 35)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 77)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 43)
+	(sum(this/SearchAndRescueFM.total_cost) <= 1900)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 52) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 35) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 77) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 43) || (sum(this/SearchAndRescueFM.total_cost) < 1900))
+Feb 01, 2014 1:43:15 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 17, Improving on [50, 33, 77, 43, 670]
+Feb 01, 2014 1:43:15 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 50)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 33)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 77)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 43)
+	(sum(this/SearchAndRescueFM.total_cost) <= 670)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 50) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 33) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 77) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 43) || (sum(this/SearchAndRescueFM.total_cost) < 670))
+Feb 01, 2014 1:43:15 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+FINE: Found Pareto point with values: [50, 33, 77, 43, 670]
+Feb 01, 2014 1:43:15 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 18, Improving on [44, 32, 76, 46, 1005]
+Feb 01, 2014 1:43:15 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 44)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 32)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 76)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 46)
+	(sum(this/SearchAndRescueFM.total_cost) <= 1005)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 44) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 32) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 76) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 46) || (sum(this/SearchAndRescueFM.total_cost) < 1005))
+Feb 01, 2014 1:43:16 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 18, Improving on [44, 32, 76, 46, 1000]
+Feb 01, 2014 1:43:16 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 44)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 32)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 76)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 46)
+	(sum(this/SearchAndRescueFM.total_cost) <= 1000)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 44) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 32) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 76) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 46) || (sum(this/SearchAndRescueFM.total_cost) < 1000))
+Feb 01, 2014 1:43:16 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+FINE: Found Pareto point with values: [44, 32, 76, 46, 1000]
+Feb 01, 2014 1:43:16 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 19, Improving on [55, 31, 79, 49, 1000]
+Feb 01, 2014 1:43:16 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 55)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 31)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 79)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 49)
+	(sum(this/SearchAndRescueFM.total_cost) <= 1000)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 55) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 31) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 79) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 49) || (sum(this/SearchAndRescueFM.total_cost) < 1000))
+Feb 01, 2014 1:43:16 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 19, Improving on [51, 31, 74, 46, 1000]
+Feb 01, 2014 1:43:16 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 51)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 31)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 74)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 46)
+	(sum(this/SearchAndRescueFM.total_cost) <= 1000)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 51) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 31) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 74) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 46) || (sum(this/SearchAndRescueFM.total_cost) < 1000))
+Feb 01, 2014 1:43:16 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 19, Improving on [49, 31, 74, 46, 1000]
+Feb 01, 2014 1:43:16 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 49)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 31)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 74)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 46)
+	(sum(this/SearchAndRescueFM.total_cost) <= 1000)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 49) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 31) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 74) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 46) || (sum(this/SearchAndRescueFM.total_cost) < 1000))
+Feb 01, 2014 1:43:16 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+FINE: Found Pareto point with values: [49, 31, 74, 46, 1000]
+Feb 01, 2014 1:43:17 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 20, Improving on [49, 37, 75, 47, 680]
+Feb 01, 2014 1:43:17 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 49)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 37)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 75)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 47)
+	(sum(this/SearchAndRescueFM.total_cost) <= 680)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 49) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 37) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 75) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 47) || (sum(this/SearchAndRescueFM.total_cost) < 680))
+Feb 01, 2014 1:43:17 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 20, Improving on [48, 36, 75, 46, 670]
+Feb 01, 2014 1:43:17 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 48)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 36)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 75)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 46)
+	(sum(this/SearchAndRescueFM.total_cost) <= 670)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 48) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 36) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 75) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 46) || (sum(this/SearchAndRescueFM.total_cost) < 670))
+Feb 01, 2014 1:43:17 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+FINE: Found Pareto point with values: [48, 36, 75, 46, 670]
+Feb 01, 2014 1:43:18 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 21, Improving on [48, 34, 82, 44, 670]
+Feb 01, 2014 1:43:18 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 48)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 34)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 82)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 44)
+	(sum(this/SearchAndRescueFM.total_cost) <= 670)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 48) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 34) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 82) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 44) || (sum(this/SearchAndRescueFM.total_cost) < 670))
+Feb 01, 2014 1:43:18 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 21, Improving on [45, 34, 79, 43, 670]
+Feb 01, 2014 1:43:18 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 45)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 34)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 79)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 43)
+	(sum(this/SearchAndRescueFM.total_cost) <= 670)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 45) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 34) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 79) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 43) || (sum(this/SearchAndRescueFM.total_cost) < 670))
+Feb 01, 2014 1:43:18 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+FINE: Found Pareto point with values: [45, 34, 79, 43, 670]
+Feb 01, 2014 1:43:19 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 21, Improving on [46, 30, 82, 50, 920]
+Feb 01, 2014 1:43:19 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 46)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 30)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 82)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 50)
+	(sum(this/SearchAndRescueFM.total_cost) <= 920)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 46) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 30) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 82) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 50) || (sum(this/SearchAndRescueFM.total_cost) < 920))
+Feb 01, 2014 1:43:19 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+FINE: Found Pareto point with values: [46, 30, 82, 50, 920]
+Feb 01, 2014 1:43:20 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 22, Improving on [47, 34, 75, 46, 1005]
+Feb 01, 2014 1:43:20 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 47)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 34)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 75)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 46)
+	(sum(this/SearchAndRescueFM.total_cost) <= 1005)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 47) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 34) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 75) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 46) || (sum(this/SearchAndRescueFM.total_cost) < 1005))
+Feb 01, 2014 1:43:20 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 22, Improving on [47, 34, 75, 46, 1000]
+Feb 01, 2014 1:43:20 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 47)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 34)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 75)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 46)
+	(sum(this/SearchAndRescueFM.total_cost) <= 1000)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 47) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 34) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 75) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 46) || (sum(this/SearchAndRescueFM.total_cost) < 1000))
+Feb 01, 2014 1:43:20 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+FINE: Found Pareto point with values: [47, 34, 75, 46, 1000]
+Feb 01, 2014 1:43:21 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 23, Improving on [48, 36, 74, 49, 680]
+Feb 01, 2014 1:43:21 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 48)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 36)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 74)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 49)
+	(sum(this/SearchAndRescueFM.total_cost) <= 680)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 48) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 36) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 74) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 49) || (sum(this/SearchAndRescueFM.total_cost) < 680))
+Feb 01, 2014 1:43:21 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 23, Improving on [47, 35, 74, 48, 670]
+Feb 01, 2014 1:43:21 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 47)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 35)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 74)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 48)
+	(sum(this/SearchAndRescueFM.total_cost) <= 670)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 47) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 35) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 74) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 48) || (sum(this/SearchAndRescueFM.total_cost) < 670))
+Feb 01, 2014 1:43:21 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+FINE: Found Pareto point with values: [47, 35, 74, 48, 670]
+Feb 01, 2014 1:43:21 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 24, Improving on [43, 36, 85, 48, 1820]
+Feb 01, 2014 1:43:21 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 43)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 36)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 85)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 48)
+	(sum(this/SearchAndRescueFM.total_cost) <= 1820)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 43) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 36) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 85) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 48) || (sum(this/SearchAndRescueFM.total_cost) < 1820))
+Feb 01, 2014 1:43:21 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 24, Improving on [43, 34, 85, 48, 595]
+Feb 01, 2014 1:43:21 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 43)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 34)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 85)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 48)
+	(sum(this/SearchAndRescueFM.total_cost) <= 595)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 43) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 34) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 85) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 48) || (sum(this/SearchAndRescueFM.total_cost) < 595))
+Feb 01, 2014 1:43:21 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 24, Improving on [43, 34, 85, 48, 590]
+Feb 01, 2014 1:43:21 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 43)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 34)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 85)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 48)
+	(sum(this/SearchAndRescueFM.total_cost) <= 590)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 43) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 34) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 85) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 48) || (sum(this/SearchAndRescueFM.total_cost) < 590))
+Feb 01, 2014 1:43:21 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+FINE: Found Pareto point with values: [43, 34, 85, 48, 590]
+Feb 01, 2014 1:43:22 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 25, Improving on [42, 33, 84, 50, 595]
+Feb 01, 2014 1:43:22 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 42)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 33)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 84)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 50)
+	(sum(this/SearchAndRescueFM.total_cost) <= 595)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 42) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 33) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 84) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 50) || (sum(this/SearchAndRescueFM.total_cost) < 595))
+Feb 01, 2014 1:43:22 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 25, Improving on [42, 33, 84, 50, 590]
+Feb 01, 2014 1:43:22 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 42)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 33)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 84)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 50)
+	(sum(this/SearchAndRescueFM.total_cost) <= 590)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 42) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 33) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 84) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 50) || (sum(this/SearchAndRescueFM.total_cost) < 590))
+Feb 01, 2014 1:43:22 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+FINE: Found Pareto point with values: [42, 33, 84, 50, 590]
+Feb 01, 2014 1:43:23 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 26, Improving on [53, 32, 81, 48, 675]
+Feb 01, 2014 1:43:23 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 53)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 32)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 81)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 48)
+	(sum(this/SearchAndRescueFM.total_cost) <= 675)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 53) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 32) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 81) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 48) || (sum(this/SearchAndRescueFM.total_cost) < 675))
+Feb 01, 2014 1:43:23 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 26, Improving on [53, 32, 81, 48, 670]
+Feb 01, 2014 1:43:23 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 53)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 32)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 81)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 48)
+	(sum(this/SearchAndRescueFM.total_cost) <= 670)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 53) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 32) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 81) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 48) || (sum(this/SearchAndRescueFM.total_cost) < 670))
+Feb 01, 2014 1:43:23 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 26, Improving on [52, 32, 79, 46, 670]
+Feb 01, 2014 1:43:23 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 52)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 32)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 79)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 46)
+	(sum(this/SearchAndRescueFM.total_cost) <= 670)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 52) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 32) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 79) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 46) || (sum(this/SearchAndRescueFM.total_cost) < 670))
+Feb 01, 2014 1:43:23 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 26, Improving on [49, 32, 76, 45, 670]
+Feb 01, 2014 1:43:23 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 49)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 32)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 76)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 45)
+	(sum(this/SearchAndRescueFM.total_cost) <= 670)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 49) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 32) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 76) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 45) || (sum(this/SearchAndRescueFM.total_cost) < 670))
+Feb 01, 2014 1:43:23 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+FINE: Found Pareto point with values: [49, 32, 76, 45, 670]
+Feb 01, 2014 1:43:24 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 27, Improving on [46, 30, 85, 47, 925]
+Feb 01, 2014 1:43:24 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 46)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 30)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 85)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 47)
+	(sum(this/SearchAndRescueFM.total_cost) <= 925)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 46) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 30) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 85) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 47) || (sum(this/SearchAndRescueFM.total_cost) < 925))
+Feb 01, 2014 1:43:24 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 27, Improving on [46, 30, 85, 47, 920]
+Feb 01, 2014 1:43:24 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 46)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 30)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 85)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 47)
+	(sum(this/SearchAndRescueFM.total_cost) <= 920)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 46) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 30) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 85) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 47) || (sum(this/SearchAndRescueFM.total_cost) < 920))
+Feb 01, 2014 1:43:24 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 27, Improving on [45, 30, 85, 46, 920]
+Feb 01, 2014 1:43:24 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 45)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 30)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 85)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 46)
+	(sum(this/SearchAndRescueFM.total_cost) <= 920)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 45) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 30) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 85) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 46) || (sum(this/SearchAndRescueFM.total_cost) < 920))
+Feb 01, 2014 1:43:24 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+FINE: Found Pareto point with values: [45, 30, 85, 46, 920]
+Feb 01, 2014 1:43:25 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 27, Improving on [52, 31, 80, 44, 1005]
+Feb 01, 2014 1:43:25 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 52)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 31)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 80)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 44)
+	(sum(this/SearchAndRescueFM.total_cost) <= 1005)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 52) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 31) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 80) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 44) || (sum(this/SearchAndRescueFM.total_cost) < 1005))
+Feb 01, 2014 1:43:25 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 27, Improving on [52, 31, 80, 44, 1000]
+Feb 01, 2014 1:43:25 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 52)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 31)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 80)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 44)
+	(sum(this/SearchAndRescueFM.total_cost) <= 1000)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 52) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 31) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 80) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 44) || (sum(this/SearchAndRescueFM.total_cost) < 1000))
+Feb 01, 2014 1:43:25 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 27, Improving on [49, 31, 77, 43, 1000]
+Feb 01, 2014 1:43:25 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 49)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 31)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 77)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 43)
+	(sum(this/SearchAndRescueFM.total_cost) <= 1000)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 49) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 31) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 77) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 43) || (sum(this/SearchAndRescueFM.total_cost) < 1000))
+Feb 01, 2014 1:43:25 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+FINE: Found Pareto point with values: [49, 31, 77, 43, 1000]
+Feb 01, 2014 1:43:26 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 28, Improving on [41, 30, 89, 45, 920]
+Feb 01, 2014 1:43:26 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 41)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 30)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 89)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 45)
+	(sum(this/SearchAndRescueFM.total_cost) <= 920)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 41) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 30) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 89) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 45) || (sum(this/SearchAndRescueFM.total_cost) < 920))
+Feb 01, 2014 1:43:26 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 28, Improving on [39, 30, 89, 45, 920]
+Feb 01, 2014 1:43:26 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 39)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 30)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 89)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 45)
+	(sum(this/SearchAndRescueFM.total_cost) <= 920)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 39) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 30) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 89) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 45) || (sum(this/SearchAndRescueFM.total_cost) < 920))
+Feb 01, 2014 1:43:26 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+FINE: Found Pareto point with values: [39, 30, 89, 45, 920]
+Feb 01, 2014 1:43:27 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 29, Improving on [40, 29, 88, 47, 925]
+Feb 01, 2014 1:43:27 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 40)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 29)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 88)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 47)
+	(sum(this/SearchAndRescueFM.total_cost) <= 925)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 40) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 29) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 88) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 47) || (sum(this/SearchAndRescueFM.total_cost) < 925))
+Feb 01, 2014 1:43:27 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 29, Improving on [40, 29, 88, 47, 920]
+Feb 01, 2014 1:43:27 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 40)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 29)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 88)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 47)
+	(sum(this/SearchAndRescueFM.total_cost) <= 920)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 40) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 29) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 88) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 47) || (sum(this/SearchAndRescueFM.total_cost) < 920))
+Feb 01, 2014 1:43:27 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 29, Improving on [38, 29, 88, 47, 920]
+Feb 01, 2014 1:43:27 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 38)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 29)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 88)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 47)
+	(sum(this/SearchAndRescueFM.total_cost) <= 920)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 38) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 29) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 88) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 47) || (sum(this/SearchAndRescueFM.total_cost) < 920))
+Feb 01, 2014 1:43:27 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+FINE: Found Pareto point with values: [38, 29, 88, 47, 920]
+Feb 01, 2014 1:43:27 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 30, Improving on [45, 31, 86, 48, 600]
+Feb 01, 2014 1:43:27 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 45)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 31)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 86)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 48)
+	(sum(this/SearchAndRescueFM.total_cost) <= 600)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 45) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 31) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 86) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 48) || (sum(this/SearchAndRescueFM.total_cost) < 600))
+Feb 01, 2014 1:43:27 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 30, Improving on [45, 31, 84, 48, 590]
+Feb 01, 2014 1:43:27 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 45)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 31)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 84)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 48)
+	(sum(this/SearchAndRescueFM.total_cost) <= 590)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 45) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 31) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 84) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 48) || (sum(this/SearchAndRescueFM.total_cost) < 590))
+Feb 01, 2014 1:43:27 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+FINE: Found Pareto point with values: [45, 31, 84, 48, 590]
+Feb 01, 2014 1:43:28 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 31, Improving on [47, 33, 81, 46, 670]
+Feb 01, 2014 1:43:28 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 47)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 33)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 81)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 46)
+	(sum(this/SearchAndRescueFM.total_cost) <= 670)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 47) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 33) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 81) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 46) || (sum(this/SearchAndRescueFM.total_cost) < 670))
+Feb 01, 2014 1:43:28 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 31, Improving on [44, 33, 78, 45, 670]
+Feb 01, 2014 1:43:28 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 44)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 33)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 78)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 45)
+	(sum(this/SearchAndRescueFM.total_cost) <= 670)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 44) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 33) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 78) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 45) || (sum(this/SearchAndRescueFM.total_cost) < 670))
+Feb 01, 2014 1:43:28 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+FINE: Found Pareto point with values: [44, 33, 78, 45, 670]
+Feb 01, 2014 1:43:29 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 32, Improving on [52, 33, 73, 46, 1000]
+Feb 01, 2014 1:43:29 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 52)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 33)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 73)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 46)
+	(sum(this/SearchAndRescueFM.total_cost) <= 1000)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 52) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 33) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 73) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 46) || (sum(this/SearchAndRescueFM.total_cost) < 1000))
+Feb 01, 2014 1:43:29 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+FINE: Found Pareto point with values: [52, 33, 73, 46, 1000]
+Feb 01, 2014 1:43:30 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 32, Improving on [49, 31, 83, 48, 925]
+Feb 01, 2014 1:43:30 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 49)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 31)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 83)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 48)
+	(sum(this/SearchAndRescueFM.total_cost) <= 925)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 49) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 31) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 83) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 48) || (sum(this/SearchAndRescueFM.total_cost) < 925))
+Feb 01, 2014 1:43:30 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 32, Improving on [49, 31, 83, 48, 920]
+Feb 01, 2014 1:43:30 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 49)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 31)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 83)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 48)
+	(sum(this/SearchAndRescueFM.total_cost) <= 920)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 49) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 31) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 83) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 48) || (sum(this/SearchAndRescueFM.total_cost) < 920))
+Feb 01, 2014 1:43:30 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 32, Improving on [47, 31, 83, 48, 920]
+Feb 01, 2014 1:43:30 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 47)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 31)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 83)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 48)
+	(sum(this/SearchAndRescueFM.total_cost) <= 920)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 47) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 31) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 83) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 48) || (sum(this/SearchAndRescueFM.total_cost) < 920))
+Feb 01, 2014 1:43:30 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+FINE: Found Pareto point with values: [47, 31, 83, 48, 920]
+Feb 01, 2014 1:43:31 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 33, Improving on [53, 32, 72, 48, 1000]
+Feb 01, 2014 1:43:31 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 53)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 32)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 72)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 48)
+	(sum(this/SearchAndRescueFM.total_cost) <= 1000)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 53) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 32) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 72) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 48) || (sum(this/SearchAndRescueFM.total_cost) < 1000))
+Feb 01, 2014 1:43:31 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 33, Improving on [51, 32, 72, 48, 1000]
+Feb 01, 2014 1:43:31 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 51)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 32)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 72)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 48)
+	(sum(this/SearchAndRescueFM.total_cost) <= 1000)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 51) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 32) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 72) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 48) || (sum(this/SearchAndRescueFM.total_cost) < 1000))
+Feb 01, 2014 1:43:31 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+FINE: Found Pareto point with values: [51, 32, 72, 48, 1000]
+Feb 01, 2014 1:43:32 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 34, Improving on [43, 31, 87, 47, 925]
+Feb 01, 2014 1:43:32 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 43)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 31)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 87)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 47)
+	(sum(this/SearchAndRescueFM.total_cost) <= 925)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 43) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 31) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 87) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 47) || (sum(this/SearchAndRescueFM.total_cost) < 925))
+Feb 01, 2014 1:43:32 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 34, Improving on [43, 31, 87, 47, 920]
+Feb 01, 2014 1:43:32 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 43)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 31)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 87)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 47)
+	(sum(this/SearchAndRescueFM.total_cost) <= 920)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 43) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 31) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 87) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 47) || (sum(this/SearchAndRescueFM.total_cost) < 920))
+Feb 01, 2014 1:43:32 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 34, Improving on [41, 31, 87, 47, 920]
+Feb 01, 2014 1:43:32 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 41)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 31)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 87)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 47)
+	(sum(this/SearchAndRescueFM.total_cost) <= 920)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 41) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 31) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 87) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 47) || (sum(this/SearchAndRescueFM.total_cost) < 920))
+Feb 01, 2014 1:43:32 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 34, Improving on [40, 31, 87, 46, 920]
+Feb 01, 2014 1:43:32 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 40)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 31)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 87)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 46)
+	(sum(this/SearchAndRescueFM.total_cost) <= 920)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 40) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 31) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 87) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 46) || (sum(this/SearchAndRescueFM.total_cost) < 920))
+Feb 01, 2014 1:43:32 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+FINE: Found Pareto point with values: [40, 31, 87, 46, 920]
+Feb 01, 2014 1:43:33 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 35, Improving on [45, 28, 86, 47, 920]
+Feb 01, 2014 1:43:33 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 45)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 28)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 86)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 47)
+	(sum(this/SearchAndRescueFM.total_cost) <= 920)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 45) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 28) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 86) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 47) || (sum(this/SearchAndRescueFM.total_cost) < 920))
+Feb 01, 2014 1:43:33 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 35, Improving on [43, 28, 86, 47, 920]
+Feb 01, 2014 1:43:33 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 43)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 28)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 86)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 47)
+	(sum(this/SearchAndRescueFM.total_cost) <= 920)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 43) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 28) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 86) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 47) || (sum(this/SearchAndRescueFM.total_cost) < 920))
+Feb 01, 2014 1:43:33 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+FINE: Found Pareto point with values: [43, 28, 86, 47, 920]
+Feb 01, 2014 1:43:33 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 36, Improving on [46, 29, 87, 45, 925]
+Feb 01, 2014 1:43:33 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 46)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 29)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 87)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 45)
+	(sum(this/SearchAndRescueFM.total_cost) <= 925)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 46) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 29) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 87) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 45) || (sum(this/SearchAndRescueFM.total_cost) < 925))
+Feb 01, 2014 1:43:33 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 36, Improving on [46, 29, 87, 45, 920]
+Feb 01, 2014 1:43:33 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 46)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 29)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 87)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 45)
+	(sum(this/SearchAndRescueFM.total_cost) <= 920)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 46) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 29) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 87) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 45) || (sum(this/SearchAndRescueFM.total_cost) < 920))
+Feb 01, 2014 1:43:33 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 36, Improving on [44, 29, 87, 45, 920]
+Feb 01, 2014 1:43:33 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 44)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 29)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 87)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 45)
+	(sum(this/SearchAndRescueFM.total_cost) <= 920)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 44) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 29) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 87) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 45) || (sum(this/SearchAndRescueFM.total_cost) < 920))
+Feb 01, 2014 1:43:33 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+FINE: Found Pareto point with values: [44, 29, 87, 45, 920]
+Feb 01, 2014 1:43:34 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 37, Improving on [50, 33, 74, 46, 670]
+Feb 01, 2014 1:43:34 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 50)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 33)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 74)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 46)
+	(sum(this/SearchAndRescueFM.total_cost) <= 670)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 50) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 33) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 74) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 46) || (sum(this/SearchAndRescueFM.total_cost) < 670))
+Feb 01, 2014 1:43:34 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+FINE: Found Pareto point with values: [50, 33, 74, 46, 670]
+Feb 01, 2014 1:43:35 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 38, Improving on [42, 32, 85, 48, 920]
+Feb 01, 2014 1:43:35 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 42)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 32)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 85)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 48)
+	(sum(this/SearchAndRescueFM.total_cost) <= 920)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 42) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 32) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 85) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 48) || (sum(this/SearchAndRescueFM.total_cost) < 920))
+Feb 01, 2014 1:43:35 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+FINE: Found Pareto point with values: [42, 32, 85, 48, 920]
+Feb 01, 2014 1:43:36 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 38, Improving on [48, 30, 91, 50, 595]
+Feb 01, 2014 1:43:36 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 48)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 30)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 91)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 50)
+	(sum(this/SearchAndRescueFM.total_cost) <= 595)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 48) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 30) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 91) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 50) || (sum(this/SearchAndRescueFM.total_cost) < 595))
+Feb 01, 2014 1:43:36 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 38, Improving on [48, 30, 91, 50, 590]
+Feb 01, 2014 1:43:36 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 48)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 30)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 91)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 50)
+	(sum(this/SearchAndRescueFM.total_cost) <= 590)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 48) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 30) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 91) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 50) || (sum(this/SearchAndRescueFM.total_cost) < 590))
+Feb 01, 2014 1:43:36 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 38, Improving on [44, 30, 86, 47, 590]
+Feb 01, 2014 1:43:36 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 44)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 30)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 86)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 47)
+	(sum(this/SearchAndRescueFM.total_cost) <= 590)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 44) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 30) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 86) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 47) || (sum(this/SearchAndRescueFM.total_cost) < 590))
+Feb 01, 2014 1:43:36 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+FINE: Found Pareto point with values: [44, 30, 86, 47, 590]
+Feb 01, 2014 1:43:37 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 39, Improving on [46, 31, 81, 46, 1005]
+Feb 01, 2014 1:43:37 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 46)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 31)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 81)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 46)
+	(sum(this/SearchAndRescueFM.total_cost) <= 1005)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 46) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 31) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 81) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 46) || (sum(this/SearchAndRescueFM.total_cost) < 1005))
+Feb 01, 2014 1:43:37 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 39, Improving on [46, 31, 81, 46, 1000]
+Feb 01, 2014 1:43:37 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 46)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 31)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 81)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 46)
+	(sum(this/SearchAndRescueFM.total_cost) <= 1000)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 46) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 31) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 81) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 46) || (sum(this/SearchAndRescueFM.total_cost) < 1000))
+Feb 01, 2014 1:43:37 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 39, Improving on [43, 31, 78, 45, 1000]
+Feb 01, 2014 1:43:37 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 43)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 31)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 78)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 45)
+	(sum(this/SearchAndRescueFM.total_cost) <= 1000)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 43) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 31) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 78) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 45) || (sum(this/SearchAndRescueFM.total_cost) < 1000))
+Feb 01, 2014 1:43:37 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+FINE: Found Pareto point with values: [43, 31, 78, 45, 1000]
+Feb 01, 2014 1:43:38 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 40, Improving on [46, 33, 74, 48, 1005]
+Feb 01, 2014 1:43:38 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 46)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 33)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 74)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 48)
+	(sum(this/SearchAndRescueFM.total_cost) <= 1005)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 46) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 33) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 74) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 48) || (sum(this/SearchAndRescueFM.total_cost) < 1005))
+Feb 01, 2014 1:43:38 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 40, Improving on [46, 33, 74, 48, 1000]
+Feb 01, 2014 1:43:38 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 46)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 33)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 74)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 48)
+	(sum(this/SearchAndRescueFM.total_cost) <= 1000)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 46) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 33) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 74) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 48) || (sum(this/SearchAndRescueFM.total_cost) < 1000))
+Feb 01, 2014 1:43:38 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+FINE: Found Pareto point with values: [46, 33, 74, 48, 1000]
+Feb 01, 2014 1:43:39 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 41, Improving on [48, 30, 76, 45, 1000]
+Feb 01, 2014 1:43:39 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 48)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 30)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 76)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 45)
+	(sum(this/SearchAndRescueFM.total_cost) <= 1000)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 48) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 30) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 76) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 45) || (sum(this/SearchAndRescueFM.total_cost) < 1000))
+Feb 01, 2014 1:43:39 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+FINE: Found Pareto point with values: [48, 30, 76, 45, 1000]
+Feb 01, 2014 1:43:40 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 42, Improving on [53, 35, 73, 46, 675]
+Feb 01, 2014 1:43:40 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 53)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 35)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 73)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 46)
+	(sum(this/SearchAndRescueFM.total_cost) <= 675)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 53) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 35) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 73) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 46) || (sum(this/SearchAndRescueFM.total_cost) < 675))
+Feb 01, 2014 1:43:40 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 42, Improving on [53, 35, 73, 46, 670]
+Feb 01, 2014 1:43:40 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/SearchAndRescueFM.total_BatteryUsage) <= 53)
+	(sum(this/SearchAndRescueFM.total_DeploymentTime) <= 35)
+	(sum(this/SearchAndRescueFM.total_DevelopmentTime) <= 73)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 46)
+	(sum(this/SearchAndRescueFM.total_cost) <= 670)
+	((sum(this/SearchAndRescueFM.total_BatteryUsage) < 53) || (sum(this/SearchAndRescueFM.total_DeploymentTime) < 35) || (sum(this/SearchAndRescueFM.total_DevelopmentTime) < 73) || (sum(this/SearchAndRescueFM.total_RampUpTime) < 46) || (sum(this/SearchAndRescueFM.total_cost) < 670))
+Feb 01, 2014 1:43:40 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+FINE: Found Pareto point with values: [53, 35, 73, 46, 670]
+Feb 01, 2014 1:43:41 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: All Pareto points found. At time: 43
+Feb 01, 2014 1:43:41 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm debugWriteStatistics
+FINE: Solver statistics:
+	# Sat Call: 127
+	# Unsat Call: 49
+	# Total Time in Sat Calls: 13490
+	# Total Time in Sat Calls Solving: 1828
+	# Total Time in Sat Calls Translating: 11662
+	# Total Time in Unsat Calls: 1550
+	# Total Time in Unsat Calls Solving: 282
+	# Total Time in Unsat Calls Translating: 1268
+	# Magnifier Sat Call: 0
+	# Magnifier Unsat Call: 0
+	# Total Time in Magnifier: 0

@@ -81,7 +81,6 @@
    <tuple> <atom label="PKJab$0"/> <atom label="Base$0"/> </tuple>
    <tuple> <atom label="PKJab$0"/> <atom label="ContactListSource$0"/> </tuple>
    <tuple> <atom label="PKJab$0"/> <atom label="ServerRoster$0"/> </tuple>
-   <tuple> <atom label="PKJab$0"/> <atom label="XEP0092$0"/> </tuple>
    <types> <type ID="17"/> <type ID="5"/> </types>
 </field>
 

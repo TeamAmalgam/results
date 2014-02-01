@@ -1,217 +1,215 @@
-Feb 01, 2014 12:55:32 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+Feb 01, 2014 1:47:40 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
 FINE: Found a solution. At time: 1, Improving on [898]
-Feb 01, 2014 12:55:32 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+Feb 01, 2014 1:47:40 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
 FINE: Possible Improvements are conjunction of 
 	(sum(this/Sqlite.totalFootprint) <= 898)
 	(sum(this/Sqlite.totalFootprint) < 898)
-Feb 01, 2014 12:55:32 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+Feb 01, 2014 1:47:40 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
 FINE: Found a solution. At time: 1, Improving on [43]
-Feb 01, 2014 12:55:32 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+Feb 01, 2014 1:47:40 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
 FINE: Possible Improvements are conjunction of 
 	(sum(this/Sqlite.totalFootprint) <= 43)
 	(sum(this/Sqlite.totalFootprint) < 43)
-Feb 01, 2014 12:55:32 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+Feb 01, 2014 1:47:40 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
 FINE: Found a solution. At time: 1, Improving on [41]
-Feb 01, 2014 12:55:32 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+Feb 01, 2014 1:47:40 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
 FINE: Possible Improvements are conjunction of 
 	(sum(this/Sqlite.totalFootprint) <= 41)
 	(sum(this/Sqlite.totalFootprint) < 41)
-Feb 01, 2014 12:55:32 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+Feb 01, 2014 1:47:40 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
 FINE: Found a solution. At time: 1, Improving on [40]
-Feb 01, 2014 12:55:32 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+Feb 01, 2014 1:47:40 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
 FINE: Possible Improvements are conjunction of 
 	(sum(this/Sqlite.totalFootprint) <= 40)
 	(sum(this/Sqlite.totalFootprint) < 40)
-Feb 01, 2014 12:55:32 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+Feb 01, 2014 1:47:40 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
 FINE: Found a solution. At time: 1, Improving on [32]
-Feb 01, 2014 12:55:32 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+Feb 01, 2014 1:47:40 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
 FINE: Possible Improvements are conjunction of 
 	(sum(this/Sqlite.totalFootprint) <= 32)
 	(sum(this/Sqlite.totalFootprint) < 32)
-Feb 01, 2014 12:55:32 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+Feb 01, 2014 1:47:40 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
 FINE: Found a solution. At time: 1, Improving on [1]
-Feb 01, 2014 12:55:32 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+Feb 01, 2014 1:47:40 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
 FINE: Possible Improvements are conjunction of 
 	(sum(this/Sqlite.totalFootprint) <= 1)
 	(sum(this/Sqlite.totalFootprint) < 1)
-Feb 01, 2014 12:55:32 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+Feb 01, 2014 1:47:40 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
 FINE: Found a solution. At time: 1, Improving on [-1]
-Feb 01, 2014 12:55:32 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+Feb 01, 2014 1:47:40 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
 FINE: Possible Improvements are conjunction of 
 	(sum(this/Sqlite.totalFootprint) <= -1)
 	(sum(this/Sqlite.totalFootprint) < -1)
-Feb 01, 2014 12:55:32 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+Feb 01, 2014 1:47:40 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
 FINE: Found a solution. At time: 1, Improving on [-2]
-Feb 01, 2014 12:55:32 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+Feb 01, 2014 1:47:40 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
 FINE: Possible Improvements are conjunction of 
 	(sum(this/Sqlite.totalFootprint) <= -2)
 	(sum(this/Sqlite.totalFootprint) < -2)
-Feb 01, 2014 12:55:32 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+Feb 01, 2014 1:47:40 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
 FINE: Found a solution. At time: 1, Improving on [-3]
-Feb 01, 2014 12:55:32 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+Feb 01, 2014 1:47:40 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
 FINE: Possible Improvements are conjunction of 
 	(sum(this/Sqlite.totalFootprint) <= -3)
 	(sum(this/Sqlite.totalFootprint) < -3)
-Feb 01, 2014 12:55:32 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+Feb 01, 2014 1:47:40 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
 FINE: Found a solution. At time: 1, Improving on [-19]
-Feb 01, 2014 12:55:32 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+Feb 01, 2014 1:47:40 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
 FINE: Possible Improvements are conjunction of 
 	(sum(this/Sqlite.totalFootprint) <= -19)
 	(sum(this/Sqlite.totalFootprint) < -19)
-Feb 01, 2014 12:55:32 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+Feb 01, 2014 1:47:40 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
 FINE: Found a solution. At time: 1, Improving on [-43]
-Feb 01, 2014 12:55:32 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+Feb 01, 2014 1:47:40 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
 FINE: Possible Improvements are conjunction of 
 	(sum(this/Sqlite.totalFootprint) <= -43)
 	(sum(this/Sqlite.totalFootprint) < -43)
-Feb 01, 2014 12:55:32 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+Feb 01, 2014 1:47:41 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
 FINE: Found a solution. At time: 1, Improving on [-50]
-Feb 01, 2014 12:55:32 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+Feb 01, 2014 1:47:41 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
 FINE: Possible Improvements are conjunction of 
 	(sum(this/Sqlite.totalFootprint) <= -50)
 	(sum(this/Sqlite.totalFootprint) < -50)
-Feb 01, 2014 12:55:33 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+Feb 01, 2014 1:47:41 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
 FINE: Found a solution. At time: 1, Improving on [-54]
-Feb 01, 2014 12:55:33 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+Feb 01, 2014 1:47:41 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
 FINE: Possible Improvements are conjunction of 
 	(sum(this/Sqlite.totalFootprint) <= -54)
 	(sum(this/Sqlite.totalFootprint) < -54)
-Feb 01, 2014 12:55:33 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+Feb 01, 2014 1:47:41 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
 FINE: Found a solution. At time: 1, Improving on [-55]
-Feb 01, 2014 12:55:33 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+Feb 01, 2014 1:47:41 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
 FINE: Possible Improvements are conjunction of 
 	(sum(this/Sqlite.totalFootprint) <= -55)
 	(sum(this/Sqlite.totalFootprint) < -55)
-Feb 01, 2014 12:55:33 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+Feb 01, 2014 1:47:41 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
 FINE: Found a solution. At time: 1, Improving on [-56]
-Feb 01, 2014 12:55:33 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+Feb 01, 2014 1:47:41 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
 FINE: Possible Improvements are conjunction of 
 	(sum(this/Sqlite.totalFootprint) <= -56)
 	(sum(this/Sqlite.totalFootprint) < -56)
-Feb 01, 2014 12:55:33 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+Feb 01, 2014 1:47:41 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
 FINE: Found a solution. At time: 1, Improving on [-64]
-Feb 01, 2014 12:55:33 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+Feb 01, 2014 1:47:41 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
 FINE: Possible Improvements are conjunction of 
 	(sum(this/Sqlite.totalFootprint) <= -64)
 	(sum(this/Sqlite.totalFootprint) < -64)
-Feb 01, 2014 12:55:33 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+Feb 01, 2014 1:47:41 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
 FINE: Found a solution. At time: 1, Improving on [-67]
-Feb 01, 2014 12:55:33 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+Feb 01, 2014 1:47:41 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
 FINE: Possible Improvements are conjunction of 
 	(sum(this/Sqlite.totalFootprint) <= -67)
 	(sum(this/Sqlite.totalFootprint) < -67)
-Feb 01, 2014 12:55:33 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+Feb 01, 2014 1:47:41 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
 FINE: Found a solution. At time: 1, Improving on [-71]
-Feb 01, 2014 12:55:33 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+Feb 01, 2014 1:47:41 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
 FINE: Possible Improvements are conjunction of 
 	(sum(this/Sqlite.totalFootprint) <= -71)
 	(sum(this/Sqlite.totalFootprint) < -71)
-Feb 01, 2014 12:55:33 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+Feb 01, 2014 1:47:41 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
 FINE: Found a solution. At time: 1, Improving on [-73]
-Feb 01, 2014 12:55:33 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+Feb 01, 2014 1:47:41 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
 FINE: Possible Improvements are conjunction of 
 	(sum(this/Sqlite.totalFootprint) <= -73)
 	(sum(this/Sqlite.totalFootprint) < -73)
-Feb 01, 2014 12:55:33 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+Feb 01, 2014 1:47:41 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
 FINE: Found a solution. At time: 1, Improving on [-81]
-Feb 01, 2014 12:55:33 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+Feb 01, 2014 1:47:41 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
 FINE: Possible Improvements are conjunction of 
 	(sum(this/Sqlite.totalFootprint) <= -81)
 	(sum(this/Sqlite.totalFootprint) < -81)
-Feb 01, 2014 12:55:33 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+Feb 01, 2014 1:47:41 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
 FINE: Found a solution. At time: 1, Improving on [-82]
-Feb 01, 2014 12:55:33 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+Feb 01, 2014 1:47:41 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
 FINE: Possible Improvements are conjunction of 
 	(sum(this/Sqlite.totalFootprint) <= -82)
 	(sum(this/Sqlite.totalFootprint) < -82)
-Feb 01, 2014 12:55:33 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
-FINE: Found a solution. At time: 1, Improving on [-87]
-Feb 01, 2014 12:55:33 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+Feb 01, 2014 1:47:41 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 2, Improving on [-87]
+Feb 01, 2014 1:47:41 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
 FINE: Possible Improvements are conjunction of 
 	(sum(this/Sqlite.totalFootprint) <= -87)
 	(sum(this/Sqlite.totalFootprint) < -87)
-Feb 01, 2014 12:55:33 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
-FINE: Found a solution. At time: 1, Improving on [-88]
-Feb 01, 2014 12:55:33 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+Feb 01, 2014 1:47:41 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 2, Improving on [-88]
+Feb 01, 2014 1:47:41 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
 FINE: Possible Improvements are conjunction of 
 	(sum(this/Sqlite.totalFootprint) <= -88)
 	(sum(this/Sqlite.totalFootprint) < -88)
-Feb 01, 2014 12:55:33 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
-FINE: Found a solution. At time: 1, Improving on [-89]
-Feb 01, 2014 12:55:33 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+Feb 01, 2014 1:47:41 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 2, Improving on [-89]
+Feb 01, 2014 1:47:41 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
 FINE: Possible Improvements are conjunction of 
 	(sum(this/Sqlite.totalFootprint) <= -89)
 	(sum(this/Sqlite.totalFootprint) < -89)
-Feb 01, 2014 12:55:33 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
-FINE: Found a solution. At time: 1, Improving on [-91]
-Feb 01, 2014 12:55:33 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+Feb 01, 2014 1:47:41 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 2, Improving on [-91]
+Feb 01, 2014 1:47:41 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
 FINE: Possible Improvements are conjunction of 
 	(sum(this/Sqlite.totalFootprint) <= -91)
 	(sum(this/Sqlite.totalFootprint) < -91)
-Feb 01, 2014 12:55:33 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
-FINE: Found a solution. At time: 1, Improving on [-92]
-Feb 01, 2014 12:55:33 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+Feb 01, 2014 1:47:41 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 2, Improving on [-92]
+Feb 01, 2014 1:47:41 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
 FINE: Possible Improvements are conjunction of 
 	(sum(this/Sqlite.totalFootprint) <= -92)
 	(sum(this/Sqlite.totalFootprint) < -92)
-Feb 01, 2014 12:55:33 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
-FINE: Found a solution. At time: 1, Improving on [-93]
-Feb 01, 2014 12:55:33 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+Feb 01, 2014 1:47:41 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 2, Improving on [-93]
+Feb 01, 2014 1:47:41 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
 FINE: Possible Improvements are conjunction of 
 	(sum(this/Sqlite.totalFootprint) <= -93)
 	(sum(this/Sqlite.totalFootprint) < -93)
-Feb 01, 2014 12:55:33 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
-FINE: Found a solution. At time: 1, Improving on [-94]
-Feb 01, 2014 12:55:33 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+Feb 01, 2014 1:47:41 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 2, Improving on [-94]
+Feb 01, 2014 1:47:41 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
 FINE: Possible Improvements are conjunction of 
 	(sum(this/Sqlite.totalFootprint) <= -94)
 	(sum(this/Sqlite.totalFootprint) < -94)
-Feb 01, 2014 12:55:33 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+Feb 01, 2014 1:47:41 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
 FINE: Found a solution. At time: 2, Improving on [-95]
-Feb 01, 2014 12:55:33 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+Feb 01, 2014 1:47:41 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
 FINE: Possible Improvements are conjunction of 
 	(sum(this/Sqlite.totalFootprint) <= -95)
 	(sum(this/Sqlite.totalFootprint) < -95)
-Feb 01, 2014 12:55:33 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+Feb 01, 2014 1:47:41 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
 FINE: Found a solution. At time: 2, Improving on [-96]
-Feb 01, 2014 12:55:33 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+Feb 01, 2014 1:47:41 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
 FINE: Possible Improvements are conjunction of 
 	(sum(this/Sqlite.totalFootprint) <= -96)
 	(sum(this/Sqlite.totalFootprint) < -96)
-Feb 01, 2014 12:55:33 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+Feb 01, 2014 1:47:41 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
 FINE: Found a solution. At time: 2, Improving on [-97]
-Feb 01, 2014 12:55:33 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+Feb 01, 2014 1:47:41 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
 FINE: Possible Improvements are conjunction of 
 	(sum(this/Sqlite.totalFootprint) <= -97)
 	(sum(this/Sqlite.totalFootprint) < -97)
-Feb 01, 2014 12:55:33 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+Feb 01, 2014 1:47:41 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
 FINE: Found a solution. At time: 2, Improving on [-98]
-Feb 01, 2014 12:55:33 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+Feb 01, 2014 1:47:41 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
 FINE: Possible Improvements are conjunction of 
 	(sum(this/Sqlite.totalFootprint) <= -98)
 	(sum(this/Sqlite.totalFootprint) < -98)
-Feb 01, 2014 12:55:33 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+Feb 01, 2014 1:47:41 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
 FINE: Found a solution. At time: 2, Improving on [-99]
-Feb 01, 2014 12:55:33 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+Feb 01, 2014 1:47:41 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
 FINE: Possible Improvements are conjunction of 
 	(sum(this/Sqlite.totalFootprint) <= -99)
 	(sum(this/Sqlite.totalFootprint) < -99)
-Feb 01, 2014 12:55:33 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+Feb 01, 2014 1:47:41 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
 FINE: Found Pareto point with values: [-99]
-Feb 01, 2014 12:57:23 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
-FINE: Magnifying glass found 384 solution(s). At time: 112
-Feb 01, 2014 12:57:24 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
-FINE: All Pareto points found. At time: 112
-Feb 01, 2014 12:57:24 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm debugWriteStatistics
+Feb 01, 2014 1:47:42 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: All Pareto points found. At time: 3
+Feb 01, 2014 1:47:42 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm debugWriteStatistics
 FINE: Solver statistics:
 	# Sat Call: 33
 	# Unsat Call: 2
-	# Total Time in Sat Calls: 1212
-	# Total Time in Sat Calls Solving: 167
-	# Total Time in Sat Calls Translating: 1045
-	# Total Time in Unsat Calls: 255
-	# Total Time in Unsat Calls Solving: 91
-	# Total Time in Unsat Calls Translating: 164
-	# Magnifier Sat Call: 384
-	# Magnifier Unsat Call: 1
-	# Total Time in Magnifier: 98868
+	# Total Time in Sat Calls: 1385
+	# Total Time in Sat Calls Solving: 193
+	# Total Time in Sat Calls Translating: 1192
+	# Total Time in Unsat Calls: 304
+	# Total Time in Unsat Calls Solving: 96
+	# Total Time in Unsat Calls Translating: 208
+	# Magnifier Sat Call: 0
+	# Magnifier Unsat Call: 0
+	# Total Time in Magnifier: 0
