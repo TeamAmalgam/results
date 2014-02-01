@@ -1,0 +1,101 @@
+<alloy builddate="unknown">
+
+<instance bitwidth="11" maxseq="4" command="Run featureSet for 11 int, exactly 1 PKJab optimize o_global" filename="">
+
+<sig label="seq/Int" ID="0" parentID="1" builtin="yes">
+</sig>
+
+<sig label="Int" ID="1" parentID="2" builtin="yes">
+</sig>
+
+<sig label="String" ID="3" parentID="2" builtin="yes">
+</sig>
+
+<sig label="this/Base" ID="4" parentID="5" one="yes">
+   <atom label="Base$0"/>
+</sig>
+
+<sig label="this/ContactListSource" ID="6" parentID="5" one="yes">
+   <atom label="ContactListSource$0"/>
+</sig>
+
+<sig label="this/ServerRoster" ID="7" parentID="5" one="yes">
+   <atom label="ServerRoster$0"/>
+</sig>
+
+<sig label="this/XEP0085" ID="8" parentID="5" one="yes">
+   <atom label="XEP0085$0"/>
+</sig>
+
+<sig label="this/Composing" ID="9" parentID="5" one="yes">
+   <atom label="Composing$0"/>
+</sig>
+
+<sig label="this/SendComposing" ID="10" parentID="5" one="yes">
+   <atom label="SendComposing$0"/>
+</sig>
+
+<sig label="this/History" ID="11" parentID="5" one="yes">
+   <atom label="History$0"/>
+</sig>
+
+<sig label="this/Timestamps" ID="12" parentID="5" one="yes">
+   <atom label="Timestamps$0"/>
+</sig>
+
+<sig label="this/XEP0092" ID="13" parentID="5" one="yes">
+   <atom label="XEP0092$0"/>
+</sig>
+
+<sig label="this/SendVersion" ID="14" parentID="5" one="yes">
+   <atom label="SendVersion$0"/>
+</sig>
+
+<sig label="this/ThemeSelection" ID="15" parentID="5" one="yes">
+   <atom label="ThemeSelection$0"/>
+</sig>
+
+<sig label="this/IMeasurable" ID="5" parentID="2" abstract="yes">
+</sig>
+
+<field label="footprint" ID="16" parentID="5">
+   <tuple> <atom label="Base$0"/> <atom label="696"/> </tuple>
+   <tuple> <atom label="ContactListSource$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="ServerRoster$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="XEP0085$0"/> <atom label="27"/> </tuple>
+   <tuple> <atom label="Composing$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="SendComposing$0"/> <atom label="13"/> </tuple>
+   <tuple> <atom label="History$0"/> <atom label="5"/> </tuple>
+   <tuple> <atom label="Timestamps$0"/> <atom label="3"/> </tuple>
+   <tuple> <atom label="XEP0092$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="SendVersion$0"/> <atom label="5"/> </tuple>
+   <tuple> <atom label="ThemeSelection$0"/> <atom label="58"/> </tuple>
+   <types> <type ID="5"/> <type ID="1"/> </types>
+</field>
+
+<sig label="this/PKJab" ID="17" parentID="2" one="yes">
+   <atom label="PKJab$0"/>
+</sig>
+
+<field label="features" ID="18" parentID="17">
+   <tuple> <atom label="PKJab$0"/> <atom label="Base$0"/> </tuple>
+   <tuple> <atom label="PKJab$0"/> <atom label="ContactListSource$0"/> </tuple>
+   <tuple> <atom label="PKJab$0"/> <atom label="ServerRoster$0"/> </tuple>
+   <tuple> <atom label="PKJab$0"/> <atom label="XEP0085$0"/> </tuple>
+   <tuple> <atom label="PKJab$0"/> <atom label="Composing$0"/> </tuple>
+   <tuple> <atom label="PKJab$0"/> <atom label="SendComposing$0"/> </tuple>
+   <tuple> <atom label="PKJab$0"/> <atom label="XEP0092$0"/> </tuple>
+   <types> <type ID="17"/> <type ID="5"/> </types>
+</field>
+
+<field label="totalFootprint" ID="19" parentID="17">
+   <tuple> <atom label="PKJab$0"/> <atom label="736"/> </tuple>
+   <types> <type ID="17"/> <type ID="1"/> </types>
+</field>
+
+<sig label="univ" ID="2" builtin="yes">
+</sig>
+
+</instance>
+
+</alloy>

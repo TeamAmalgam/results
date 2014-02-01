@@ -1,0 +1,512 @@
+<alloy builddate="unknown">
+
+<instance bitwidth="12" maxseq="4" command="Run featureSet for 12 int, exactly 1 Sqlite optimize o_global" filename="">
+
+<sig label="seq/Int" ID="0" parentID="1" builtin="yes">
+</sig>
+
+<sig label="Int" ID="1" parentID="2" builtin="yes">
+</sig>
+
+<sig label="String" ID="3" parentID="2" builtin="yes">
+</sig>
+
+<sig label="this/OperatingSystemCharacteristics" ID="4" parentID="5" one="yes">
+   <atom label="OperatingSystemCharacteristics$0"/>
+</sig>
+
+<sig label="this/SQLITE_4_BYTE_ALIGNED_MALLOC" ID="6" parentID="5" one="yes">
+   <atom label="SQLITE_4_BYTE_ALIGNED_MALLOC$0"/>
+</sig>
+
+<sig label="this/SQLITE_CASE_SENSITIVE_LIKE" ID="7" parentID="5" one="yes">
+   <atom label="SQLITE_CASE_SENSITIVE_LIKE$0"/>
+</sig>
+
+<sig label="this/SQLITE_HAVE_ISNAN" ID="8" parentID="5" one="yes">
+   <atom label="SQLITE_HAVE_ISNAN$0"/>
+</sig>
+
+<sig label="this/SQLITE_SECURE_DELETE" ID="9" parentID="5" one="yes">
+   <atom label="SQLITE_SECURE_DELETE$0"/>
+</sig>
+
+<sig label="this/ChooseSQLITE_TEMP_STORE" ID="10" parentID="5" one="yes">
+   <atom label="ChooseSQLITE_TEMP_STORE$0"/>
+</sig>
+
+<sig label="this/SQLITE_TEMP_STORE_EQ_0" ID="11" parentID="5" one="yes">
+   <atom label="SQLITE_TEMP_STORE_EQ_0$0"/>
+</sig>
+
+<sig label="this/SQLITE_TEMP_STORE_EQ_1" ID="12" parentID="5" one="yes">
+   <atom label="SQLITE_TEMP_STORE_EQ_1$0"/>
+</sig>
+
+<sig label="this/SQLITE_TEMP_STORE_EQ_2" ID="13" parentID="5" one="yes">
+   <atom label="SQLITE_TEMP_STORE_EQ_2$0"/>
+</sig>
+
+<sig label="this/SQLITE_TEMP_STORE_EQ_3" ID="14" parentID="5" one="yes">
+   <atom label="SQLITE_TEMP_STORE_EQ_3$0"/>
+</sig>
+
+<sig label="this/EnableFeatures" ID="15" parentID="5" one="yes">
+   <atom label="EnableFeatures$0"/>
+</sig>
+
+<sig label="this/SQLITE_ENABLE_ATOMIC_WRITE" ID="16" parentID="5" one="yes">
+   <atom label="SQLITE_ENABLE_ATOMIC_WRITE$0"/>
+</sig>
+
+<sig label="this/SQLITE_ENABLE_COLUMN_METADATA" ID="17" parentID="5" one="yes">
+   <atom label="SQLITE_ENABLE_COLUMN_METADATA$0"/>
+</sig>
+
+<sig label="this/SQLITE_ENABLE_FTS3" ID="18" parentID="5" one="yes">
+   <atom label="SQLITE_ENABLE_FTS3$0"/>
+</sig>
+
+<sig label="this/SQLITE_ENABLE_FTS3_PARENTHESIS" ID="19" parentID="5" one="yes">
+   <atom label="SQLITE_ENABLE_FTS3_PARENTHESIS$0"/>
+</sig>
+
+<sig label="this/SQLITE_ENABLE_MEMORY_MANAGEMENT" ID="20" parentID="5" one="yes">
+   <atom label="SQLITE_ENABLE_MEMORY_MANAGEMENT$0"/>
+</sig>
+
+<sig label="this/ChooseMemSys" ID="21" parentID="5" one="yes">
+   <atom label="ChooseMemSys$0"/>
+</sig>
+
+<sig label="this/SQLITE_ENABLE_MEMSYS3" ID="22" parentID="5" one="yes">
+   <atom label="SQLITE_ENABLE_MEMSYS3$0"/>
+</sig>
+
+<sig label="this/SQLITE_ENABLE_MEMSYS5" ID="23" parentID="5" one="yes">
+   <atom label="SQLITE_ENABLE_MEMSYS5$0"/>
+</sig>
+
+<sig label="this/SQLITE_ENABLE_RTREE" ID="24" parentID="5" one="yes">
+   <atom label="SQLITE_ENABLE_RTREE$0"/>
+</sig>
+
+<sig label="this/SQLITE_ENABLE_STAT2" ID="25" parentID="5" one="yes">
+   <atom label="SQLITE_ENABLE_STAT2$0"/>
+</sig>
+
+<sig label="this/SQLITE_ENABLE_UPDATE_DELETE_LIMIT" ID="26" parentID="5" one="yes">
+   <atom label="SQLITE_ENABLE_UPDATE_DELETE_LIMIT$0"/>
+</sig>
+
+<sig label="this/SQLITE_ENABLE_UNLOCK_NOTIFY" ID="27" parentID="5" one="yes">
+   <atom label="SQLITE_ENABLE_UNLOCK_NOTIFY$0"/>
+</sig>
+
+<sig label="this/SQLITE_SOUNDEX" ID="28" parentID="5" one="yes">
+   <atom label="SQLITE_SOUNDEX$0"/>
+</sig>
+
+<sig label="this/YYTRACKMAXSTACKDEPTH" ID="29" parentID="5" one="yes">
+   <atom label="YYTRACKMAXSTACKDEPTH$0"/>
+</sig>
+
+<sig label="this/DisableFeatures" ID="30" parentID="5" one="yes">
+   <atom label="DisableFeatures$0"/>
+</sig>
+
+<sig label="this/SQLITE_DISABLE_LFS" ID="31" parentID="5" one="yes">
+   <atom label="SQLITE_DISABLE_LFS$0"/>
+</sig>
+
+<sig label="this/SQLITE_DISABLE_DIRSYNC" ID="32" parentID="5" one="yes">
+   <atom label="SQLITE_DISABLE_DIRSYNC$0"/>
+</sig>
+
+<sig label="this/OmitFeatures" ID="33" parentID="5" one="yes">
+   <atom label="OmitFeatures$0"/>
+</sig>
+
+<sig label="this/SQLITE_OMIT_ALTERTABLE" ID="34" parentID="5" one="yes">
+   <atom label="SQLITE_OMIT_ALTERTABLE$0"/>
+</sig>
+
+<sig label="this/SQLITE_OMIT_ANALYZE" ID="35" parentID="5" one="yes">
+   <atom label="SQLITE_OMIT_ANALYZE$0"/>
+</sig>
+
+<sig label="this/SQLITE_OMIT_ATTACH" ID="36" parentID="5" one="yes">
+   <atom label="SQLITE_OMIT_ATTACH$0"/>
+</sig>
+
+<sig label="this/SQLITE_OMIT_AUTHORIZATION" ID="37" parentID="5" one="yes">
+   <atom label="SQLITE_OMIT_AUTHORIZATION$0"/>
+</sig>
+
+<sig label="this/SQLITE_OMIT_AUTOINCREMENT" ID="38" parentID="5" one="yes">
+   <atom label="SQLITE_OMIT_AUTOINCREMENT$0"/>
+</sig>
+
+<sig label="this/SQLITE_OMIT_AUTOMATIC_INDEX" ID="39" parentID="5" one="yes">
+   <atom label="SQLITE_OMIT_AUTOMATIC_INDEX$0"/>
+</sig>
+
+<sig label="this/SQLITE_OMIT_AUTOINIT" ID="40" parentID="5" one="yes">
+   <atom label="SQLITE_OMIT_AUTOINIT$0"/>
+</sig>
+
+<sig label="this/SQLITE_OMIT_AUTOVACUUM" ID="41" parentID="5" one="yes">
+   <atom label="SQLITE_OMIT_AUTOVACUUM$0"/>
+</sig>
+
+<sig label="this/SQLITE_OMIT_BETWEEN_OPTIMIZATION" ID="42" parentID="5" one="yes">
+   <atom label="SQLITE_OMIT_BETWEEN_OPTIMIZATION$0"/>
+</sig>
+
+<sig label="this/SQLITE_OMIT_BLOB_LITERAL" ID="43" parentID="5" one="yes">
+   <atom label="SQLITE_OMIT_BLOB_LITERAL$0"/>
+</sig>
+
+<sig label="this/SQLITE_OMIT_BTREECOUNT" ID="44" parentID="5" one="yes">
+   <atom label="SQLITE_OMIT_BTREECOUNT$0"/>
+</sig>
+
+<sig label="this/SQLITE_OMIT_BUILTIN_TEST" ID="45" parentID="5" one="yes">
+   <atom label="SQLITE_OMIT_BUILTIN_TEST$0"/>
+</sig>
+
+<sig label="this/SQLITE_OMIT_CAST" ID="46" parentID="5" one="yes">
+   <atom label="SQLITE_OMIT_CAST$0"/>
+</sig>
+
+<sig label="this/SQLITE_OMIT_CHECK" ID="47" parentID="5" one="yes">
+   <atom label="SQLITE_OMIT_CHECK$0"/>
+</sig>
+
+<sig label="this/SQLITE_OMIT_COMPILEOPTION_DIAGS" ID="48" parentID="5" one="yes">
+   <atom label="SQLITE_OMIT_COMPILEOPTION_DIAGS$0"/>
+</sig>
+
+<sig label="this/SQLITE_OMIT_COMPLETE" ID="49" parentID="5" one="yes">
+   <atom label="SQLITE_OMIT_COMPLETE$0"/>
+</sig>
+
+<sig label="this/SQLITE_OMIT_COMPOUND_SELECT" ID="50" parentID="5" one="yes">
+   <atom label="SQLITE_OMIT_COMPOUND_SELECT$0"/>
+</sig>
+
+<sig label="this/SQLITE_OMIT_CONFLICT_CLAUSE" ID="51" parentID="5" one="yes">
+   <atom label="SQLITE_OMIT_CONFLICT_CLAUSE$0"/>
+</sig>
+
+<sig label="this/SQLITE_OMIT_DATETIME_FUNCS" ID="52" parentID="5" one="yes">
+   <atom label="SQLITE_OMIT_DATETIME_FUNCS$0"/>
+</sig>
+
+<sig label="this/SQLITE_OMIT_DECLTYPE" ID="53" parentID="5" one="yes">
+   <atom label="SQLITE_OMIT_DECLTYPE$0"/>
+</sig>
+
+<sig label="this/SQLITE_OMIT_DEPRECATED" ID="54" parentID="5" one="yes">
+   <atom label="SQLITE_OMIT_DEPRECATED$0"/>
+</sig>
+
+<sig label="this/SQLITE_OMIT_EXPLAIN" ID="55" parentID="5" one="yes">
+   <atom label="SQLITE_OMIT_EXPLAIN$0"/>
+</sig>
+
+<sig label="this/SQLITE_OMIT_FLAG_PRAGMAS" ID="56" parentID="5" one="yes">
+   <atom label="SQLITE_OMIT_FLAG_PRAGMAS$0"/>
+</sig>
+
+<sig label="this/SQLITE_OMIT_FLOATING_POINT" ID="57" parentID="5" one="yes">
+   <atom label="SQLITE_OMIT_FLOATING_POINT$0"/>
+</sig>
+
+<sig label="this/SQLITE_OMIT_FOREIGN_KEY" ID="58" parentID="5" one="yes">
+   <atom label="SQLITE_OMIT_FOREIGN_KEY$0"/>
+</sig>
+
+<sig label="this/SQLITE_OMIT_GET_TABLE" ID="59" parentID="5" one="yes">
+   <atom label="SQLITE_OMIT_GET_TABLE$0"/>
+</sig>
+
+<sig label="this/SQLITE_OMIT_INCRBLOB" ID="60" parentID="5" one="yes">
+   <atom label="SQLITE_OMIT_INCRBLOB$0"/>
+</sig>
+
+<sig label="this/SQLITE_OMIT_INTEGRITY_CHECK" ID="61" parentID="5" one="yes">
+   <atom label="SQLITE_OMIT_INTEGRITY_CHECK$0"/>
+</sig>
+
+<sig label="this/SQLITE_OMIT_LIKE_OPTIMIZATION" ID="62" parentID="5" one="yes">
+   <atom label="SQLITE_OMIT_LIKE_OPTIMIZATION$0"/>
+</sig>
+
+<sig label="this/SQLITE_OMIT_LOAD_EXTENSION" ID="63" parentID="5" one="yes">
+   <atom label="SQLITE_OMIT_LOAD_EXTENSION$0"/>
+</sig>
+
+<sig label="this/SQLITE_OMIT_LOCALTIME" ID="64" parentID="5" one="yes">
+   <atom label="SQLITE_OMIT_LOCALTIME$0"/>
+</sig>
+
+<sig label="this/SQLITE_OMIT_LOOKASIDE" ID="65" parentID="5" one="yes">
+   <atom label="SQLITE_OMIT_LOOKASIDE$0"/>
+</sig>
+
+<sig label="this/SQLITE_OMIT_MEMORYDB" ID="66" parentID="5" one="yes">
+   <atom label="SQLITE_OMIT_MEMORYDB$0"/>
+</sig>
+
+<sig label="this/SQLITE_OMIT_OR_OPTIMIZATION" ID="67" parentID="5" one="yes">
+   <atom label="SQLITE_OMIT_OR_OPTIMIZATION$0"/>
+</sig>
+
+<sig label="this/SQLITE_OMIT_PAGER_PRAGMAS" ID="68" parentID="5" one="yes">
+   <atom label="SQLITE_OMIT_PAGER_PRAGMAS$0"/>
+</sig>
+
+<sig label="this/SQLITE_OMIT_PRAGMA" ID="69" parentID="5" one="yes">
+   <atom label="SQLITE_OMIT_PRAGMA$0"/>
+</sig>
+
+<sig label="this/SQLITE_OMIT_PROGRESS_CALLBACK" ID="70" parentID="5" one="yes">
+   <atom label="SQLITE_OMIT_PROGRESS_CALLBACK$0"/>
+</sig>
+
+<sig label="this/SQLITE_OMIT_QUICKBALANCE" ID="71" parentID="5" one="yes">
+   <atom label="SQLITE_OMIT_QUICKBALANCE$0"/>
+</sig>
+
+<sig label="this/SQLITE_OMIT_REINDEX" ID="72" parentID="5" one="yes">
+   <atom label="SQLITE_OMIT_REINDEX$0"/>
+</sig>
+
+<sig label="this/SQLITE_OMIT_SCHEMA_PRAGMAS" ID="73" parentID="5" one="yes">
+   <atom label="SQLITE_OMIT_SCHEMA_PRAGMAS$0"/>
+</sig>
+
+<sig label="this/SQLITE_OMIT_SCHEMA_VERSION_PRAGMAS" ID="74" parentID="5" one="yes">
+   <atom label="SQLITE_OMIT_SCHEMA_VERSION_PRAGMAS$0"/>
+</sig>
+
+<sig label="this/SQLITE_OMIT_SHARED_CACHE" ID="75" parentID="5" one="yes">
+   <atom label="SQLITE_OMIT_SHARED_CACHE$0"/>
+</sig>
+
+<sig label="this/SQLITE_OMIT_SUBQUERY" ID="76" parentID="5" one="yes">
+   <atom label="SQLITE_OMIT_SUBQUERY$0"/>
+</sig>
+
+<sig label="this/SQLITE_OMIT_TCL_VARIABLE" ID="77" parentID="5" one="yes">
+   <atom label="SQLITE_OMIT_TCL_VARIABLE$0"/>
+</sig>
+
+<sig label="this/SQLITE_OMIT_TEMPDB" ID="78" parentID="5" one="yes">
+   <atom label="SQLITE_OMIT_TEMPDB$0"/>
+</sig>
+
+<sig label="this/SQLITE_OMIT_TRACE" ID="79" parentID="5" one="yes">
+   <atom label="SQLITE_OMIT_TRACE$0"/>
+</sig>
+
+<sig label="this/SQLITE_OMIT_TRIGGER" ID="80" parentID="5" one="yes">
+   <atom label="SQLITE_OMIT_TRIGGER$0"/>
+</sig>
+
+<sig label="this/SQLITE_OMIT_TRUNCATE_OPTIMIZATION" ID="81" parentID="5" one="yes">
+   <atom label="SQLITE_OMIT_TRUNCATE_OPTIMIZATION$0"/>
+</sig>
+
+<sig label="this/SQLITE_OMIT_UTF16" ID="82" parentID="5" one="yes">
+   <atom label="SQLITE_OMIT_UTF16$0"/>
+</sig>
+
+<sig label="this/SQLITE_OMIT_VACUUM" ID="83" parentID="5" one="yes">
+   <atom label="SQLITE_OMIT_VACUUM$0"/>
+</sig>
+
+<sig label="this/SQLITE_OMIT_VIEW" ID="84" parentID="5" one="yes">
+   <atom label="SQLITE_OMIT_VIEW$0"/>
+</sig>
+
+<sig label="this/SQLITE_OMIT_VIRTUALTABLE" ID="85" parentID="5" one="yes">
+   <atom label="SQLITE_OMIT_VIRTUALTABLE$0"/>
+</sig>
+
+<sig label="this/SQLITE_OMIT_WAL" ID="86" parentID="5" one="yes">
+   <atom label="SQLITE_OMIT_WAL$0"/>
+</sig>
+
+<sig label="this/SQLITE_OMIT_XFER_OPT" ID="87" parentID="5" one="yes">
+   <atom label="SQLITE_OMIT_XFER_OPT$0"/>
+</sig>
+
+<sig label="this/SQLITE_DEBUG" ID="88" parentID="5" one="yes">
+   <atom label="SQLITE_DEBUG$0"/>
+</sig>
+
+<sig label="this/SQLITE_MEMDEBUG" ID="89" parentID="5" one="yes">
+   <atom label="SQLITE_MEMDEBUG$0"/>
+</sig>
+
+<sig label="this/IMeasurable" ID="5" parentID="2" abstract="yes">
+</sig>
+
+<field label="footprint" ID="90" parentID="5">
+   <tuple> <atom label="OperatingSystemCharacteristics$0"/> <atom label="888"/> </tuple>
+   <tuple> <atom label="SQLITE_4_BYTE_ALIGNED_MALLOC$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="SQLITE_CASE_SENSITIVE_LIKE$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="SQLITE_HAVE_ISNAN$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="SQLITE_SECURE_DELETE$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="ChooseSQLITE_TEMP_STORE$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="SQLITE_TEMP_STORE_EQ_0$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="SQLITE_TEMP_STORE_EQ_1$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="SQLITE_TEMP_STORE_EQ_2$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="SQLITE_TEMP_STORE_EQ_3$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="EnableFeatures$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="SQLITE_ENABLE_ATOMIC_WRITE$0"/> <atom label="3"/> </tuple>
+   <tuple> <atom label="SQLITE_ENABLE_COLUMN_METADATA$0"/> <atom label="2"/> </tuple>
+   <tuple> <atom label="SQLITE_ENABLE_FTS3$0"/> <atom label="100"/> </tuple>
+   <tuple> <atom label="SQLITE_ENABLE_FTS3_PARENTHESIS$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="SQLITE_ENABLE_MEMORY_MANAGEMENT$0"/> <atom label="1"/> </tuple>
+   <tuple> <atom label="ChooseMemSys$0"/> <atom label="3"/> </tuple>
+   <tuple> <atom label="SQLITE_ENABLE_MEMSYS3$0"/> <atom label="2"/> </tuple>
+   <tuple> <atom label="SQLITE_ENABLE_MEMSYS5$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="SQLITE_ENABLE_RTREE$0"/> <atom label="33"/> </tuple>
+   <tuple> <atom label="SQLITE_ENABLE_STAT2$0"/> <atom label="4"/> </tuple>
+   <tuple> <atom label="SQLITE_ENABLE_UPDATE_DELETE_LIMIT$0"/> <atom label="1"/> </tuple>
+   <tuple> <atom label="SQLITE_ENABLE_UNLOCK_NOTIFY$0"/> <atom label="3"/> </tuple>
+   <tuple> <atom label="SQLITE_SOUNDEX$0"/> <atom label="1"/> </tuple>
+   <tuple> <atom label="YYTRACKMAXSTACKDEPTH$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="DisableFeatures$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="SQLITE_DISABLE_LFS$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="SQLITE_DISABLE_DIRSYNC$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="OmitFeatures$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="SQLITE_OMIT_ALTERTABLE$0"/> <atom label="-7"/> </tuple>
+   <tuple> <atom label="SQLITE_OMIT_ANALYZE$0"/> <atom label="-5"/> </tuple>
+   <tuple> <atom label="SQLITE_OMIT_ATTACH$0"/> <atom label="-8"/> </tuple>
+   <tuple> <atom label="SQLITE_OMIT_AUTHORIZATION$0"/> <atom label="-5"/> </tuple>
+   <tuple> <atom label="SQLITE_OMIT_AUTOINCREMENT$0"/> <atom label="-3"/> </tuple>
+   <tuple> <atom label="SQLITE_OMIT_AUTOMATIC_INDEX$0"/> <atom label="-4"/> </tuple>
+   <tuple> <atom label="SQLITE_OMIT_AUTOINIT$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="SQLITE_OMIT_AUTOVACUUM$0"/> <atom label="-14"/> </tuple>
+   <tuple> <atom label="SQLITE_OMIT_BETWEEN_OPTIMIZATION$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="SQLITE_OMIT_BLOB_LITERAL$0"/> <atom label="-1"/> </tuple>
+   <tuple> <atom label="SQLITE_OMIT_BTREECOUNT$0"/> <atom label="-2"/> </tuple>
+   <tuple> <atom label="SQLITE_OMIT_BUILTIN_TEST$0"/> <atom label="-2"/> </tuple>
+   <tuple> <atom label="SQLITE_OMIT_CAST$0"/> <atom label="-1"/> </tuple>
+   <tuple> <atom label="SQLITE_OMIT_CHECK$0"/> <atom label="-1"/> </tuple>
+   <tuple> <atom label="SQLITE_OMIT_COMPILEOPTION_DIAGS$0"/> <atom label="-1"/> </tuple>
+   <tuple> <atom label="SQLITE_OMIT_COMPLETE$0"/> <atom label="-888"/> </tuple>
+   <tuple> <atom label="SQLITE_OMIT_COMPOUND_SELECT$0"/> <atom label="-10"/> </tuple>
+   <tuple> <atom label="SQLITE_OMIT_CONFLICT_CLAUSE$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="SQLITE_OMIT_DATETIME_FUNCS$0"/> <atom label="-10"/> </tuple>
+   <tuple> <atom label="SQLITE_OMIT_DECLTYPE$0"/> <atom label="-1"/> </tuple>
+   <tuple> <atom label="SQLITE_OMIT_DEPRECATED$0"/> <atom label="-1"/> </tuple>
+   <tuple> <atom label="SQLITE_OMIT_EXPLAIN$0"/> <atom label="-10"/> </tuple>
+   <tuple> <atom label="SQLITE_OMIT_FLAG_PRAGMAS$0"/> <atom label="-1"/> </tuple>
+   <tuple> <atom label="SQLITE_OMIT_FLOATING_POINT$0"/> <atom label="-18"/> </tuple>
+   <tuple> <atom label="SQLITE_OMIT_FOREIGN_KEY$0"/> <atom label="-15"/> </tuple>
+   <tuple> <atom label="SQLITE_OMIT_GET_TABLE$0"/> <atom label="-3"/> </tuple>
+   <tuple> <atom label="SQLITE_OMIT_INCRBLOB$0"/> <atom label="-7"/> </tuple>
+   <tuple> <atom label="SQLITE_OMIT_INTEGRITY_CHECK$0"/> <atom label="-9"/> </tuple>
+   <tuple> <atom label="SQLITE_OMIT_LIKE_OPTIMIZATION$0"/> <atom label="-2"/> </tuple>
+   <tuple> <atom label="SQLITE_OMIT_LOAD_EXTENSION$0"/> <atom label="-3"/> </tuple>
+   <tuple> <atom label="SQLITE_OMIT_LOCALTIME$0"/> <atom label="-1"/> </tuple>
+   <tuple> <atom label="SQLITE_OMIT_LOOKASIDE$0"/> <atom label="-1"/> </tuple>
+   <tuple> <atom label="SQLITE_OMIT_MEMORYDB$0"/> <atom label="-2"/> </tuple>
+   <tuple> <atom label="SQLITE_OMIT_OR_OPTIMIZATION$0"/> <atom label="-5"/> </tuple>
+   <tuple> <atom label="SQLITE_OMIT_PAGER_PRAGMAS$0"/> <atom label="-5"/> </tuple>
+   <tuple> <atom label="SQLITE_OMIT_PRAGMA$0"/> <atom label="-16"/> </tuple>
+   <tuple> <atom label="SQLITE_OMIT_PROGRESS_CALLBACK$0"/> <atom label="-1"/> </tuple>
+   <tuple> <atom label="SQLITE_OMIT_QUICKBALANCE$0"/> <atom label="-1"/> </tuple>
+   <tuple> <atom label="SQLITE_OMIT_REINDEX$0"/> <atom label="-1"/> </tuple>
+   <tuple> <atom label="SQLITE_OMIT_SCHEMA_PRAGMAS$0"/> <atom label="-2"/> </tuple>
+   <tuple> <atom label="SQLITE_OMIT_SCHEMA_VERSION_PRAGMAS$0"/> <atom label="-1"/> </tuple>
+   <tuple> <atom label="SQLITE_OMIT_SHARED_CACHE$0"/> <atom label="-10"/> </tuple>
+   <tuple> <atom label="SQLITE_OMIT_SUBQUERY$0"/> <atom label="-11"/> </tuple>
+   <tuple> <atom label="SQLITE_OMIT_TCL_VARIABLE$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="SQLITE_OMIT_TEMPDB$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="SQLITE_OMIT_TRACE$0"/> <atom label="-3"/> </tuple>
+   <tuple> <atom label="SQLITE_OMIT_TRIGGER$0"/> <atom label="-27"/> </tuple>
+   <tuple> <atom label="SQLITE_OMIT_TRUNCATE_OPTIMIZATION$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="SQLITE_OMIT_UTF16$0"/> <atom label="-8"/> </tuple>
+   <tuple> <atom label="SQLITE_OMIT_VACUUM$0"/> <atom label="-4"/> </tuple>
+   <tuple> <atom label="SQLITE_OMIT_VIEW$0"/> <atom label="-3"/> </tuple>
+   <tuple> <atom label="SQLITE_OMIT_VIRTUALTABLE$0"/> <atom label="-20"/> </tuple>
+   <tuple> <atom label="SQLITE_OMIT_WAL$0"/> <atom label="-30"/> </tuple>
+   <tuple> <atom label="SQLITE_OMIT_XFER_OPT$0"/> <atom label="-3"/> </tuple>
+   <tuple> <atom label="SQLITE_DEBUG$0"/> <atom label="9"/> </tuple>
+   <tuple> <atom label="SQLITE_MEMDEBUG$0"/> <atom label="2"/> </tuple>
+   <types> <type ID="5"/> <type ID="1"/> </types>
+</field>
+
+<sig label="this/Sqlite" ID="91" parentID="2" one="yes">
+   <atom label="Sqlite$0"/>
+</sig>
+
+<field label="features" ID="92" parentID="91">
+   <tuple> <atom label="Sqlite$0"/> <atom label="OperatingSystemCharacteristics$0"/> </tuple>
+   <tuple> <atom label="Sqlite$0"/> <atom label="SQLITE_4_BYTE_ALIGNED_MALLOC$0"/> </tuple>
+   <tuple> <atom label="Sqlite$0"/> <atom label="SQLITE_HAVE_ISNAN$0"/> </tuple>
+   <tuple> <atom label="Sqlite$0"/> <atom label="ChooseSQLITE_TEMP_STORE$0"/> </tuple>
+   <tuple> <atom label="Sqlite$0"/> <atom label="SQLITE_TEMP_STORE_EQ_3$0"/> </tuple>
+   <tuple> <atom label="Sqlite$0"/> <atom label="EnableFeatures$0"/> </tuple>
+   <tuple> <atom label="Sqlite$0"/> <atom label="SQLITE_ENABLE_ATOMIC_WRITE$0"/> </tuple>
+   <tuple> <atom label="Sqlite$0"/> <atom label="SQLITE_ENABLE_RTREE$0"/> </tuple>
+   <tuple> <atom label="Sqlite$0"/> <atom label="SQLITE_ENABLE_UNLOCK_NOTIFY$0"/> </tuple>
+   <tuple> <atom label="Sqlite$0"/> <atom label="DisableFeatures$0"/> </tuple>
+   <tuple> <atom label="Sqlite$0"/> <atom label="SQLITE_DISABLE_LFS$0"/> </tuple>
+   <tuple> <atom label="Sqlite$0"/> <atom label="OmitFeatures$0"/> </tuple>
+   <tuple> <atom label="Sqlite$0"/> <atom label="SQLITE_OMIT_ANALYZE$0"/> </tuple>
+   <tuple> <atom label="Sqlite$0"/> <atom label="SQLITE_OMIT_ATTACH$0"/> </tuple>
+   <tuple> <atom label="Sqlite$0"/> <atom label="SQLITE_OMIT_AUTHORIZATION$0"/> </tuple>
+   <tuple> <atom label="Sqlite$0"/> <atom label="SQLITE_OMIT_AUTOINCREMENT$0"/> </tuple>
+   <tuple> <atom label="Sqlite$0"/> <atom label="SQLITE_OMIT_AUTOINIT$0"/> </tuple>
+   <tuple> <atom label="Sqlite$0"/> <atom label="SQLITE_OMIT_BETWEEN_OPTIMIZATION$0"/> </tuple>
+   <tuple> <atom label="Sqlite$0"/> <atom label="SQLITE_OMIT_BLOB_LITERAL$0"/> </tuple>
+   <tuple> <atom label="Sqlite$0"/> <atom label="SQLITE_OMIT_BTREECOUNT$0"/> </tuple>
+   <tuple> <atom label="Sqlite$0"/> <atom label="SQLITE_OMIT_BUILTIN_TEST$0"/> </tuple>
+   <tuple> <atom label="Sqlite$0"/> <atom label="SQLITE_OMIT_CAST$0"/> </tuple>
+   <tuple> <atom label="Sqlite$0"/> <atom label="SQLITE_OMIT_COMPILEOPTION_DIAGS$0"/> </tuple>
+   <tuple> <atom label="Sqlite$0"/> <atom label="SQLITE_OMIT_COMPLETE$0"/> </tuple>
+   <tuple> <atom label="Sqlite$0"/> <atom label="SQLITE_OMIT_COMPOUND_SELECT$0"/> </tuple>
+   <tuple> <atom label="Sqlite$0"/> <atom label="SQLITE_OMIT_DATETIME_FUNCS$0"/> </tuple>
+   <tuple> <atom label="Sqlite$0"/> <atom label="SQLITE_OMIT_DEPRECATED$0"/> </tuple>
+   <tuple> <atom label="Sqlite$0"/> <atom label="SQLITE_OMIT_EXPLAIN$0"/> </tuple>
+   <tuple> <atom label="Sqlite$0"/> <atom label="SQLITE_OMIT_FLAG_PRAGMAS$0"/> </tuple>
+   <tuple> <atom label="Sqlite$0"/> <atom label="SQLITE_OMIT_GET_TABLE$0"/> </tuple>
+   <tuple> <atom label="Sqlite$0"/> <atom label="SQLITE_OMIT_INTEGRITY_CHECK$0"/> </tuple>
+   <tuple> <atom label="Sqlite$0"/> <atom label="SQLITE_OMIT_LIKE_OPTIMIZATION$0"/> </tuple>
+   <tuple> <atom label="Sqlite$0"/> <atom label="SQLITE_OMIT_LOCALTIME$0"/> </tuple>
+   <tuple> <atom label="Sqlite$0"/> <atom label="SQLITE_OMIT_LOOKASIDE$0"/> </tuple>
+   <tuple> <atom label="Sqlite$0"/> <atom label="SQLITE_OMIT_MEMORYDB$0"/> </tuple>
+   <tuple> <atom label="Sqlite$0"/> <atom label="SQLITE_OMIT_OR_OPTIMIZATION$0"/> </tuple>
+   <tuple> <atom label="Sqlite$0"/> <atom label="SQLITE_OMIT_PAGER_PRAGMAS$0"/> </tuple>
+   <tuple> <atom label="Sqlite$0"/> <atom label="SQLITE_OMIT_PRAGMA$0"/> </tuple>
+   <tuple> <atom label="Sqlite$0"/> <atom label="SQLITE_OMIT_PROGRESS_CALLBACK$0"/> </tuple>
+   <tuple> <atom label="Sqlite$0"/> <atom label="SQLITE_OMIT_QUICKBALANCE$0"/> </tuple>
+   <tuple> <atom label="Sqlite$0"/> <atom label="SQLITE_OMIT_SCHEMA_VERSION_PRAGMAS$0"/> </tuple>
+   <tuple> <atom label="Sqlite$0"/> <atom label="SQLITE_OMIT_TRACE$0"/> </tuple>
+   <tuple> <atom label="Sqlite$0"/> <atom label="SQLITE_OMIT_TRIGGER$0"/> </tuple>
+   <tuple> <atom label="Sqlite$0"/> <atom label="SQLITE_OMIT_TRUNCATE_OPTIMIZATION$0"/> </tuple>
+   <tuple> <atom label="Sqlite$0"/> <atom label="SQLITE_OMIT_VACUUM$0"/> </tuple>
+   <tuple> <atom label="Sqlite$0"/> <atom label="SQLITE_OMIT_VIEW$0"/> </tuple>
+   <tuple> <atom label="Sqlite$0"/> <atom label="SQLITE_OMIT_XFER_OPT$0"/> </tuple>
+   <tuple> <atom label="Sqlite$0"/> <atom label="SQLITE_DEBUG$0"/> </tuple>
+   <types> <type ID="91"/> <type ID="5"/> </types>
+</field>
+
+<field label="totalFootprint" ID="93" parentID="91">
+   <tuple> <atom label="Sqlite$0"/> <atom label="-99"/> </tuple>
+   <types> <type ID="91"/> <type ID="1"/> </types>
+</field>
+
+<sig label="univ" ID="2" builtin="yes">
+</sig>
+
+</instance>
+
+</alloy>

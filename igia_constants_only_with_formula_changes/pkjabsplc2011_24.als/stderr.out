@@ -1,0 +1,25 @@
+Feb 01, 2014 12:37:00 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 0, Improving on [726]
+Feb 01, 2014 12:37:00 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/PKJab.totalFootprint) <= 726)
+	(sum(this/PKJab.totalFootprint) < 726)
+Feb 01, 2014 12:37:00 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+FINE: Found Pareto point with values: [726]
+Feb 01, 2014 12:37:04 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Magnifying glass found 2 solution(s). At time: 3
+Feb 01, 2014 12:37:04 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: All Pareto points found. At time: 3
+Feb 01, 2014 12:37:04 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm debugWriteStatistics
+FINE: Solver statistics:
+	# Sat Call: 1
+	# Unsat Call: 2
+	# Total Time in Sat Calls: 35
+	# Total Time in Sat Calls Solving: 0
+	# Total Time in Sat Calls Translating: 35
+	# Total Time in Unsat Calls: 39
+	# Total Time in Unsat Calls Solving: 0
+	# Total Time in Unsat Calls Translating: 39
+	# Magnifier Sat Call: 2
+	# Magnifier Unsat Call: 1
+	# Total Time in Magnifier: 3341

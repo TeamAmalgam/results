@@ -1,0 +1,90 @@
+<alloy builddate="unknown">
+
+<instance bitwidth="11" maxseq="4" command="Run featureSet for 11 int, exactly 1 ZipMeSPL optimize o_global" filename="">
+
+<sig label="seq/Int" ID="0" parentID="1" builtin="yes">
+</sig>
+
+<sig label="Int" ID="1" parentID="2" builtin="yes">
+</sig>
+
+<sig label="String" ID="3" parentID="2" builtin="yes">
+</sig>
+
+<sig label="this/base" ID="4" parentID="5" one="yes">
+   <atom label="base$0"/>
+</sig>
+
+<sig label="this/zipMe" ID="6" parentID="5" one="yes">
+   <atom label="zipMe$0"/>
+</sig>
+
+<sig label="this/zipMecompress" ID="7" parentID="5" one="yes">
+   <atom label="zipMecompress$0"/>
+</sig>
+
+<sig label="this/zipMeCRC" ID="8" parentID="5" one="yes">
+   <atom label="zipMeCRC$0"/>
+</sig>
+
+<sig label="this/zipMearchiveCheck" ID="9" parentID="5" one="yes">
+   <atom label="zipMearchiveCheck$0"/>
+</sig>
+
+<sig label="this/zipMeGZIP" ID="10" parentID="5" one="yes">
+   <atom label="zipMeGZIP$0"/>
+</sig>
+
+<sig label="this/zipMeadaptation" ID="11" parentID="5" one="yes">
+   <atom label="zipMeadaptation$0"/>
+</sig>
+
+<sig label="this/zipMeadler32Chcksum" ID="12" parentID="5" one="yes">
+   <atom label="zipMeadler32Chcksum$0"/>
+</sig>
+
+<sig label="this/zipMeextract" ID="13" parentID="5" one="yes">
+   <atom label="zipMeextract$0"/>
+</sig>
+
+<sig label="this/IMeasurable" ID="5" parentID="2" abstract="yes">
+</sig>
+
+<field label="footprint" ID="14" parentID="5">
+   <tuple> <atom label="base$0"/> <atom label="796"/> </tuple>
+   <tuple> <atom label="zipMe$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="zipMecompress$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="zipMeCRC$0"/> <atom label="16"/> </tuple>
+   <tuple> <atom label="zipMearchiveCheck$0"/> <atom label="3"/> </tuple>
+   <tuple> <atom label="zipMeGZIP$0"/> <atom label="58"/> </tuple>
+   <tuple> <atom label="zipMeadaptation$0"/> <atom label="3"/> </tuple>
+   <tuple> <atom label="zipMeadler32Chcksum$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="zipMeextract$0"/> <atom label="69"/> </tuple>
+   <types> <type ID="5"/> <type ID="1"/> </types>
+</field>
+
+<sig label="this/ZipMeSPL" ID="15" parentID="2" one="yes">
+   <atom label="ZipMeSPL$0"/>
+</sig>
+
+<field label="features" ID="16" parentID="15">
+   <tuple> <atom label="ZipMeSPL$0"/> <atom label="base$0"/> </tuple>
+   <tuple> <atom label="ZipMeSPL$0"/> <atom label="zipMe$0"/> </tuple>
+   <tuple> <atom label="ZipMeSPL$0"/> <atom label="zipMecompress$0"/> </tuple>
+   <tuple> <atom label="ZipMeSPL$0"/> <atom label="zipMearchiveCheck$0"/> </tuple>
+   <tuple> <atom label="ZipMeSPL$0"/> <atom label="zipMeGZIP$0"/> </tuple>
+   <tuple> <atom label="ZipMeSPL$0"/> <atom label="zipMeadler32Chcksum$0"/> </tuple>
+   <types> <type ID="15"/> <type ID="5"/> </types>
+</field>
+
+<field label="totalFootprint" ID="17" parentID="15">
+   <tuple> <atom label="ZipMeSPL$0"/> <atom label="857"/> </tuple>
+   <types> <type ID="15"/> <type ID="1"/> </types>
+</field>
+
+<sig label="univ" ID="2" builtin="yes">
+</sig>
+
+</instance>
+
+</alloy>
