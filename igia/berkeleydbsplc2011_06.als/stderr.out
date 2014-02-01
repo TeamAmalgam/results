@@ -1,0 +1,35 @@
+Feb 01, 2014 4:34:07 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 7, Improving on [982]
+Feb 01, 2014 4:34:07 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/BerkeleyDbC.totalFootprint) <= 982)
+	(sum(this/BerkeleyDbC.totalFootprint) < 982)
+Feb 01, 2014 4:34:07 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 7, Improving on [972]
+Feb 01, 2014 4:34:07 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/BerkeleyDbC.totalFootprint) <= 972)
+	(sum(this/BerkeleyDbC.totalFootprint) < 972)
+Feb 01, 2014 4:34:07 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 7, Improving on [962]
+Feb 01, 2014 4:34:07 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/BerkeleyDbC.totalFootprint) <= 962)
+	(sum(this/BerkeleyDbC.totalFootprint) < 962)
+Feb 01, 2014 4:34:07 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+FINE: Found Pareto point with values: [962]
+Feb 01, 2014 4:34:16 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: All Pareto points found. At time: 16
+Feb 01, 2014 4:34:16 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm debugWriteStatistics
+FINE: Solver statistics:
+	# Sat Call: 3
+	# Unsat Call: 2
+	# Total Time in Sat Calls: 7700
+	# Total Time in Sat Calls Solving: 213
+	# Total Time in Sat Calls Translating: 7487
+	# Total Time in Unsat Calls: 8263
+	# Total Time in Unsat Calls Solving: 336
+	# Total Time in Unsat Calls Translating: 7927
+	# Magnifier Sat Call: 0
+	# Magnifier Unsat Call: 0
+	# Total Time in Magnifier: 0

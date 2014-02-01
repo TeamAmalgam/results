@@ -1,0 +1,29 @@
+Feb 01, 2014 4:30:25 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 13, Improving on [444]
+Feb 01, 2014 4:30:25 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/LinkedList.totalFootprint) <= 444)
+	(sum(this/LinkedList.totalFootprint) < 444)
+Feb 01, 2014 4:30:26 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 14, Improving on [443]
+Feb 01, 2014 4:30:26 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/LinkedList.totalFootprint) <= 443)
+	(sum(this/LinkedList.totalFootprint) < 443)
+Feb 01, 2014 4:30:27 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+FINE: Found Pareto point with values: [443]
+Feb 01, 2014 4:30:47 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: All Pareto points found. At time: 35
+Feb 01, 2014 4:30:47 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm debugWriteStatistics
+FINE: Solver statistics:
+	# Sat Call: 2
+	# Unsat Call: 2
+	# Total Time in Sat Calls: 14153
+	# Total Time in Sat Calls Solving: 935
+	# Total Time in Sat Calls Translating: 13218
+	# Total Time in Unsat Calls: 20313
+	# Total Time in Unsat Calls Solving: 6604
+	# Total Time in Unsat Calls Translating: 13709
+	# Magnifier Sat Call: 0
+	# Magnifier Unsat Call: 0
+	# Total Time in Magnifier: 0

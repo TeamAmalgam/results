@@ -1,0 +1,41 @@
+Feb 01, 2014 4:29:30 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 13, Improving on [1087]
+Feb 01, 2014 4:29:30 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/LinkedList.totalFootprint) <= 1087)
+	(sum(this/LinkedList.totalFootprint) < 1087)
+Feb 01, 2014 4:29:30 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 13, Improving on [1065]
+Feb 01, 2014 4:29:30 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/LinkedList.totalFootprint) <= 1065)
+	(sum(this/LinkedList.totalFootprint) < 1065)
+Feb 01, 2014 4:29:30 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 13, Improving on [1043]
+Feb 01, 2014 4:29:30 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/LinkedList.totalFootprint) <= 1043)
+	(sum(this/LinkedList.totalFootprint) < 1043)
+Feb 01, 2014 4:29:30 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 14, Improving on [1021]
+Feb 01, 2014 4:29:30 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/LinkedList.totalFootprint) <= 1021)
+	(sum(this/LinkedList.totalFootprint) < 1021)
+Feb 01, 2014 4:29:31 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+FINE: Found Pareto point with values: [1021]
+Feb 01, 2014 4:29:44 AM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: All Pareto points found. At time: 27
+Feb 01, 2014 4:29:44 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm debugWriteStatistics
+FINE: Solver statistics:
+	# Sat Call: 4
+	# Unsat Call: 2
+	# Total Time in Sat Calls: 13824
+	# Total Time in Sat Calls Solving: 485
+	# Total Time in Sat Calls Translating: 13339
+	# Total Time in Unsat Calls: 12887
+	# Total Time in Unsat Calls Solving: 457
+	# Total Time in Unsat Calls Translating: 12430
+	# Magnifier Sat Call: 0
+	# Magnifier Unsat Call: 0
+	# Total Time in Magnifier: 0

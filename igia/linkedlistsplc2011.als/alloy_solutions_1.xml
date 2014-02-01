@@ -1,0 +1,139 @@
+<alloy builddate="unknown">
+
+<instance bitwidth="12" maxseq="4" command="Run featureSet for 12 int, exactly 1 LinkedList optimize o_global" filename="">
+
+<sig label="seq/Int" ID="0" parentID="1" builtin="yes">
+</sig>
+
+<sig label="Int" ID="1" parentID="2" builtin="yes">
+</sig>
+
+<sig label="String" ID="3" parentID="2" builtin="yes">
+</sig>
+
+<sig label="this/AbstractElement" ID="4" parentID="5" one="yes">
+   <atom label="AbstractElement$0"/>
+</sig>
+
+<sig label="this/ElementA" ID="6" parentID="5" one="yes">
+   <atom label="ElementA$0"/>
+</sig>
+
+<sig label="this/ElementB" ID="7" parentID="5" one="yes">
+   <atom label="ElementB$0"/>
+</sig>
+
+<sig label="this/ElementC" ID="8" parentID="5" one="yes">
+   <atom label="ElementC$0"/>
+</sig>
+
+<sig label="this/AbstractIterator" ID="9" parentID="5" one="yes">
+   <atom label="AbstractIterator$0"/>
+</sig>
+
+<sig label="this/ForwardIterator" ID="10" parentID="5" one="yes">
+   <atom label="ForwardIterator$0"/>
+</sig>
+
+<sig label="this/BackwardIterator" ID="11" parentID="5" one="yes">
+   <atom label="BackwardIterator$0"/>
+</sig>
+
+<sig label="this/AbstractSort" ID="12" parentID="5" one="yes">
+   <atom label="AbstractSort$0"/>
+</sig>
+
+<sig label="this/BubbleSort" ID="13" parentID="5" one="yes">
+   <atom label="BubbleSort$0"/>
+</sig>
+
+<sig label="this/MergeSort" ID="14" parentID="5" one="yes">
+   <atom label="MergeSort$0"/>
+</sig>
+
+<sig label="this/InsertionSort" ID="15" parentID="5" one="yes">
+   <atom label="InsertionSort$0"/>
+</sig>
+
+<sig label="this/QuickSort" ID="16" parentID="5" one="yes">
+   <atom label="QuickSort$0"/>
+</sig>
+
+<sig label="this/print" ID="17" parentID="5" one="yes">
+   <atom label="print$0"/>
+</sig>
+
+<sig label="this/Measurement" ID="18" parentID="5" one="yes">
+   <atom label="Measurement$0"/>
+</sig>
+
+<sig label="this/TCP_IP" ID="19" parentID="5" one="yes">
+   <atom label="TCP_IP$0"/>
+</sig>
+
+<sig label="this/SyntheticPerformanceOrMemorySize" ID="20" parentID="5" one="yes">
+   <atom label="SyntheticPerformanceOrMemorySize$0"/>
+</sig>
+
+<sig label="this/Performance" ID="21" parentID="5" one="yes">
+   <atom label="Performance$0"/>
+</sig>
+
+<sig label="this/MemorySize" ID="22" parentID="5" one="yes">
+   <atom label="MemorySize$0"/>
+</sig>
+
+<sig label="this/Base" ID="23" parentID="5" one="yes">
+   <atom label="Base$0"/>
+</sig>
+
+<sig label="this/IMeasurable" ID="5" parentID="2" abstract="yes">
+</sig>
+
+<field label="footprint" ID="24" parentID="5">
+   <tuple> <atom label="AbstractElement$0"/> <atom label="-12"/> </tuple>
+   <tuple> <atom label="ElementA$0"/> <atom label="12"/> </tuple>
+   <tuple> <atom label="ElementB$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="ElementC$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="AbstractIterator$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="ForwardIterator$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="BackwardIterator$0"/> <atom label="1"/> </tuple>
+   <tuple> <atom label="AbstractSort$0"/> <atom label="57"/> </tuple>
+   <tuple> <atom label="BubbleSort$0"/> <atom label="17"/> </tuple>
+   <tuple> <atom label="MergeSort$0"/> <atom label="32"/> </tuple>
+   <tuple> <atom label="InsertionSort$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="QuickSort$0"/> <atom label="22"/> </tuple>
+   <tuple> <atom label="print$0"/> <atom label="44"/> </tuple>
+   <tuple> <atom label="Measurement$0"/> <atom label="484"/> </tuple>
+   <tuple> <atom label="TCP_IP$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="SyntheticPerformanceOrMemorySize$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="Performance$0"/> <atom label="37"/> </tuple>
+   <tuple> <atom label="MemorySize$0"/> <atom label="36"/> </tuple>
+   <tuple> <atom label="Base$0"/> <atom label="455"/> </tuple>
+   <types> <type ID="5"/> <type ID="1"/> </types>
+</field>
+
+<sig label="this/LinkedList" ID="25" parentID="2" one="yes">
+   <atom label="LinkedList$0"/>
+</sig>
+
+<field label="features" ID="26" parentID="25">
+   <tuple> <atom label="LinkedList$0"/> <atom label="AbstractElement$0"/> </tuple>
+   <tuple> <atom label="LinkedList$0"/> <atom label="ElementB$0"/> </tuple>
+   <tuple> <atom label="LinkedList$0"/> <atom label="AbstractIterator$0"/> </tuple>
+   <tuple> <atom label="LinkedList$0"/> <atom label="ForwardIterator$0"/> </tuple>
+   <tuple> <atom label="LinkedList$0"/> <atom label="Base$0"/> </tuple>
+   <types> <type ID="25"/> <type ID="5"/> </types>
+</field>
+
+<field label="totalFootprint" ID="27" parentID="25">
+   <tuple> <atom label="LinkedList$0"/> <atom label="443"/> </tuple>
+   <types> <type ID="25"/> <type ID="1"/> </types>
+</field>
+
+<sig label="univ" ID="2" builtin="yes">
+</sig>
+
+</instance>
+
+</alloy>
