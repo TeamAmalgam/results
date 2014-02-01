@@ -1,0 +1,63 @@
+Feb 01, 2014 1:33:43 PM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 20, Improving on [0, 479, 0]
+Feb 01, 2014 1:33:43 PM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/BerkeleyDbC.totalReliability) >= 0)
+	(sum(this/BerkeleyDbC.totalFootprint) <= 479)
+	(sum(this/BerkeleyDbC.totalPrice) <= 0)
+	((sum(this/BerkeleyDbC.totalReliability) > 0) || (sum(this/BerkeleyDbC.totalFootprint) < 479) || (sum(this/BerkeleyDbC.totalPrice) < 0))
+Feb 01, 2014 1:33:44 PM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+FINE: Found Pareto point with values: [0, 479, 0]
+Feb 01, 2014 1:34:04 PM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 41, Improving on [1, 670, 0]
+Feb 01, 2014 1:34:04 PM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/BerkeleyDbC.totalReliability) >= 1)
+	(sum(this/BerkeleyDbC.totalFootprint) <= 670)
+	(sum(this/BerkeleyDbC.totalPrice) <= 0)
+	((sum(this/BerkeleyDbC.totalReliability) > 1) || (sum(this/BerkeleyDbC.totalFootprint) < 670) || (sum(this/BerkeleyDbC.totalPrice) < 0))
+Feb 01, 2014 1:34:05 PM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+FINE: Found Pareto point with values: [1, 670, 0]
+Feb 01, 2014 1:34:23 PM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 60, Improving on [1, 529, 100]
+Feb 01, 2014 1:34:23 PM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/BerkeleyDbC.totalReliability) >= 1)
+	(sum(this/BerkeleyDbC.totalFootprint) <= 529)
+	(sum(this/BerkeleyDbC.totalPrice) <= 100)
+	((sum(this/BerkeleyDbC.totalReliability) > 1) || (sum(this/BerkeleyDbC.totalFootprint) < 529) || (sum(this/BerkeleyDbC.totalPrice) < 100))
+Feb 01, 2014 1:34:24 PM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+FINE: Found Pareto point with values: [1, 529, 100]
+Feb 01, 2014 1:34:44 PM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 80, Improving on [2, 748, 150]
+Feb 01, 2014 1:34:44 PM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/BerkeleyDbC.totalReliability) >= 2)
+	(sum(this/BerkeleyDbC.totalFootprint) <= 748)
+	(sum(this/BerkeleyDbC.totalPrice) <= 150)
+	((sum(this/BerkeleyDbC.totalReliability) > 2) || (sum(this/BerkeleyDbC.totalFootprint) < 748) || (sum(this/BerkeleyDbC.totalPrice) < 150))
+Feb 01, 2014 1:34:44 PM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 81, Improving on [2, 720, 100]
+Feb 01, 2014 1:34:44 PM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/BerkeleyDbC.totalReliability) >= 2)
+	(sum(this/BerkeleyDbC.totalFootprint) <= 720)
+	(sum(this/BerkeleyDbC.totalPrice) <= 100)
+	((sum(this/BerkeleyDbC.totalReliability) > 2) || (sum(this/BerkeleyDbC.totalFootprint) < 720) || (sum(this/BerkeleyDbC.totalPrice) < 100))
+Feb 01, 2014 1:34:44 PM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+FINE: Found Pareto point with values: [2, 720, 100]
+Feb 01, 2014 1:35:03 PM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: All Pareto points found. At time: 100
+Feb 01, 2014 1:35:03 PM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm debugWriteStatistics
+FINE: Solver statistics:
+	# Sat Call: 5
+	# Unsat Call: 5
+	# Total Time in Sat Calls: 67101
+	# Total Time in Sat Calls Solving: 2123
+	# Total Time in Sat Calls Translating: 64978
+	# Total Time in Unsat Calls: 16021
+	# Total Time in Unsat Calls Solving: 815
+	# Total Time in Unsat Calls Translating: 15206
+	# Magnifier Sat Call: 0
+	# Magnifier Unsat Call: 0
+	# Total Time in Magnifier: 0
