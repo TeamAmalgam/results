@@ -1,0 +1,498 @@
+<alloy builddate="unknown">
+
+<instance bitwidth="11" maxseq="4" command="Run featureSet for 11 int, exactly 1 SearchAndRescueFM optimize o_global" filename="">
+
+<sig label="seq/Int" ID="0" parentID="1" builtin="yes">
+</sig>
+
+<sig label="Int" ID="1" parentID="2" builtin="yes">
+</sig>
+
+<sig label="String" ID="3" parentID="2" builtin="yes">
+</sig>
+
+<sig label="this/LocationFinding" ID="4" parentID="5" one="yes">
+   <atom label="LocationFinding$0"/>
+</sig>
+
+<sig label="this/GPS" ID="6" parentID="5" one="yes">
+   <atom label="GPS$0"/>
+</sig>
+
+<sig label="this/RadioTriangulation" ID="7" parentID="5" one="yes">
+   <atom label="RadioTriangulation$0"/>
+</sig>
+
+<sig label="this/HardwarePlatform" ID="8" parentID="5" one="yes">
+   <atom label="HardwarePlatform$0"/>
+</sig>
+
+<sig label="this/NexusOneHTC" ID="9" parentID="5" one="yes">
+   <atom label="NexusOneHTC$0"/>
+</sig>
+
+<sig label="this/DroidMotorola" ID="10" parentID="5" one="yes">
+   <atom label="DroidMotorola$0"/>
+</sig>
+
+<sig label="this/FileSharing" ID="11" parentID="5" one="yes">
+   <atom label="FileSharing$0"/>
+</sig>
+
+<sig label="this/FileManagerOpenIntents" ID="12" parentID="5" one="yes">
+   <atom label="FileManagerOpenIntents$0"/>
+</sig>
+
+<sig label="this/InHouseFileManager" ID="13" parentID="5" one="yes">
+   <atom label="InHouseFileManager$0"/>
+</sig>
+
+<sig label="this/ReportSynchronization" ID="14" parentID="5" one="yes">
+   <atom label="ReportSynchronization$0"/>
+</sig>
+
+<sig label="this/ExplicitReportsSync" ID="15" parentID="5" one="yes">
+   <atom label="ExplicitReportsSync$0"/>
+</sig>
+
+<sig label="this/ImplicitReportsSync" ID="16" parentID="5" one="yes">
+   <atom label="ImplicitReportsSync$0"/>
+</sig>
+
+<sig label="this/ChatProtocol" ID="17" parentID="5" one="yes">
+   <atom label="ChatProtocol$0"/>
+</sig>
+
+<sig label="this/OpenFire" ID="18" parentID="5" one="yes">
+   <atom label="OpenFire$0"/>
+</sig>
+
+<sig label="this/InHouseChatProtocol" ID="19" parentID="5" one="yes">
+   <atom label="InHouseChatProtocol$0"/>
+</sig>
+
+<sig label="this/MapAccess" ID="20" parentID="5" one="yes">
+   <atom label="MapAccess$0"/>
+</sig>
+
+<sig label="this/OnDemandGoogleSite" ID="21" parentID="5" one="yes">
+   <atom label="OnDemandGoogleSite$0"/>
+</sig>
+
+<sig label="this/CachedGoogleServer" ID="22" parentID="5" one="yes">
+   <atom label="CachedGoogleServer$0"/>
+</sig>
+
+<sig label="this/PreloadedEsri" ID="23" parentID="5" one="yes">
+   <atom label="PreloadedEsri$0"/>
+</sig>
+
+<sig label="this/Connectivity" ID="24" parentID="5" one="yes">
+   <atom label="Connectivity$0"/>
+</sig>
+
+<sig label="this/WiFi" ID="25" parentID="5" one="yes">
+   <atom label="WiFi$0"/>
+</sig>
+
+<sig label="this/ThreeGNexusOne" ID="26" parentID="5" one="yes">
+   <atom label="ThreeGNexusOne$0"/>
+</sig>
+
+<sig label="this/ThreeDroid" ID="27" parentID="5" one="yes">
+   <atom label="ThreeDroid$0"/>
+</sig>
+
+<sig label="this/Bluetooth" ID="28" parentID="5" one="yes">
+   <atom label="Bluetooth$0"/>
+</sig>
+
+<sig label="this/Database" ID="29" parentID="5" one="yes">
+   <atom label="Database$0"/>
+</sig>
+
+<sig label="this/MySQL" ID="30" parentID="5" one="yes">
+   <atom label="MySQL$0"/>
+</sig>
+
+<sig label="this/sqLite" ID="31" parentID="5" one="yes">
+   <atom label="sqLite$0"/>
+</sig>
+
+<sig label="this/ArchitecturalStyle" ID="32" parentID="5" one="yes">
+   <atom label="ArchitecturalStyle$0"/>
+</sig>
+
+<sig label="this/PeerToPeer" ID="33" parentID="5" one="yes">
+   <atom label="PeerToPeer$0"/>
+</sig>
+
+<sig label="this/ClientServer" ID="34" parentID="5" one="yes">
+   <atom label="ClientServer$0"/>
+</sig>
+
+<sig label="this/PushBased" ID="35" parentID="5" one="yes">
+   <atom label="PushBased$0"/>
+</sig>
+
+<sig label="this/DataExchangeFormat" ID="36" parentID="5" one="yes">
+   <atom label="DataExchangeFormat$0"/>
+</sig>
+
+<sig label="this/Xml" ID="37" parentID="5" one="yes">
+   <atom label="Xml$0"/>
+</sig>
+
+<sig label="this/CompressedXML" ID="38" parentID="5" one="yes">
+   <atom label="CompressedXML$0"/>
+</sig>
+
+<sig label="this/UnformattedData" ID="39" parentID="5" one="yes">
+   <atom label="UnformattedData$0"/>
+</sig>
+
+<sig label="this/Feature" ID="5" parentID="2" abstract="yes">
+</sig>
+
+<field label="RampUpTime" ID="40" parentID="5">
+   <tuple> <atom label="LocationFinding$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="GPS$0"/> <atom label="6"/> </tuple>
+   <tuple> <atom label="RadioTriangulation$0"/> <atom label="8"/> </tuple>
+   <tuple> <atom label="HardwarePlatform$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="NexusOneHTC$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="DroidMotorola$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="FileSharing$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="FileManagerOpenIntents$0"/> <atom label="9"/> </tuple>
+   <tuple> <atom label="InHouseFileManager$0"/> <atom label="8"/> </tuple>
+   <tuple> <atom label="ReportSynchronization$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="ExplicitReportsSync$0"/> <atom label="2"/> </tuple>
+   <tuple> <atom label="ImplicitReportsSync$0"/> <atom label="2"/> </tuple>
+   <tuple> <atom label="ChatProtocol$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="OpenFire$0"/> <atom label="6"/> </tuple>
+   <tuple> <atom label="InHouseChatProtocol$0"/> <atom label="4"/> </tuple>
+   <tuple> <atom label="MapAccess$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="OnDemandGoogleSite$0"/> <atom label="9"/> </tuple>
+   <tuple> <atom label="CachedGoogleServer$0"/> <atom label="9"/> </tuple>
+   <tuple> <atom label="PreloadedEsri$0"/> <atom label="13"/> </tuple>
+   <tuple> <atom label="Connectivity$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="WiFi$0"/> <atom label="3"/> </tuple>
+   <tuple> <atom label="ThreeGNexusOne$0"/> <atom label="2"/> </tuple>
+   <tuple> <atom label="ThreeDroid$0"/> <atom label="2"/> </tuple>
+   <tuple> <atom label="Bluetooth$0"/> <atom label="2"/> </tuple>
+   <tuple> <atom label="Database$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="MySQL$0"/> <atom label="2"/> </tuple>
+   <tuple> <atom label="sqLite$0"/> <atom label="4"/> </tuple>
+   <tuple> <atom label="ArchitecturalStyle$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="PeerToPeer$0"/> <atom label="11"/> </tuple>
+   <tuple> <atom label="ClientServer$0"/> <atom label="8"/> </tuple>
+   <tuple> <atom label="PushBased$0"/> <atom label="10"/> </tuple>
+   <tuple> <atom label="DataExchangeFormat$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="Xml$0"/> <atom label="3"/> </tuple>
+   <tuple> <atom label="CompressedXML$0"/> <atom label="5"/> </tuple>
+   <tuple> <atom label="UnformattedData$0"/> <atom label="2"/> </tuple>
+   <types> <type ID="5"/> <type ID="1"/> </types>
+</field>
+
+<field label="cost" ID="41" parentID="5">
+   <tuple> <atom label="LocationFinding$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="GPS$0"/> <atom label="80"/> </tuple>
+   <tuple> <atom label="RadioTriangulation$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="HardwarePlatform$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="NexusOneHTC$0"/> <atom label="525"/> </tuple>
+   <tuple> <atom label="DroidMotorola$0"/> <atom label="520"/> </tuple>
+   <tuple> <atom label="FileSharing$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="FileManagerOpenIntents$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="InHouseFileManager$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="ReportSynchronization$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="ExplicitReportsSync$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="ImplicitReportsSync$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="ChatProtocol$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="OpenFire$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="InHouseChatProtocol$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="MapAccess$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="OnDemandGoogleSite$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="CachedGoogleServer$0"/> <atom label="900"/> </tuple>
+   <tuple> <atom label="PreloadedEsri$0"/> <atom label="170"/> </tuple>
+   <tuple> <atom label="Connectivity$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="WiFi$0"/> <atom label="80"/> </tuple>
+   <tuple> <atom label="ThreeGNexusOne$0"/> <atom label="400"/> </tuple>
+   <tuple> <atom label="ThreeDroid$0"/> <atom label="400"/> </tuple>
+   <tuple> <atom label="Bluetooth$0"/> <atom label="70"/> </tuple>
+   <tuple> <atom label="Database$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="MySQL$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="sqLite$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="ArchitecturalStyle$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="PeerToPeer$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="ClientServer$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="PushBased$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="DataExchangeFormat$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="Xml$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="CompressedXML$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="UnformattedData$0"/> <atom label="0"/> </tuple>
+   <types> <type ID="5"/> <type ID="1"/> </types>
+</field>
+
+<field label="DevelopmentTime" ID="42" parentID="5">
+   <tuple> <atom label="LocationFinding$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="GPS$0"/> <atom label="4"/> </tuple>
+   <tuple> <atom label="RadioTriangulation$0"/> <atom label="14"/> </tuple>
+   <tuple> <atom label="HardwarePlatform$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="NexusOneHTC$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="DroidMotorola$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="FileSharing$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="FileManagerOpenIntents$0"/> <atom label="4"/> </tuple>
+   <tuple> <atom label="InHouseFileManager$0"/> <atom label="6"/> </tuple>
+   <tuple> <atom label="ReportSynchronization$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="ExplicitReportsSync$0"/> <atom label="6"/> </tuple>
+   <tuple> <atom label="ImplicitReportsSync$0"/> <atom label="4"/> </tuple>
+   <tuple> <atom label="ChatProtocol$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="OpenFire$0"/> <atom label="6"/> </tuple>
+   <tuple> <atom label="InHouseChatProtocol$0"/> <atom label="8"/> </tuple>
+   <tuple> <atom label="MapAccess$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="OnDemandGoogleSite$0"/> <atom label="18"/> </tuple>
+   <tuple> <atom label="CachedGoogleServer$0"/> <atom label="18"/> </tuple>
+   <tuple> <atom label="PreloadedEsri$0"/> <atom label="27"/> </tuple>
+   <tuple> <atom label="Connectivity$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="WiFi$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="ThreeGNexusOne$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="ThreeDroid$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="Bluetooth$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="Database$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="MySQL$0"/> <atom label="17"/> </tuple>
+   <tuple> <atom label="sqLite$0"/> <atom label="16"/> </tuple>
+   <tuple> <atom label="ArchitecturalStyle$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="PeerToPeer$0"/> <atom label="26"/> </tuple>
+   <tuple> <atom label="ClientServer$0"/> <atom label="16"/> </tuple>
+   <tuple> <atom label="PushBased$0"/> <atom label="24"/> </tuple>
+   <tuple> <atom label="DataExchangeFormat$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="Xml$0"/> <atom label="7"/> </tuple>
+   <tuple> <atom label="CompressedXML$0"/> <atom label="9"/> </tuple>
+   <tuple> <atom label="UnformattedData$0"/> <atom label="4"/> </tuple>
+   <types> <type ID="5"/> <type ID="1"/> </types>
+</field>
+
+<field label="DeploymentTime" ID="43" parentID="5">
+   <tuple> <atom label="LocationFinding$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="GPS$0"/> <atom label="3"/> </tuple>
+   <tuple> <atom label="RadioTriangulation$0"/> <atom label="1"/> </tuple>
+   <tuple> <atom label="HardwarePlatform$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="NexusOneHTC$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="DroidMotorola$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="FileSharing$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="FileManagerOpenIntents$0"/> <atom label="1"/> </tuple>
+   <tuple> <atom label="InHouseFileManager$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="ReportSynchronization$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="ExplicitReportsSync$0"/> <atom label="2"/> </tuple>
+   <tuple> <atom label="ImplicitReportsSync$0"/> <atom label="1"/> </tuple>
+   <tuple> <atom label="ChatProtocol$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="OpenFire$0"/> <atom label="1"/> </tuple>
+   <tuple> <atom label="InHouseChatProtocol$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="MapAccess$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="OnDemandGoogleSite$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="CachedGoogleServer$0"/> <atom label="4"/> </tuple>
+   <tuple> <atom label="PreloadedEsri$0"/> <atom label="4"/> </tuple>
+   <tuple> <atom label="Connectivity$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="WiFi$0"/> <atom label="6"/> </tuple>
+   <tuple> <atom label="ThreeGNexusOne$0"/> <atom label="3"/> </tuple>
+   <tuple> <atom label="ThreeDroid$0"/> <atom label="3"/> </tuple>
+   <tuple> <atom label="Bluetooth$0"/> <atom label="5"/> </tuple>
+   <tuple> <atom label="Database$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="MySQL$0"/> <atom label="15"/> </tuple>
+   <tuple> <atom label="sqLite$0"/> <atom label="14"/> </tuple>
+   <tuple> <atom label="ArchitecturalStyle$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="PeerToPeer$0"/> <atom label="18"/> </tuple>
+   <tuple> <atom label="ClientServer$0"/> <atom label="9"/> </tuple>
+   <tuple> <atom label="PushBased$0"/> <atom label="9"/> </tuple>
+   <tuple> <atom label="DataExchangeFormat$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="Xml$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="CompressedXML$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="UnformattedData$0"/> <atom label="0"/> </tuple>
+   <types> <type ID="5"/> <type ID="1"/> </types>
+</field>
+
+<field label="BatteryUsage" ID="44" parentID="5">
+   <tuple> <atom label="LocationFinding$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="GPS$0"/> <atom label="10"/> </tuple>
+   <tuple> <atom label="RadioTriangulation$0"/> <atom label="5"/> </tuple>
+   <tuple> <atom label="HardwarePlatform$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="NexusOneHTC$0"/> <atom label="5"/> </tuple>
+   <tuple> <atom label="DroidMotorola$0"/> <atom label="5"/> </tuple>
+   <tuple> <atom label="FileSharing$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="FileManagerOpenIntents$0"/> <atom label="5"/> </tuple>
+   <tuple> <atom label="InHouseFileManager$0"/> <atom label="4"/> </tuple>
+   <tuple> <atom label="ReportSynchronization$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="ExplicitReportsSync$0"/> <atom label="3"/> </tuple>
+   <tuple> <atom label="ImplicitReportsSync$0"/> <atom label="8"/> </tuple>
+   <tuple> <atom label="ChatProtocol$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="OpenFire$0"/> <atom label="5"/> </tuple>
+   <tuple> <atom label="InHouseChatProtocol$0"/> <atom label="3"/> </tuple>
+   <tuple> <atom label="MapAccess$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="OnDemandGoogleSite$0"/> <atom label="4"/> </tuple>
+   <tuple> <atom label="CachedGoogleServer$0"/> <atom label="5"/> </tuple>
+   <tuple> <atom label="PreloadedEsri$0"/> <atom label="7"/> </tuple>
+   <tuple> <atom label="Connectivity$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="WiFi$0"/> <atom label="4"/> </tuple>
+   <tuple> <atom label="ThreeGNexusOne$0"/> <atom label="2"/> </tuple>
+   <tuple> <atom label="ThreeDroid$0"/> <atom label="4"/> </tuple>
+   <tuple> <atom label="Bluetooth$0"/> <atom label="3"/> </tuple>
+   <tuple> <atom label="Database$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="MySQL$0"/> <atom label="6"/> </tuple>
+   <tuple> <atom label="sqLite$0"/> <atom label="5"/> </tuple>
+   <tuple> <atom label="ArchitecturalStyle$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="PeerToPeer$0"/> <atom label="8"/> </tuple>
+   <tuple> <atom label="ClientServer$0"/> <atom label="6"/> </tuple>
+   <tuple> <atom label="PushBased$0"/> <atom label="4"/> </tuple>
+   <tuple> <atom label="DataExchangeFormat$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="Xml$0"/> <atom label="4"/> </tuple>
+   <tuple> <atom label="CompressedXML$0"/> <atom label="5"/> </tuple>
+   <tuple> <atom label="UnformattedData$0"/> <atom label="1"/> </tuple>
+   <types> <type ID="5"/> <type ID="1"/> </types>
+</field>
+
+<field label="ResponseTime" ID="45" parentID="5">
+   <tuple> <atom label="LocationFinding$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="GPS$0"/> <atom label="500"/> </tuple>
+   <tuple> <atom label="RadioTriangulation$0"/> <atom label="100"/> </tuple>
+   <tuple> <atom label="HardwarePlatform$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="NexusOneHTC$0"/> <atom label="60"/> </tuple>
+   <tuple> <atom label="DroidMotorola$0"/> <atom label="55"/> </tuple>
+   <tuple> <atom label="FileSharing$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="FileManagerOpenIntents$0"/> <atom label="65"/> </tuple>
+   <tuple> <atom label="InHouseFileManager$0"/> <atom label="60"/> </tuple>
+   <tuple> <atom label="ReportSynchronization$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="ExplicitReportsSync$0"/> <atom label="30"/> </tuple>
+   <tuple> <atom label="ImplicitReportsSync$0"/> <atom label="4"/> </tuple>
+   <tuple> <atom label="ChatProtocol$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="OpenFire$0"/> <atom label="60"/> </tuple>
+   <tuple> <atom label="InHouseChatProtocol$0"/> <atom label="40"/> </tuple>
+   <tuple> <atom label="MapAccess$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="OnDemandGoogleSite$0"/> <atom label="800"/> </tuple>
+   <tuple> <atom label="CachedGoogleServer$0"/> <atom label="4"/> </tuple>
+   <tuple> <atom label="PreloadedEsri$0"/> <atom label="2"/> </tuple>
+   <tuple> <atom label="Connectivity$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="WiFi$0"/> <atom label="35"/> </tuple>
+   <tuple> <atom label="ThreeGNexusOne$0"/> <atom label="25"/> </tuple>
+   <tuple> <atom label="ThreeDroid$0"/> <atom label="25"/> </tuple>
+   <tuple> <atom label="Bluetooth$0"/> <atom label="30"/> </tuple>
+   <tuple> <atom label="Database$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="MySQL$0"/> <atom label="25"/> </tuple>
+   <tuple> <atom label="sqLite$0"/> <atom label="10"/> </tuple>
+   <tuple> <atom label="ArchitecturalStyle$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="PeerToPeer$0"/> <atom label="20"/> </tuple>
+   <tuple> <atom label="ClientServer$0"/> <atom label="30"/> </tuple>
+   <tuple> <atom label="PushBased$0"/> <atom label="25"/> </tuple>
+   <tuple> <atom label="DataExchangeFormat$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="Xml$0"/> <atom label="35"/> </tuple>
+   <tuple> <atom label="CompressedXML$0"/> <atom label="20"/> </tuple>
+   <tuple> <atom label="UnformattedData$0"/> <atom label="10"/> </tuple>
+   <types> <type ID="5"/> <type ID="1"/> </types>
+</field>
+
+<field label="Reliability" ID="46" parentID="5">
+   <tuple> <atom label="LocationFinding$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="GPS$0"/> <atom label="75"/> </tuple>
+   <tuple> <atom label="RadioTriangulation$0"/> <atom label="92"/> </tuple>
+   <tuple> <atom label="HardwarePlatform$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="NexusOneHTC$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="DroidMotorola$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="FileSharing$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="FileManagerOpenIntents$0"/> <atom label="95"/> </tuple>
+   <tuple> <atom label="InHouseFileManager$0"/> <atom label="92"/> </tuple>
+   <tuple> <atom label="ReportSynchronization$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="ExplicitReportsSync$0"/> <atom label="88"/> </tuple>
+   <tuple> <atom label="ImplicitReportsSync$0"/> <atom label="97"/> </tuple>
+   <tuple> <atom label="ChatProtocol$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="OpenFire$0"/> <atom label="95"/> </tuple>
+   <tuple> <atom label="InHouseChatProtocol$0"/> <atom label="96"/> </tuple>
+   <tuple> <atom label="MapAccess$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="OnDemandGoogleSite$0"/> <atom label="91"/> </tuple>
+   <tuple> <atom label="CachedGoogleServer$0"/> <atom label="97"/> </tuple>
+   <tuple> <atom label="PreloadedEsri$0"/> <atom label="90"/> </tuple>
+   <tuple> <atom label="Connectivity$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="WiFi$0"/> <atom label="85"/> </tuple>
+   <tuple> <atom label="ThreeGNexusOne$0"/> <atom label="88"/> </tuple>
+   <tuple> <atom label="ThreeDroid$0"/> <atom label="88"/> </tuple>
+   <tuple> <atom label="Bluetooth$0"/> <atom label="85"/> </tuple>
+   <tuple> <atom label="Database$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="MySQL$0"/> <atom label="90"/> </tuple>
+   <tuple> <atom label="sqLite$0"/> <atom label="90"/> </tuple>
+   <tuple> <atom label="ArchitecturalStyle$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="PeerToPeer$0"/> <atom label="66"/> </tuple>
+   <tuple> <atom label="ClientServer$0"/> <atom label="95"/> </tuple>
+   <tuple> <atom label="PushBased$0"/> <atom label="94"/> </tuple>
+   <tuple> <atom label="DataExchangeFormat$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="Xml$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="CompressedXML$0"/> <atom label="0"/> </tuple>
+   <tuple> <atom label="UnformattedData$0"/> <atom label="0"/> </tuple>
+   <types> <type ID="5"/> <type ID="1"/> </types>
+</field>
+
+<sig label="this/SearchAndRescueFM" ID="47" parentID="2" one="yes">
+   <atom label="SearchAndRescueFM$0"/>
+</sig>
+
+<field label="features" ID="48" parentID="47">
+   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="LocationFinding$0"/> </tuple>
+   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="GPS$0"/> </tuple>
+   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="HardwarePlatform$0"/> </tuple>
+   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="DroidMotorola$0"/> </tuple>
+   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="FileSharing$0"/> </tuple>
+   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="InHouseFileManager$0"/> </tuple>
+   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="ReportSynchronization$0"/> </tuple>
+   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="ImplicitReportsSync$0"/> </tuple>
+   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="ChatProtocol$0"/> </tuple>
+   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="InHouseChatProtocol$0"/> </tuple>
+   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="MapAccess$0"/> </tuple>
+   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="OnDemandGoogleSite$0"/> </tuple>
+   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="Connectivity$0"/> </tuple>
+   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="ThreeGNexusOne$0"/> </tuple>
+   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="Database$0"/> </tuple>
+   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="MySQL$0"/> </tuple>
+   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="ArchitecturalStyle$0"/> </tuple>
+   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="ClientServer$0"/> </tuple>
+   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="DataExchangeFormat$0"/> </tuple>
+   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="UnformattedData$0"/> </tuple>
+   <types> <type ID="47"/> <type ID="5"/> </types>
+</field>
+
+<field label="total_cost" ID="49" parentID="47">
+   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="1000"/> </tuple>
+   <types> <type ID="47"/> <type ID="1"/> </types>
+</field>
+
+<field label="total_RampUpTime" ID="50" parentID="47">
+   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="43"/> </tuple>
+   <types> <type ID="47"/> <type ID="1"/> </types>
+</field>
+
+<field label="total_DevelopmentTime" ID="51" parentID="47">
+   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="77"/> </tuple>
+   <types> <type ID="47"/> <type ID="1"/> </types>
+</field>
+
+<field label="total_DeploymentTime" ID="52" parentID="47">
+   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="31"/> </tuple>
+   <types> <type ID="47"/> <type ID="1"/> </types>
+</field>
+
+<field label="total_BatteryUsage" ID="53" parentID="47">
+   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="49"/> </tuple>
+   <types> <type ID="47"/> <type ID="1"/> </types>
+</field>
+
+<field label="total_ResponseTime" ID="54" parentID="47">
+   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="1549"/> </tuple>
+   <types> <type ID="47"/> <type ID="1"/> </types>
+</field>
+
+<field label="total_Reliability" ID="55" parentID="47">
+   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="724"/> </tuple>
+   <types> <type ID="47"/> <type ID="1"/> </types>
+</field>
+
+<sig label="univ" ID="2" builtin="yes">
+</sig>
+
+</instance>
+
+</alloy>
