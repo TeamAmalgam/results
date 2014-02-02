@@ -1,0 +1,70 @@
+<alloy builddate="unknown">
+
+<instance bitwidth="12" maxseq="4" command="Run featureSet for 12 int, exactly 1 Prevayler optimize o_global" filename="">
+
+<sig label="seq/Int" ID="0" parentID="1" builtin="yes">
+</sig>
+
+<sig label="Int" ID="1" parentID="2" builtin="yes">
+</sig>
+
+<sig label="String" ID="3" parentID="2" builtin="yes">
+</sig>
+
+<sig label="this/PrevaylerSPL" ID="4" parentID="5" one="yes">
+   <atom label="PrevaylerSPL$0"/>
+</sig>
+
+<sig label="this/Replication" ID="6" parentID="5" one="yes">
+   <atom label="Replication$0"/>
+</sig>
+
+<sig label="this/GZip" ID="7" parentID="5" one="yes">
+   <atom label="GZip$0"/>
+</sig>
+
+<sig label="this/Censor" ID="8" parentID="5" one="yes">
+   <atom label="Censor$0"/>
+</sig>
+
+<sig label="this/Monitor" ID="9" parentID="5" one="yes">
+   <atom label="Monitor$0"/>
+</sig>
+
+<sig label="this/Snapshot" ID="10" parentID="5" one="yes">
+   <atom label="Snapshot$0"/>
+</sig>
+
+<sig label="this/IMeasurable" ID="5" parentID="2" abstract="yes">
+</sig>
+
+<field label="footprint" ID="11" parentID="5">
+   <tuple> <atom label="PrevaylerSPL$0"/> <atom label="873"/> </tuple>
+   <tuple> <atom label="Replication$0"/> <atom label="523"/> </tuple>
+   <tuple> <atom label="GZip$0"/> <atom label="54"/> </tuple>
+   <tuple> <atom label="Censor$0"/> <atom label="50"/> </tuple>
+   <tuple> <atom label="Monitor$0"/> <atom label="77"/> </tuple>
+   <tuple> <atom label="Snapshot$0"/> <atom label="108"/> </tuple>
+   <types> <type ID="5"/> <type ID="1"/> </types>
+</field>
+
+<sig label="this/Prevayler" ID="12" parentID="2" one="yes">
+   <atom label="Prevayler$0"/>
+</sig>
+
+<field label="features" ID="13" parentID="12">
+   <tuple> <atom label="Prevayler$0"/> <atom label="PrevaylerSPL$0"/> </tuple>
+   <types> <type ID="12"/> <type ID="5"/> </types>
+</field>
+
+<field label="totalFootprint" ID="14" parentID="12">
+   <tuple> <atom label="Prevayler$0"/> <atom label="873"/> </tuple>
+   <types> <type ID="12"/> <type ID="1"/> </types>
+</field>
+
+<sig label="univ" ID="2" builtin="yes">
+</sig>
+
+</instance>
+
+</alloy>
