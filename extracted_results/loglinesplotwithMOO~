@@ -1,0 +1,9 @@
+set term png
+set title mytitle
+set termoption lw 2
+set output outfile
+set xrange [0:94]
+set xlabel "Experiment Number"
+set ylabel myylabel
+#set yrange [0:100000]
+plot file using 1:(log10($2)) title 'IGIA' with linespoints,file using 1:(log10($3)) title 'Red. Consts, Red. Formulas' with linespoints,file using 1:(log10($4)) title 'CM Consts' with linespoints, file using 1:(log10($5)) title 'CM Consts, Red. Formulas' with linespoints
