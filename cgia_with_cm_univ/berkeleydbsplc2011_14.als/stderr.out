@@ -1,0 +1,35 @@
+Feb 02, 2014 1:20:30 PM kodkod.multiobjective.algorithms.CheckpointedGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 0, Improving on [1147]
+Feb 02, 2014 1:20:30 PM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/BerkeleyDbC.totalFootprint) <= 1147)
+	(sum(this/BerkeleyDbC.totalFootprint) < 1147)
+Feb 02, 2014 1:20:30 PM kodkod.multiobjective.algorithms.CheckpointedGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 0, Improving on [1137]
+Feb 02, 2014 1:20:30 PM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/BerkeleyDbC.totalFootprint) <= 1137)
+	(sum(this/BerkeleyDbC.totalFootprint) < 1137)
+Feb 02, 2014 1:20:30 PM kodkod.multiobjective.algorithms.CheckpointedGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 0, Improving on [1073]
+Feb 02, 2014 1:20:30 PM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/BerkeleyDbC.totalFootprint) <= 1073)
+	(sum(this/BerkeleyDbC.totalFootprint) < 1073)
+Feb 02, 2014 1:20:30 PM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+FINE: Found Pareto point with values: [1073]
+Feb 02, 2014 1:20:30 PM kodkod.multiobjective.algorithms.CheckpointedGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found Pareto point with values: [1073]
+Feb 02, 2014 1:20:30 PM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm debugWriteStatistics
+FINE: Solver statistics:
+	# Sat Call: 3
+	# Unsat Call: 2
+	# Total Time in Sat Calls: 616
+	# Total Time in Sat Calls Solving: 13
+	# Total Time in Sat Calls Translating: 603
+	# Total Time in Unsat Calls: 29
+	# Total Time in Unsat Calls Solving: 6
+	# Total Time in Unsat Calls Translating: 23
+	# Magnifier Sat Call: 0
+	# Magnifier Unsat Call: 0
+	# Total Time in Magnifier: 0
