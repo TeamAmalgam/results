@@ -1,0 +1,41 @@
+Feb 01, 2014 4:42:38 PM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 0, Improving on [939]
+Feb 01, 2014 4:42:38 PM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/ZipMeSPL.totalFootprint) <= 939)
+	(sum(this/ZipMeSPL.totalFootprint) < 939)
+Feb 01, 2014 4:42:38 PM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 0, Improving on [923]
+Feb 01, 2014 4:42:38 PM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/ZipMeSPL.totalFootprint) <= 923)
+	(sum(this/ZipMeSPL.totalFootprint) < 923)
+Feb 01, 2014 4:42:38 PM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 0, Improving on [871]
+Feb 01, 2014 4:42:38 PM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/ZipMeSPL.totalFootprint) <= 871)
+	(sum(this/ZipMeSPL.totalFootprint) < 871)
+Feb 01, 2014 4:42:38 PM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 0, Improving on [865]
+Feb 01, 2014 4:42:38 PM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/ZipMeSPL.totalFootprint) <= 865)
+	(sum(this/ZipMeSPL.totalFootprint) < 865)
+Feb 01, 2014 4:42:38 PM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+FINE: Found Pareto point with values: [865]
+Feb 01, 2014 4:42:38 PM kodkod.multiobjective.algorithms.IncrementalGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: All Pareto points found. At time: 0
+Feb 01, 2014 4:42:38 PM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm debugWriteStatistics
+FINE: Solver statistics:
+	# Sat Call: 4
+	# Unsat Call: 2
+	# Total Time in Sat Calls: 244
+	# Total Time in Sat Calls Solving: 5
+	# Total Time in Sat Calls Translating: 239
+	# Total Time in Unsat Calls: 77
+	# Total Time in Unsat Calls Solving: 5
+	# Total Time in Unsat Calls Translating: 72
+	# Magnifier Sat Call: 0
+	# Magnifier Unsat Call: 0
+	# Total Time in Magnifier: 0
