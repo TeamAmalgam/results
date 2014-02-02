@@ -437,57 +437,56 @@
    <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="HardwarePlatform$0"/> </tuple>
    <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="DroidMotorola$0"/> </tuple>
    <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="FileSharing$0"/> </tuple>
-   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="FileManagerOpenIntents$0"/> </tuple>
+   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="InHouseFileManager$0"/> </tuple>
    <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="ReportSynchronization$0"/> </tuple>
-   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="ImplicitReportsSync$0"/> </tuple>
+   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="ExplicitReportsSync$0"/> </tuple>
    <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="ChatProtocol$0"/> </tuple>
    <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="InHouseChatProtocol$0"/> </tuple>
    <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="MapAccess$0"/> </tuple>
-   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="OnDemandGoogleSite$0"/> </tuple>
+   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="CachedGoogleServer$0"/> </tuple>
    <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="Connectivity$0"/> </tuple>
    <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="ThreeGNexusOne$0"/> </tuple>
    <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="Database$0"/> </tuple>
    <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="sqLite$0"/> </tuple>
    <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="ArchitecturalStyle$0"/> </tuple>
    <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="ClientServer$0"/> </tuple>
-   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="PushBased$0"/> </tuple>
    <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="DataExchangeFormat$0"/> </tuple>
    <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="UnformattedData$0"/> </tuple>
    <types> <type ID="47"/> <type ID="5"/> </types>
 </field>
 
 <field label="total_cost" ID="49" parentID="47">
-   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="1000"/> </tuple>
+   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="1900"/> </tuple>
    <types> <type ID="47"/> <type ID="1"/> </types>
 </field>
 
 <field label="total_RampUpTime" ID="50" parentID="47">
-   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="56"/> </tuple>
+   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="45"/> </tuple>
    <types> <type ID="47"/> <type ID="1"/> </types>
 </field>
 
 <field label="total_DevelopmentTime" ID="51" parentID="47">
-   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="98"/> </tuple>
+   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="78"/> </tuple>
    <types> <type ID="47"/> <type ID="1"/> </types>
 </field>
 
 <field label="total_DeploymentTime" ID="52" parentID="47">
-   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="40"/> </tuple>
+   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="35"/> </tuple>
    <types> <type ID="47"/> <type ID="1"/> </types>
 </field>
 
 <field label="total_BatteryUsage" ID="53" parentID="47">
-   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="53"/> </tuple>
+   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="44"/> </tuple>
    <types> <type ID="47"/> <type ID="1"/> </types>
 </field>
 
 <field label="total_ResponseTime" ID="54" parentID="47">
-   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="1564"/> </tuple>
+   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="764"/> </tuple>
    <types> <type ID="47"/> <type ID="1"/> </types>
 </field>
 
 <field label="total_Reliability" ID="55" parentID="47">
-   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="821"/> </tuple>
+   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="721"/> </tuple>
    <types> <type ID="47"/> <type ID="1"/> </types>
 </field>
 

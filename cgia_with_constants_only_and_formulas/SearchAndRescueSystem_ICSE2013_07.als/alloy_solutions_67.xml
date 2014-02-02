@@ -445,7 +445,7 @@
    <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="MapAccess$0"/> </tuple>
    <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="OnDemandGoogleSite$0"/> </tuple>
    <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="Connectivity$0"/> </tuple>
-   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="ThreeGNexusOne$0"/> </tuple>
+   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="Bluetooth$0"/> </tuple>
    <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="Database$0"/> </tuple>
    <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="sqLite$0"/> </tuple>
    <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="ArchitecturalStyle$0"/> </tuple>
@@ -457,7 +457,7 @@
 </field>
 
 <field label="total_cost" ID="49" parentID="47">
-   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="920"/> </tuple>
+   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="590"/> </tuple>
    <types> <type ID="47"/> <type ID="1"/> </types>
 </field>
 
@@ -472,22 +472,22 @@
 </field>
 
 <field label="total_DeploymentTime" ID="52" parentID="47">
-   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="48"/> </tuple>
+   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="50"/> </tuple>
    <types> <type ID="47"/> <type ID="1"/> </types>
 </field>
 
 <field label="total_BatteryUsage" ID="53" parentID="47">
-   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="45"/> </tuple>
+   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="46"/> </tuple>
    <types> <type ID="47"/> <type ID="1"/> </types>
 </field>
 
 <field label="total_ResponseTime" ID="54" parentID="47">
-   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="1180"/> </tuple>
+   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="1185"/> </tuple>
    <types> <type ID="47"/> <type ID="1"/> </types>
 </field>
 
 <field label="total_Reliability" ID="55" parentID="47">
-   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="800"/> </tuple>
+   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="797"/> </tuple>
    <types> <type ID="47"/> <type ID="1"/> </types>
 </field>
 

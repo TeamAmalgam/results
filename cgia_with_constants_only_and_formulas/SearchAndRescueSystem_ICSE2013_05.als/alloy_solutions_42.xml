@@ -367,9 +367,9 @@
    <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="MapAccess$0"/> </tuple>
    <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="OnDemandGoogleSite$0"/> </tuple>
    <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="Connectivity$0"/> </tuple>
-   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="Bluetooth$0"/> </tuple>
+   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="ThreeGNexusOne$0"/> </tuple>
    <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="Database$0"/> </tuple>
-   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="MySQL$0"/> </tuple>
+   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="sqLite$0"/> </tuple>
    <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="ArchitecturalStyle$0"/> </tuple>
    <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="ClientServer$0"/> </tuple>
    <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="DataExchangeFormat$0"/> </tuple>
@@ -378,27 +378,27 @@
 </field>
 
 <field label="total_cost" ID="47" parentID="45">
-   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="670"/> </tuple>
+   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="1000"/> </tuple>
    <types> <type ID="45"/> <type ID="1"/> </types>
 </field>
 
 <field label="total_RampUpTime" ID="48" parentID="45">
-   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="43"/> </tuple>
+   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="45"/> </tuple>
    <types> <type ID="45"/> <type ID="1"/> </types>
 </field>
 
 <field label="total_DevelopmentTime" ID="49" parentID="45">
-   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="79"/> </tuple>
+   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="78"/> </tuple>
    <types> <type ID="45"/> <type ID="1"/> </types>
 </field>
 
 <field label="total_DeploymentTime" ID="50" parentID="45">
-   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="34"/> </tuple>
+   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="31"/> </tuple>
    <types> <type ID="45"/> <type ID="1"/> </types>
 </field>
 
 <field label="total_BatteryUsage" ID="51" parentID="45">
-   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="45"/> </tuple>
+   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="43"/> </tuple>
    <types> <type ID="45"/> <type ID="1"/> </types>
 </field>
 

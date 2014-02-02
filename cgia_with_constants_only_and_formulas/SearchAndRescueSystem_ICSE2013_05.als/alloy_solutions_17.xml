@@ -361,7 +361,7 @@
    <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="FileSharing$0"/> </tuple>
    <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="FileManagerOpenIntents$0"/> </tuple>
    <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="ReportSynchronization$0"/> </tuple>
-   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="ExplicitReportsSync$0"/> </tuple>
+   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="ImplicitReportsSync$0"/> </tuple>
    <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="ChatProtocol$0"/> </tuple>
    <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="InHouseChatProtocol$0"/> </tuple>
    <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="MapAccess$0"/> </tuple>
@@ -388,17 +388,17 @@
 </field>
 
 <field label="total_DevelopmentTime" ID="49" parentID="45">
-   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="77"/> </tuple>
+   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="75"/> </tuple>
    <types> <type ID="45"/> <type ID="1"/> </types>
 </field>
 
 <field label="total_DeploymentTime" ID="50" parentID="45">
-   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="35"/> </tuple>
+   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="34"/> </tuple>
    <types> <type ID="45"/> <type ID="1"/> </types>
 </field>
 
 <field label="total_BatteryUsage" ID="51" parentID="45">
-   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="46"/> </tuple>
+   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="51"/> </tuple>
    <types> <type ID="45"/> <type ID="1"/> </types>
 </field>
 

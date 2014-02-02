@@ -1,112 +1,98 @@
-Feb 02, 2014 12:43:36 AM kodkod.multiobjective.algorithms.CheckpointedGuidedImprovementAlgorithm multiObjectiveSolveImpl
-FINE: Found a solution. At time: 5, Improving on [55, 765]
-Feb 02, 2014 12:43:36 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+Feb 02, 2014 1:05:56 PM kodkod.multiobjective.algorithms.CheckpointedGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 0, Improving on [55, 765]
+Feb 02, 2014 1:05:56 PM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
 FINE: Possible Improvements are conjunction of 
 	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 55)
 	(sum(this/SearchAndRescueFM.total_cost) <= 765)
 	((sum(this/SearchAndRescueFM.total_RampUpTime) < 55) || (sum(this/SearchAndRescueFM.total_cost) < 765))
-Feb 02, 2014 12:43:44 AM kodkod.multiobjective.algorithms.CheckpointedGuidedImprovementAlgorithm multiObjectiveSolveImpl
-FINE: Found a solution. At time: 14, Improving on [55, 670]
-Feb 02, 2014 12:43:44 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+Feb 02, 2014 1:05:56 PM kodkod.multiobjective.algorithms.CheckpointedGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 0, Improving on [55, 760]
+Feb 02, 2014 1:05:56 PM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
 FINE: Possible Improvements are conjunction of 
 	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 55)
-	(sum(this/SearchAndRescueFM.total_cost) <= 670)
-	((sum(this/SearchAndRescueFM.total_RampUpTime) < 55) || (sum(this/SearchAndRescueFM.total_cost) < 670))
-Feb 02, 2014 12:43:46 AM kodkod.multiobjective.algorithms.CheckpointedGuidedImprovementAlgorithm multiObjectiveSolveImpl
-FINE: Found a solution. At time: 15, Improving on [51, 605]
-Feb 02, 2014 12:43:46 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+	(sum(this/SearchAndRescueFM.total_cost) <= 760)
+	((sum(this/SearchAndRescueFM.total_RampUpTime) < 55) || (sum(this/SearchAndRescueFM.total_cost) < 760))
+Feb 02, 2014 1:05:56 PM kodkod.multiobjective.algorithms.CheckpointedGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 0, Improving on [54, 760]
+Feb 02, 2014 1:05:56 PM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
 FINE: Possible Improvements are conjunction of 
-	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 51)
-	(sum(this/SearchAndRescueFM.total_cost) <= 605)
-	((sum(this/SearchAndRescueFM.total_RampUpTime) < 51) || (sum(this/SearchAndRescueFM.total_cost) < 605))
-Feb 02, 2014 12:43:48 AM kodkod.multiobjective.algorithms.CheckpointedGuidedImprovementAlgorithm multiObjectiveSolveImpl
-FINE: Found a solution. At time: 17, Improving on [51, 600]
-Feb 02, 2014 12:43:48 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 54)
+	(sum(this/SearchAndRescueFM.total_cost) <= 760)
+	((sum(this/SearchAndRescueFM.total_RampUpTime) < 54) || (sum(this/SearchAndRescueFM.total_cost) < 760))
+Feb 02, 2014 1:05:56 PM kodkod.multiobjective.algorithms.CheckpointedGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 0, Improving on [52, 600]
+Feb 02, 2014 1:05:56 PM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
 FINE: Possible Improvements are conjunction of 
-	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 51)
+	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 52)
 	(sum(this/SearchAndRescueFM.total_cost) <= 600)
-	((sum(this/SearchAndRescueFM.total_RampUpTime) < 51) || (sum(this/SearchAndRescueFM.total_cost) < 600))
-Feb 02, 2014 12:43:49 AM kodkod.multiobjective.algorithms.CheckpointedGuidedImprovementAlgorithm multiObjectiveSolveImpl
-FINE: Found a solution. At time: 19, Improving on [51, 590]
-Feb 02, 2014 12:43:49 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+	((sum(this/SearchAndRescueFM.total_RampUpTime) < 52) || (sum(this/SearchAndRescueFM.total_cost) < 600))
+Feb 02, 2014 1:05:56 PM kodkod.multiobjective.algorithms.CheckpointedGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 0, Improving on [51, 590]
+Feb 02, 2014 1:05:56 PM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
 FINE: Possible Improvements are conjunction of 
 	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 51)
 	(sum(this/SearchAndRescueFM.total_cost) <= 590)
 	((sum(this/SearchAndRescueFM.total_RampUpTime) < 51) || (sum(this/SearchAndRescueFM.total_cost) < 590))
-Feb 02, 2014 12:43:51 AM kodkod.multiobjective.algorithms.CheckpointedGuidedImprovementAlgorithm multiObjectiveSolveImpl
-FINE: Found a solution. At time: 20, Improving on [50, 590]
-Feb 02, 2014 12:43:51 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+Feb 02, 2014 1:05:56 PM kodkod.multiobjective.algorithms.CheckpointedGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 0, Improving on [50, 590]
+Feb 02, 2014 1:05:56 PM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
 FINE: Possible Improvements are conjunction of 
 	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 50)
 	(sum(this/SearchAndRescueFM.total_cost) <= 590)
 	((sum(this/SearchAndRescueFM.total_RampUpTime) < 50) || (sum(this/SearchAndRescueFM.total_cost) < 590))
-Feb 02, 2014 12:43:53 AM kodkod.multiobjective.algorithms.CheckpointedGuidedImprovementAlgorithm multiObjectiveSolveImpl
-FINE: Found a solution. At time: 22, Improving on [49, 590]
-Feb 02, 2014 12:43:53 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
-FINE: Possible Improvements are conjunction of 
-	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 49)
-	(sum(this/SearchAndRescueFM.total_cost) <= 590)
-	((sum(this/SearchAndRescueFM.total_RampUpTime) < 49) || (sum(this/SearchAndRescueFM.total_cost) < 590))
-Feb 02, 2014 12:43:54 AM kodkod.multiobjective.algorithms.CheckpointedGuidedImprovementAlgorithm multiObjectiveSolveImpl
-FINE: Found a solution. At time: 24, Improving on [48, 590]
-Feb 02, 2014 12:43:54 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+Feb 02, 2014 1:05:56 PM kodkod.multiobjective.algorithms.CheckpointedGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 0, Improving on [48, 590]
+Feb 02, 2014 1:05:56 PM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
 FINE: Possible Improvements are conjunction of 
 	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 48)
 	(sum(this/SearchAndRescueFM.total_cost) <= 590)
 	((sum(this/SearchAndRescueFM.total_RampUpTime) < 48) || (sum(this/SearchAndRescueFM.total_cost) < 590))
-Feb 02, 2014 12:43:56 AM kodkod.multiobjective.algorithms.CheckpointedGuidedImprovementAlgorithm multiObjectiveSolveImpl
-FINE: Found a solution. At time: 25, Improving on [47, 590]
-Feb 02, 2014 12:43:56 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
-FINE: Possible Improvements are conjunction of 
-	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 47)
-	(sum(this/SearchAndRescueFM.total_cost) <= 590)
-	((sum(this/SearchAndRescueFM.total_RampUpTime) < 47) || (sum(this/SearchAndRescueFM.total_cost) < 590))
-Feb 02, 2014 12:43:58 AM kodkod.multiobjective.algorithms.CheckpointedGuidedImprovementAlgorithm multiObjectiveSolveImpl
-FINE: Found a solution. At time: 27, Improving on [46, 590]
-Feb 02, 2014 12:43:58 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+Feb 02, 2014 1:05:56 PM kodkod.multiobjective.algorithms.CheckpointedGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 0, Improving on [46, 590]
+Feb 02, 2014 1:05:56 PM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
 FINE: Possible Improvements are conjunction of 
 	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 46)
 	(sum(this/SearchAndRescueFM.total_cost) <= 590)
 	((sum(this/SearchAndRescueFM.total_RampUpTime) < 46) || (sum(this/SearchAndRescueFM.total_cost) < 590))
-Feb 02, 2014 12:43:59 AM kodkod.multiobjective.algorithms.CheckpointedGuidedImprovementAlgorithm multiObjectiveSolveImpl
-FINE: Found a solution. At time: 29, Improving on [45, 590]
-Feb 02, 2014 12:43:59 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+Feb 02, 2014 1:05:56 PM kodkod.multiobjective.algorithms.CheckpointedGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 0, Improving on [45, 590]
+Feb 02, 2014 1:05:56 PM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
 FINE: Possible Improvements are conjunction of 
 	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 45)
 	(sum(this/SearchAndRescueFM.total_cost) <= 590)
 	((sum(this/SearchAndRescueFM.total_RampUpTime) < 45) || (sum(this/SearchAndRescueFM.total_cost) < 590))
-Feb 02, 2014 12:44:01 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+Feb 02, 2014 1:05:56 PM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
 FINE: Found Pareto point with values: [45, 590]
-Feb 02, 2014 12:44:01 AM kodkod.multiobjective.algorithms.CheckpointedGuidedImprovementAlgorithm multiObjectiveSolveImpl
+Feb 02, 2014 1:05:56 PM kodkod.multiobjective.algorithms.CheckpointedGuidedImprovementAlgorithm multiObjectiveSolveImpl
 FINE: Found Pareto point with values: [45, 590]
-Feb 02, 2014 12:44:14 AM kodkod.multiobjective.algorithms.CheckpointedGuidedImprovementAlgorithm multiObjectiveSolveImpl
-FINE: Found a solution. At time: 43, Improving on [44, 670]
-Feb 02, 2014 12:44:14 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+Feb 02, 2014 1:05:56 PM kodkod.multiobjective.algorithms.CheckpointedGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 0, Improving on [44, 670]
+Feb 02, 2014 1:05:56 PM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
 FINE: Possible Improvements are conjunction of 
 	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 44)
 	(sum(this/SearchAndRescueFM.total_cost) <= 670)
 	((sum(this/SearchAndRescueFM.total_RampUpTime) < 44) || (sum(this/SearchAndRescueFM.total_cost) < 670))
-Feb 02, 2014 12:44:16 AM kodkod.multiobjective.algorithms.CheckpointedGuidedImprovementAlgorithm multiObjectiveSolveImpl
-FINE: Found a solution. At time: 45, Improving on [43, 670]
-Feb 02, 2014 12:44:16 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+Feb 02, 2014 1:05:56 PM kodkod.multiobjective.algorithms.CheckpointedGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 0, Improving on [43, 670]
+Feb 02, 2014 1:05:56 PM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
 FINE: Possible Improvements are conjunction of 
 	(sum(this/SearchAndRescueFM.total_RampUpTime) <= 43)
 	(sum(this/SearchAndRescueFM.total_cost) <= 670)
 	((sum(this/SearchAndRescueFM.total_RampUpTime) < 43) || (sum(this/SearchAndRescueFM.total_cost) < 670))
-Feb 02, 2014 12:44:17 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+Feb 02, 2014 1:05:56 PM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
 FINE: Found Pareto point with values: [43, 670]
-Feb 02, 2014 12:44:17 AM kodkod.multiobjective.algorithms.CheckpointedGuidedImprovementAlgorithm multiObjectiveSolveImpl
+Feb 02, 2014 1:05:56 PM kodkod.multiobjective.algorithms.CheckpointedGuidedImprovementAlgorithm multiObjectiveSolveImpl
 FINE: Found Pareto point with values: [43, 670]
-Feb 02, 2014 12:44:21 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm debugWriteStatistics
+Feb 02, 2014 1:05:56 PM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm debugWriteStatistics
 FINE: Solver statistics:
-	# Sat Call: 13
+	# Sat Call: 11
 	# Unsat Call: 3
-	# Total Time in Sat Calls: 32701
-	# Total Time in Sat Calls Solving: 474
-	# Total Time in Sat Calls Translating: 32227
-	# Total Time in Unsat Calls: 4244
-	# Total Time in Unsat Calls Solving: 26
-	# Total Time in Unsat Calls Translating: 4218
+	# Total Time in Sat Calls: 494
+	# Total Time in Sat Calls Solving: 9
+	# Total Time in Sat Calls Translating: 485
+	# Total Time in Unsat Calls: 24
+	# Total Time in Unsat Calls Solving: 1
+	# Total Time in Unsat Calls Translating: 23
 	# Magnifier Sat Call: 0
 	# Magnifier Unsat Call: 0
 	# Total Time in Magnifier: 0

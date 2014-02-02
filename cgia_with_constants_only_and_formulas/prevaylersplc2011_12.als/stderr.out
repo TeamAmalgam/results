@@ -1,23 +1,23 @@
-Feb 02, 2014 12:13:48 AM kodkod.multiobjective.algorithms.CheckpointedGuidedImprovementAlgorithm multiObjectiveSolveImpl
-FINE: Found a solution. At time: 4, Improving on [873]
-Feb 02, 2014 12:13:48 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+Feb 02, 2014 1:05:02 PM kodkod.multiobjective.algorithms.CheckpointedGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 0, Improving on [873]
+Feb 02, 2014 1:05:02 PM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
 FINE: Possible Improvements are conjunction of 
 	(sum(this/Prevayler.totalFootprint) <= 873)
 	(sum(this/Prevayler.totalFootprint) < 873)
-Feb 02, 2014 12:13:49 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+Feb 02, 2014 1:05:02 PM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
 FINE: Found Pareto point with values: [873]
-Feb 02, 2014 12:13:49 AM kodkod.multiobjective.algorithms.CheckpointedGuidedImprovementAlgorithm multiObjectiveSolveImpl
+Feb 02, 2014 1:05:02 PM kodkod.multiobjective.algorithms.CheckpointedGuidedImprovementAlgorithm multiObjectiveSolveImpl
 FINE: Found Pareto point with values: [873]
-Feb 02, 2014 12:13:50 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm debugWriteStatistics
+Feb 02, 2014 1:05:02 PM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm debugWriteStatistics
 FINE: Solver statistics:
 	# Sat Call: 1
 	# Unsat Call: 2
-	# Total Time in Sat Calls: 4333
-	# Total Time in Sat Calls Solving: 8
-	# Total Time in Sat Calls Translating: 4325
-	# Total Time in Unsat Calls: 2085
-	# Total Time in Unsat Calls Solving: 3
-	# Total Time in Unsat Calls Translating: 2082
+	# Total Time in Sat Calls: 26
+	# Total Time in Sat Calls Solving: 0
+	# Total Time in Sat Calls Translating: 26
+	# Total Time in Unsat Calls: 30
+	# Total Time in Unsat Calls Solving: 0
+	# Total Time in Unsat Calls Translating: 30
 	# Magnifier Sat Call: 0
 	# Magnifier Unsat Call: 0
 	# Total Time in Magnifier: 0

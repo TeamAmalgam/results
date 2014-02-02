@@ -122,12 +122,11 @@
    <tuple> <atom label="BerkeleyDbC$0"/> <atom label="HAVE_HASH$0"/> </tuple>
    <tuple> <atom label="BerkeleyDbC$0"/> <atom label="HAVE_REPLICATION$0"/> </tuple>
    <tuple> <atom label="BerkeleyDbC$0"/> <atom label="HAVE_VERIFY$0"/> </tuple>
-   <tuple> <atom label="BerkeleyDbC$0"/> <atom label="DIAGNOSTIC$0"/> </tuple>
    <types> <type ID="20"/> <type ID="5"/> </types>
 </field>
 
 <field label="totalFootprint" ID="22" parentID="20">
-   <tuple> <atom label="BerkeleyDbC$0"/> <atom label="865"/> </tuple>
+   <tuple> <atom label="BerkeleyDbC$0"/> <atom label="674"/> </tuple>
    <types> <type ID="20"/> <type ID="1"/> </types>
 </field>
 
@@ -137,7 +136,7 @@
 </field>
 
 <field label="totalReliability" ID="24" parentID="20">
-   <tuple> <atom label="BerkeleyDbC$0"/> <atom label="3"/> </tuple>
+   <tuple> <atom label="BerkeleyDbC$0"/> <atom label="2"/> </tuple>
    <types> <type ID="20"/> <type ID="1"/> </types>
 </field>
 

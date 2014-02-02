@@ -1,37 +1,37 @@
-Feb 02, 2014 12:21:41 AM kodkod.multiobjective.algorithms.CheckpointedGuidedImprovementAlgorithm multiObjectiveSolveImpl
-FINE: Found a solution. At time: 42, Improving on [2, 507, 350]
-Feb 02, 2014 12:21:41 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+Feb 02, 2014 1:05:08 PM kodkod.multiobjective.algorithms.CheckpointedGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 0, Improving on [2, 507, 350]
+Feb 02, 2014 1:05:08 PM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
 FINE: Possible Improvements are conjunction of 
 	(sum(this/BerkeleyDbC.totalReliability) >= 2)
 	(sum(this/BerkeleyDbC.totalFootprint) <= 507)
 	(sum(this/BerkeleyDbC.totalPrice) <= 350)
 	((sum(this/BerkeleyDbC.totalReliability) > 2) || (sum(this/BerkeleyDbC.totalFootprint) < 507) || (sum(this/BerkeleyDbC.totalPrice) < 350))
-Feb 02, 2014 12:21:59 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+Feb 02, 2014 1:05:08 PM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
 FINE: Found Pareto point with values: [2, 507, 350]
-Feb 02, 2014 12:21:59 AM kodkod.multiobjective.algorithms.CheckpointedGuidedImprovementAlgorithm multiObjectiveSolveImpl
+Feb 02, 2014 1:05:08 PM kodkod.multiobjective.algorithms.CheckpointedGuidedImprovementAlgorithm multiObjectiveSolveImpl
 FINE: Found Pareto point with values: [2, 507, 350]
-Feb 02, 2014 12:22:14 AM kodkod.multiobjective.algorithms.CheckpointedGuidedImprovementAlgorithm multiObjectiveSolveImpl
-FINE: Found a solution. At time: 75, Improving on [3, 698, 350]
-Feb 02, 2014 12:22:14 AM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+Feb 02, 2014 1:05:09 PM kodkod.multiobjective.algorithms.CheckpointedGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 0, Improving on [3, 698, 350]
+Feb 02, 2014 1:05:09 PM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
 FINE: Possible Improvements are conjunction of 
 	(sum(this/BerkeleyDbC.totalReliability) >= 3)
 	(sum(this/BerkeleyDbC.totalFootprint) <= 698)
 	(sum(this/BerkeleyDbC.totalPrice) <= 350)
 	((sum(this/BerkeleyDbC.totalReliability) > 3) || (sum(this/BerkeleyDbC.totalFootprint) < 698) || (sum(this/BerkeleyDbC.totalPrice) < 350))
-Feb 02, 2014 12:22:18 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+Feb 02, 2014 1:05:09 PM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
 FINE: Found Pareto point with values: [3, 698, 350]
-Feb 02, 2014 12:22:18 AM kodkod.multiobjective.algorithms.CheckpointedGuidedImprovementAlgorithm multiObjectiveSolveImpl
+Feb 02, 2014 1:05:09 PM kodkod.multiobjective.algorithms.CheckpointedGuidedImprovementAlgorithm multiObjectiveSolveImpl
 FINE: Found Pareto point with values: [3, 698, 350]
-Feb 02, 2014 12:22:26 AM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm debugWriteStatistics
+Feb 02, 2014 1:05:09 PM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm debugWriteStatistics
 FINE: Solver statistics:
 	# Sat Call: 2
 	# Unsat Call: 3
-	# Total Time in Sat Calls: 53367
-	# Total Time in Sat Calls Solving: 155
-	# Total Time in Sat Calls Translating: 53212
-	# Total Time in Unsat Calls: 24628
-	# Total Time in Unsat Calls Solving: 61
-	# Total Time in Unsat Calls Translating: 24567
+	# Total Time in Sat Calls: 149
+	# Total Time in Sat Calls Solving: 0
+	# Total Time in Sat Calls Translating: 149
+	# Total Time in Unsat Calls: 146
+	# Total Time in Unsat Calls Solving: 0
+	# Total Time in Unsat Calls Translating: 146
 	# Magnifier Sat Call: 0
 	# Magnifier Unsat Call: 0
 	# Total Time in Magnifier: 0

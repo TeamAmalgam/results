@@ -404,11 +404,11 @@
    <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="ChatProtocol$0"/> </tuple>
    <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="InHouseChatProtocol$0"/> </tuple>
    <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="MapAccess$0"/> </tuple>
-   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="PreloadedEsri$0"/> </tuple>
+   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="CachedGoogleServer$0"/> </tuple>
    <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="Connectivity$0"/> </tuple>
-   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="Bluetooth$0"/> </tuple>
+   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="ThreeGNexusOne$0"/> </tuple>
    <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="Database$0"/> </tuple>
-   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="MySQL$0"/> </tuple>
+   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="sqLite$0"/> </tuple>
    <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="ArchitecturalStyle$0"/> </tuple>
    <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="ClientServer$0"/> </tuple>
    <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="DataExchangeFormat$0"/> </tuple>
@@ -417,32 +417,32 @@
 </field>
 
 <field label="total_cost" ID="48" parentID="46">
-   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="840"/> </tuple>
+   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="1900"/> </tuple>
    <types> <type ID="46"/> <type ID="1"/> </types>
 </field>
 
 <field label="total_RampUpTime" ID="49" parentID="46">
-   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="47"/> </tuple>
+   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="45"/> </tuple>
    <types> <type ID="46"/> <type ID="1"/> </types>
 </field>
 
 <field label="total_DevelopmentTime" ID="50" parentID="46">
-   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="88"/> </tuple>
+   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="78"/> </tuple>
    <types> <type ID="46"/> <type ID="1"/> </types>
 </field>
 
 <field label="total_DeploymentTime" ID="51" parentID="46">
-   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="38"/> </tuple>
+   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="35"/> </tuple>
    <types> <type ID="46"/> <type ID="1"/> </types>
 </field>
 
 <field label="total_BatteryUsage" ID="52" parentID="46">
-   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="48"/> </tuple>
+   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="44"/> </tuple>
    <types> <type ID="46"/> <type ID="1"/> </types>
 </field>
 
 <field label="total_ResponseTime" ID="53" parentID="46">
-   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="782"/> </tuple>
+   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="764"/> </tuple>
    <types> <type ID="46"/> <type ID="1"/> </types>
 </field>
 

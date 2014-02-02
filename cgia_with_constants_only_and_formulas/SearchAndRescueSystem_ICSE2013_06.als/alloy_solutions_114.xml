@@ -408,7 +408,7 @@
    <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="Connectivity$0"/> </tuple>
    <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="Bluetooth$0"/> </tuple>
    <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="Database$0"/> </tuple>
-   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="MySQL$0"/> </tuple>
+   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="sqLite$0"/> </tuple>
    <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="ArchitecturalStyle$0"/> </tuple>
    <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="ClientServer$0"/> </tuple>
    <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="DataExchangeFormat$0"/> </tuple>
@@ -422,27 +422,27 @@
 </field>
 
 <field label="total_RampUpTime" ID="49" parentID="46">
-   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="48"/> </tuple>
+   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="50"/> </tuple>
    <types> <type ID="46"/> <type ID="1"/> </types>
 </field>
 
 <field label="total_DevelopmentTime" ID="50" parentID="46">
-   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="85"/> </tuple>
+   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="84"/> </tuple>
    <types> <type ID="46"/> <type ID="1"/> </types>
 </field>
 
 <field label="total_DeploymentTime" ID="51" parentID="46">
-   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="38"/> </tuple>
+   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="37"/> </tuple>
    <types> <type ID="46"/> <type ID="1"/> </types>
 </field>
 
 <field label="total_BatteryUsage" ID="52" parentID="46">
-   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="44"/> </tuple>
+   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="43"/> </tuple>
    <types> <type ID="46"/> <type ID="1"/> </types>
 </field>
 
 <field label="total_ResponseTime" ID="53" parentID="46">
-   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="409"/> </tuple>
+   <tuple> <atom label="SearchAndRescueFM$0"/> <atom label="394"/> </tuple>
    <types> <type ID="46"/> <type ID="1"/> </types>
 </field>
 
