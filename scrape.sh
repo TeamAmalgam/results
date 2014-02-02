@@ -4,7 +4,7 @@ expdirs="igia igia_constants_only_with_formula_changes igia_with_cm_univ igia_wi
 cd igia
 explist=`ls -d */`
 cd ..
-echo $expdirs
+#echo $expdirs
 #echo $explist
 vallist[0]="satcall"
 vallist[1]="unsatcall"
@@ -29,6 +29,14 @@ do
     rm extracted_results/${vallist[i]}
 done
 
+l=0
+rm extracted_results/experiment_numbers
+for m in $explist
+do
+    l=`expr $l + 1`
+    echo $l $m >> extracted_results/experiment_numbers
+done
+
 for h in `seq 0 7`
 do
     k=0
@@ -45,7 +53,12 @@ do
 	    #echo $i
 	    cd $j
 	    cd $i
-	    line+=`grep "${idlist[$h]}" stderr.out  | sed 's/[^0-9]//g'`
+	    newNum=`grep "${idlist[$h]}" stderr.out  | sed 's/[^0-9]//g'`
+	    if [ "$newNum" = "" ]
+	    then
+		echo $i
+	    fi
+	    line+=$newNum
 	    line+=" "
 #echo $satcall
 	    cd ..
@@ -56,9 +69,13 @@ do
 done
 paste extracted_results/time_in_sat extracted_results/time_in_unsat > temp
 awk 'BEGIN { }{print $1 " " ($2+$7) " " ($3+$8) " " ($4+$9) " " ($5+$10) ;} END{ }' temp > extracted_results/time_in_sat_and_unsat
-
+vallist[8]="time_in_sat_and_unsat"
 rm temp
 cd extracted_results
-gnuplot linesplot
-
+#gnuplot loglinesplot
+for i in `seq 0 8`
+do
+    gnuplot -e "file='${vallist[$i]}'" -e "outfile='log10_${vallist[$i]}.png'" loglinesplot
+    gnuplot -e "file='${vallist[$i]}'" -e "outfile='${vallist[$i]}.png'" linesplot
+done
 #plot "satcall" using 1:2 title 'IGIA' with linespoints,"satcall" using 1:3 title 'Red. Consts, Red. Formulas' with linespoints,"satcall" using 1:4 title 'CM Consts' with linespoints, "satcall" using 1:4 title 'CM Consts, Red. Formulas' with linespoints
