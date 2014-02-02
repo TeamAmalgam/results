@@ -1,0 +1,35 @@
+Feb 01, 2014 9:45:20 PM kodkod.multiobjective.algorithms.CheckpointedGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 3, Improving on [923]
+Feb 01, 2014 9:45:20 PM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/ZipMeSPL.totalFootprint) <= 923)
+	(sum(this/ZipMeSPL.totalFootprint) < 923)
+Feb 01, 2014 9:45:20 PM kodkod.multiobjective.algorithms.CheckpointedGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 3, Improving on [881]
+Feb 01, 2014 9:45:20 PM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/ZipMeSPL.totalFootprint) <= 881)
+	(sum(this/ZipMeSPL.totalFootprint) < 881)
+Feb 01, 2014 9:45:20 PM kodkod.multiobjective.algorithms.CheckpointedGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 3, Improving on [865]
+Feb 01, 2014 9:45:20 PM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/ZipMeSPL.totalFootprint) <= 865)
+	(sum(this/ZipMeSPL.totalFootprint) < 865)
+Feb 01, 2014 9:45:20 PM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+FINE: Found Pareto point with values: [865]
+Feb 01, 2014 9:45:20 PM kodkod.multiobjective.algorithms.CheckpointedGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found Pareto point with values: [865]
+Feb 01, 2014 9:45:21 PM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm debugWriteStatistics
+FINE: Solver statistics:
+	# Sat Call: 3
+	# Unsat Call: 2
+	# Total Time in Sat Calls: 3458
+	# Total Time in Sat Calls Solving: 96
+	# Total Time in Sat Calls Translating: 3362
+	# Total Time in Unsat Calls: 182
+	# Total Time in Unsat Calls Solving: 58
+	# Total Time in Unsat Calls Translating: 124
+	# Magnifier Sat Call: 0
+	# Magnifier Unsat Call: 0
+	# Total Time in Magnifier: 0

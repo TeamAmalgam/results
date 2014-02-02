@@ -1,0 +1,35 @@
+Feb 01, 2014 9:16:42 PM kodkod.multiobjective.algorithms.CheckpointedGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 1, Improving on [218]
+Feb 01, 2014 9:16:42 PM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/Apache.totalPerformance) >= 218)
+	(sum(this/Apache.totalPerformance) > 218)
+Feb 01, 2014 9:16:42 PM kodkod.multiobjective.algorithms.CheckpointedGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 1, Improving on [229]
+Feb 01, 2014 9:16:42 PM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/Apache.totalPerformance) >= 229)
+	(sum(this/Apache.totalPerformance) > 229)
+Feb 01, 2014 9:16:42 PM kodkod.multiobjective.algorithms.CheckpointedGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found a solution. At time: 1, Improving on [244]
+Feb 01, 2014 9:16:42 PM kodkod.multiobjective.MetricPoint parametrizedImprovementConstraints
+FINE: Possible Improvements are conjunction of 
+	(sum(this/Apache.totalPerformance) >= 244)
+	(sum(this/Apache.totalPerformance) > 244)
+Feb 01, 2014 9:16:42 PM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm foundParetoPoint
+FINE: Found Pareto point with values: [244]
+Feb 01, 2014 9:16:42 PM kodkod.multiobjective.algorithms.CheckpointedGuidedImprovementAlgorithm multiObjectiveSolveImpl
+FINE: Found Pareto point with values: [244]
+Feb 01, 2014 9:16:42 PM kodkod.multiobjective.algorithms.MultiObjectiveAlgorithm debugWriteStatistics
+FINE: Solver statistics:
+	# Sat Call: 3
+	# Unsat Call: 2
+	# Total Time in Sat Calls: 1646
+	# Total Time in Sat Calls Solving: 57
+	# Total Time in Sat Calls Translating: 1589
+	# Total Time in Unsat Calls: 77
+	# Total Time in Unsat Calls Solving: 9
+	# Total Time in Unsat Calls Translating: 68
+	# Magnifier Sat Call: 0
+	# Magnifier Unsat Call: 0
+	# Total Time in Magnifier: 0
